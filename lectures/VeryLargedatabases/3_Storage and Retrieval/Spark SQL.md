@@ -1,0 +1,1 @@
+A [[Apache Spark]] module for structured data processing. It provides a programming abstraction called [[DataFrames]] and can also act as a distributed [[SQL]] query engine. It enables unmodified [[Hadoop]] [[Apache Hive]] queries to run up to 100x faster on existing deployments and data.

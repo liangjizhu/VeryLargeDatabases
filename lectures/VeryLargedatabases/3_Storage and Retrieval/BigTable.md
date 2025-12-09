@@ -1,0 +1,1 @@
+A high-performance, scalable database that excels at capturing, processing and analysing data in real-time. It aggregates data as it's written, providing immediate insights into user behaviour, A/B testing results and engagement metrics.

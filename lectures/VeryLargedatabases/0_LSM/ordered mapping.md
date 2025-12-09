@@ -1,0 +1,1 @@
+A data structure that maintains the order of its [[key-value pairs]], unlike a standard map where the order is not guaranteed.

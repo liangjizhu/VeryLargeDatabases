@@ -1,0 +1,9 @@
+- [[JSON]] - Supported by browsers and [[JavaScript]]
+- [[XML]] - Complex data formats
+- [[CSV]] - Simple data format
+- Ambiguity in [[Encoding]] numbers / strings and int / float
+- Support for [[UNICODE]], but no support for binary strings (encode binary streams using text)
+- [[Schemas]] support for [[JSON]] and [[XML]]. Used in [[XML]], but skipped in [[JSON]]. Hard-Coded interpretation in the apps.
+- [[CSV]] has no [[Schemas]] support ?
+- [[JSON]], [[XML]] and [[CSV]] are good enough for many purposes
+- "The difficulty in getting organisations to agree on anything, outweights most others concerns"

@@ -1,0 +1,1 @@
+Stores data as objects, combining data (attributes) and behavior (methods) into single units, mirroring object-oriented programming (OOP) concepts like [[classes]], [[inheritance]] and [[encapsulation]] for complex data management, unlike traditional relational databases that use [[Tables]]

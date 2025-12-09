@@ -1,0 +1,1 @@
+Binary [[Serialization]] format used in some systems to represent structured data efficiently, similar in goal to binary [[JSON]] formats, but not a standard or widely adopted format.

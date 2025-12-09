@@ -1,0 +1,10 @@
+- Configuration errors by humans are the biggest cause of outages
+- Hardware faults 10-25 %
+- Software faults?
+- Well-Designed [[API]]s and administration of interfaces
+- [[Sandboxing]] for training using real data without destroying anyting
+- Testing: whole system testing, unit testing
+- Monitoring performance and errors
+- Training and management of systems
+- [[Automatic Computing]] is appearing slowly
+- Use of AI in management and configuration

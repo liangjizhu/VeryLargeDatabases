@@ -1,0 +1,1 @@
+The foundational level of database normalisation, requiring that each column (attribute) in a table holds only atomic (single, indivisible) values, with no repeating groups or lists within a single cell, ensuring each row is unique and columns contain data of a single type, making data organised, consistent and easier to manage. 

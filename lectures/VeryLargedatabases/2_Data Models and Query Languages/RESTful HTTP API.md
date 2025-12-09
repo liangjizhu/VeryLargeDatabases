@@ -1,0 +1,2 @@
+REpresentational State Transfer, an architectural style proposed by Roy Fielding in 2000. 
+A set of rules and conventions that allow different software systems to communicate with each other over the internet using the standard Hypertext Transfer Protocol (HTTP).

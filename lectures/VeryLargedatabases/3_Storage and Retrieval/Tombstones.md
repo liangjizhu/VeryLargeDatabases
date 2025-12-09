@@ -1,0 +1,1 @@
+Special markers left behind when a record is deleted, acting as placeholders to ensure consistency, especially in distributed systems, by telling other nodes a deletion happened, preventing conflicts, and allowing for eventual cleanup without immediately removing data, which is crucial for replication and eventual consistency before being physically purged.

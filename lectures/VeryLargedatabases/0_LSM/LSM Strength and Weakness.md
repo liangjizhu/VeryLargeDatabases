@@ -1,0 +1,5 @@
+- Superior write speed mainly due to large segments written to disk. The data structure of big data.
+- Good read performance on recent data (social media data).
+- Not so good read performance on old data, need to search through multiple [[Sorted String Table]].
+- Some trouble on performance when having peaks in write load as well
+- Searching for a non-existing key?

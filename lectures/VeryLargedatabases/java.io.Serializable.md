@@ -1,0 +1,1 @@
+Marker interface in Java that indicates an object can be serialized (converted to a byte stream) and deserialized.

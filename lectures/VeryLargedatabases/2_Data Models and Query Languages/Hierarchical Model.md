@@ -1,0 +1,1 @@
+A structured way to organise data or processes in a parent-child, tree-like format, representing different levels of abstraction or grouping

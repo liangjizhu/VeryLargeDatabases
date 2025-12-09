@@ -1,0 +1,8 @@
+- [[Concatenated index]] (LastName + FirstName)
+- Multiple dimensions ([[Spatial Index]])
+	- ![[Pasted image 20251208152010.png]]
+- Regular [[B-Trees]] don't support [[Spatial Index]]
+- [[Space-Filling-Curves]] (Z/Morton/Hilbert) could be stored within a [[B+-Trees]]
+- [[R-Trees]] have multiple dimensions built-in
+- Could be used for multiple dimensions in general (example: age and location)
+- [[R-Trees]] don't support fast inserts ([[BigData]])

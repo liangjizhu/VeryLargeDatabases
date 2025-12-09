@@ -1,0 +1,1 @@
+A special data structure, like a book's index, that lets the database find data rows quickly without scanning the whole table, dramatically speeding up SELECT [[query]] by using sorted key values and pointers to data locations, though it uses extra storage and slows down write operations. 

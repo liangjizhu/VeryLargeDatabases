@@ -1,0 +1,7 @@
+- Sort the records in [[Mem-table]] using some type of tree. [[SkipLists]] as in [[LevelDB]] or [[RocksDB]]
+- When [[Mem-table]] gets bigger than some threshold, write it as an [[Sorted String Table]] to disk
+- While writing [[Mem-table]], a new [[Mem-table]]  is used for inserts
+- At read, try [[Mem-table]], then [[Sorted String Table]] at disk...
+- Merge and compact [[Sorted String Table]]
+- Use [[Write-Ahead Log (WAL)]] in case of crash (and [[Mem-table]] is lost)
+- Log may be discarded when [[Mem-table]] is written to disk

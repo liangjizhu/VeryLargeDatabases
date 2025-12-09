@@ -1,0 +1,1 @@
+Describes how an [[Algorithm]]'s execution time grows with the size of its input, measuring efficiency by counting operations rather than actual seconds

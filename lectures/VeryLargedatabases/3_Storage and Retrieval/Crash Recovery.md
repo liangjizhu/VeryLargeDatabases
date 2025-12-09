@@ -1,0 +1,1 @@
+The essential process of restoring a database or system to a consistent, usable state after an unexpected failure (like power loss, hardware fault, or OS error) by undoing incomplete transactions and redoing/saving completed ones, primarily using mechanisms like [[Write-Ahead Log (WAL)]] and the [[ARIES algorithm]] to ensure data [[integrity]] and [[reliability]].

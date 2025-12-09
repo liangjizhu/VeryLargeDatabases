@@ -1,0 +1,1 @@
+Aggregates these pairs to produce a final result, making it possible to scale processing across thousands of servers for big data analytics.

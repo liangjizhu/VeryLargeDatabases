@@ -1,0 +1,2 @@
+Algorithms for Recovery and Isolation Exploiting Semantics
+A powerful database recovery algorithm by [[IBM]] that ensures data [[integrity]] after system crashes using [[Write-Ahead Log (WAL)]] and a three-phase recovery process (Analysis, Redo, Undo). It supports high concurrency with [[Fine-Grained Locking]] and partial rollbacks, efficiently restoring databases to a consistent state by "repeating history"—redoing all changes and then undoing only uncommitted ones.

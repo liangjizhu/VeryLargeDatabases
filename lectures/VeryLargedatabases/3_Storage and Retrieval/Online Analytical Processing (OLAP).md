@@ -1,0 +1,1 @@
+Software technology you can use to analyse business data from different points of view.

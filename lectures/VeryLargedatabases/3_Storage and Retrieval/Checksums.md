@@ -1,0 +1,1 @@
+A small, fixed-size value (like a digital fingerprint) calculated from a block of digital data (file, message) using an [[Algorithm]], used to detect accidental changes or corruption during storage or transmission; if the calculated checksum matches the original, the data is likely intact, but a mismatch signals an error, ensuring data [[integrity]]. 

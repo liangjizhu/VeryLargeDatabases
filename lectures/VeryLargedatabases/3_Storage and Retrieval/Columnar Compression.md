@@ -1,0 +1,1 @@
+A data storage method that groups similar data types from the same column together, rather than storing entire rows sequentially, drastically improving [[Compression]] ratios for analytical databases by exploiting data repetition.

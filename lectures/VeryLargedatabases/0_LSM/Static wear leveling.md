@@ -1,0 +1,1 @@
+Moves static blocks periodically. All parts of the disk will be worn out eventually

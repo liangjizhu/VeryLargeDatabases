@@ -1,0 +1,1 @@
+A distributed, [[fault]]-tolerant [[NoSQL]] [[key-value store]] database known for high availability, scalability and data resilience, built on [[Erlang]] for handling large-scale systems like web profiles, real-time big data and content management.

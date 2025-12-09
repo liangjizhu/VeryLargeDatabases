@@ -1,0 +1,4 @@
+- Avoid branching
+- Looping over L1 cache
+- [[Bitwise operations]] 
+- ...

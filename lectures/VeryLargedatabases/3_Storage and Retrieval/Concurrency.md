@@ -1,0 +1,1 @@
+The ability of a system to handle multiple tasks seemingly at the same time

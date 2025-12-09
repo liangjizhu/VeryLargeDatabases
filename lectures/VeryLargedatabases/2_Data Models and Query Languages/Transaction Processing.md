@@ -1,0 +1,1 @@
+A computing style that handles business operations by grouping activities into indivisible units called transactions, ensuring they either fully succeed or fully fail, never partially, to maintain data accuracy and integrity, like an ATM withdrawal or online purchase where money and goods must be exchanged perfectly.

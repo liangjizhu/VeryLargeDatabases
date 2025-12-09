@@ -1,0 +1,1 @@
+A concurrency strategy using a single, large lock to protect many related resources or a large code section, making it simple and less prone to deadlocks but reducing parallelism by forcing threads to wait unnecessarily; it's "one lock to rule them all," contrasting with [[Fine-Grained Locking]]'s multiple smaller locks for higher concurrency but increased complexity. 

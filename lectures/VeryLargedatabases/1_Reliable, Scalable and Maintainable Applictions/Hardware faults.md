@@ -1,0 +1,4 @@
+- Hard disks crash, faulty RAM, power outage...
+- Hard disks Mean Time To Failure: 10-50 years. Cluster of 10000 disks -> 1 disk dies every day
+- High [[availability]]: [[Redundancy]] vs [[Recovery]]?
+- System that can tolerate loss of entire machine, as an alternative to redundant hardware. Clusters

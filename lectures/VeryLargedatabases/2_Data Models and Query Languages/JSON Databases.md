@@ -1,0 +1,1 @@
+A type of [[NoSQL]] database that stores data as flexible, self-describing [[JSON]] documents, allowing for semi-structured data with dynamic schemas

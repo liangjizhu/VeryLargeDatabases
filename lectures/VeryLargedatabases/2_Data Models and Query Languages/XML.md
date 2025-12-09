@@ -1,0 +1,2 @@
+Extensible Markup Language
+A markup language that provides rules to define any data. Unlike other programming languages, XML cannot perform computing operations by itself. Instead, any programming language or software can be implemented for structured data management.

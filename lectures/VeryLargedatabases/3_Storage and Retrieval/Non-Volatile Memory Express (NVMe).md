@@ -1,0 +1,1 @@
+A new storage access and transport protocol for flash and next-generation [[SSDs]] that delivers the highest throughput and fastest response times yet for all types of enterprise workloads.

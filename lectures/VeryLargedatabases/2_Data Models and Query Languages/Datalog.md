@@ -1,0 +1,5 @@
+- Old model based on predicate logic:
+	- Predicate (subject, object)
+- ![[Pasted image 20251207205122.png]]
+- A rule applies if the system can find a match for all predicates on the righthand side
+- ![[Pasted image 20251207205207.png]]

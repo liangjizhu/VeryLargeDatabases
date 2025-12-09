@@ -1,0 +1,1 @@
+Representing data as human-readable text, typically using character [[Encoding]] like UTF-8 (e.g., JSON, XML, CSV).

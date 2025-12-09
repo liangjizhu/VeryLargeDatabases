@@ -1,0 +1,6 @@
+- Rotating, magnetic disks
+- Since 1956
+- Vast data at low cost
+- Huge access time not improved
+- 600 ms (5 ms today)
+- Throughput: 160 MB/s read, 180 MB/s write

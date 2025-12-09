@@ -1,0 +1,1 @@
+A core principle where an object's data (attributes) and the operations (methods or functions) that can be performed on that data are bundled together into a single, self-contained unit. 

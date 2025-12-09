@@ -1,0 +1,1 @@
+Software that manages relational databases, organising data into structured tables (relations) with rows and columns, allowing users to create, [[query]] (using SQL), update, and administer this data efficiently, ensuring data [[integrity]] through relationships defined by keys

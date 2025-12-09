@@ -1,0 +1,1 @@
+A memory management technique that reclaims and reorganises scattered memory blocks to create one large, contiguous block of free space.

@@ -1,0 +1,1 @@
+Sequential logic circuit with memory, storing one bit of data (a "0" or a "1")

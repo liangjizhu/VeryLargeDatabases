@@ -1,0 +1,1 @@
+A powerful problem-solving strategy that breaks a large, complex problem into smaller, more manageable subproblems, solves those independently, and then combines their solutions for the original problem.

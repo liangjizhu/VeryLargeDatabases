@@ -1,0 +1,2 @@
+- [[Document Databases]] target use cases where data comes in self-contained documents and relationships between one document and another are rare
+- [[Graph Databases]] go in the opposite direction, targeting use cases where anything is potentially related to everything

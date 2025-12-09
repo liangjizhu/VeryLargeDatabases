@@ -1,0 +1,1 @@
+Store everything in memory, but evicting the least recently used data item (record) to disk

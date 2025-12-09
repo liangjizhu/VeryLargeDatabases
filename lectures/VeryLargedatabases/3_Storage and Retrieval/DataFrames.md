@@ -1,0 +1,1 @@
+A data structure that organises data into a 2-dimensional table of rows and columns, much like a spreadsheet

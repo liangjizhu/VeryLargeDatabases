@@ -1,0 +1,2 @@
+REmote DIctionary Server
+An open source, in-memory, [[NoSQL]] [[key-value store]] that is used primarily as an application cache or quick-response database. Redis stores data in memory, rather than on a disk or solid-state drive ([[SSDs]]), which helps deliver unparalleled speed, reliability, and performance.

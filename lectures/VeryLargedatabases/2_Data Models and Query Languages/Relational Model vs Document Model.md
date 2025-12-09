@@ -1,0 +1,7 @@
+- [[SQL]] is based on [[Ted Codd]]'s [[Relational Model]] (1970)
+- [[Relations]] and [[Tuples]] are the [[Relational Model]]
+- [[Tables]], [[Columns]] and [[Rows]] in [[SQL]]
+- [[Business Data Processing]], [[Transaction Processing]] and [[Batch Processing]]
+- The big idea with [[SQL]] was to hide implementation detail
+- Older alternatives: [[Hierarchical Model]], [[Network Model]]
+- Alternative models: [[Object-Oriented Databases]], [[XML Databases]], [[JSON Databases]]

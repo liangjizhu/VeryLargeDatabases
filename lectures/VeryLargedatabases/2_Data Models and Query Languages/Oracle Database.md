@@ -1,0 +1,2 @@
+A widely used **commercial** [[Relational Database Management System (RDBMS)]] produced and marketed by the [[Oracle]].
+It is a fully configurable, scalable and secure solution designed for enterprise use, including [[Online Transaction Processing (OLTP)]] and [[Data Warehousing (DW)]] applications. 

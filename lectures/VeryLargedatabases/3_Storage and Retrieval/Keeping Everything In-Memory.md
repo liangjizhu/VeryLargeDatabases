@@ -1,0 +1,6 @@
+- Disks require careful layout to become performant
+- [[In-Memory Databases]]: [[MemCached]], [[VoltDB]], [[MemSQL]], [[Oracle TimesTen]]
+- [[RAMCloud]], [[Redis]] and [[Couchbase]] are [[Memory-Oriented]] 
+- They use a memory-based layout of data and not encoded for disk
+- ![[Anti-Caching]]
+- [[Non-Volatile Memory (NVM)]] could change the architecture of databases ? [[Non-Volatile Memory Express (NVMe)]]: Fast, parallel access to [[SSDs]]

@@ -1,0 +1,1 @@
+An open source, in-memory, [[key-value store]]. It is used for speeding up dynamic web applications with microseconds latency, making it useful as a cache or session store.

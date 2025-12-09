@@ -1,0 +1,1 @@
+A way to structure data using nodes (entities like people, places) and edges (relationships connecting nodes, like "friend of," "works at") to visually and intuitively map complex, interconnected information, ideal for analysing networks in social media, fraud detection, or recommendations

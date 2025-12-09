@@ -1,0 +1,1 @@
+A probabilistic data structure that organises sorted elements across multiple linked list layers, like express lanes, allowing for fast average O(log n) search, insertion and deletion, similar to balanced trees but with simpler algorithms, by using random "express pointers" to skip over elements in lower, more complete lists.

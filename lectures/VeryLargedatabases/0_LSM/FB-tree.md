@@ -1,0 +1,1 @@
+Variable sized blocks simulating [[Flash Translation Layer]]'s [[Garbage Collection]] algorithm (disk-aware algorithm).

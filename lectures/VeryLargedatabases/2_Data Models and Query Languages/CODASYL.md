@@ -1,0 +1,2 @@
+Conference on Data Systems Languages
+Was a crucial industry consortium, formed in 1959 by the U.S. Department of Defense, that standardised programming languages and database models, most famously giving birth to [[COBOL]] and defining the network database model, influencing early database systems like [[IDMS]]

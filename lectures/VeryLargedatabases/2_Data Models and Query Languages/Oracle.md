@@ -1,0 +1,1 @@
+An American multinational technology company, best known for its [[Oracle Database]] and its cloud computing services.

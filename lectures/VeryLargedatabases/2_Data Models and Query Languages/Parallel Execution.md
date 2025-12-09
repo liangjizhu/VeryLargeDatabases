@@ -1,0 +1,1 @@
+Running multiple tasks or parts of a single task simultaneously using multiple processing resources (cores, machines, threads) to drastically cut down overall time

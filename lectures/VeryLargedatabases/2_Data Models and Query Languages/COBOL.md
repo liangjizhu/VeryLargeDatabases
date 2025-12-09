@@ -1,0 +1,2 @@
+COmmon Business-Oriented Language
+A high-level, English-like programming language designed for business, finance, and administrative systems, known for its readability and ability to handle large-scale data processing, remaining critical for legacy applications in banking and government despite its age.

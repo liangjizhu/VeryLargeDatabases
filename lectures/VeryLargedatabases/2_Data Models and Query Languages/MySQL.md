@@ -1,0 +1,1 @@
+The world's most popular **open-source** [[Relational Database Management System (RDBMS)]] . It uses [[SQL]] to store, manage and retrieve data efficiently in a structured format using tables, rows and columns. 

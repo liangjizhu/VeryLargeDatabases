@@ -1,0 +1,2 @@
+Open Systems Interconnection
+A conceptual [[Framework]] that standardises network communication by dividing it into seven distinct layers, allowing different hardware and software from various vendors to work together seamlessly

@@ -1,0 +1,1 @@
+Fixed mapping from logical addresses to physical addresses

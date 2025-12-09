@@ -1,0 +1,1 @@
+A class of [[Relational Database Management System (RDBMS)]] that seek to provide the [[scalability]] of [[NoSQL]] systems for [[Online Transaction Processing (OLTP)]] workloads while maintaining the [[ACID]] guarantees of a traditional database system.

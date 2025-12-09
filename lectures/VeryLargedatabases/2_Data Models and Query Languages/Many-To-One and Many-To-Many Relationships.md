@@ -1,0 +1,4 @@
+- Standardised lists of geographic regions, industries...
+- Use ![[IDs]]
+- Relationships supported by [[Joins]] in [[SQL Databases]]
+- Weakly supported in [[Document-Oriented Databases]] ([[MongoDB]] / [[Apache CouchDB]])

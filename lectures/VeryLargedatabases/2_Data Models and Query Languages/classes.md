@@ -1,0 +1,1 @@
+A class serves as a blueprint or template for creating objects. It defines the common structure (attributes) and behavior (methods) that all objects belonging to that class will share. 

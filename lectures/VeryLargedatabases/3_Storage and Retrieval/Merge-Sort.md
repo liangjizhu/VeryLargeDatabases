@@ -1,0 +1,1 @@
+A highly efficient, recursive sorting [[Algorithm]] that uses the [[Divide-And-Conquer]] strategy: it repeatedly splits a list in half until each sublist has one element, then merges these sorted sublists back together to form the final sorted list, guaranteeing O(n log n) [[Time Complexity]], making it great for large datasets. 

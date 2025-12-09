@@ -1,0 +1,1 @@
+Language-neutral specification that defines data types and service interfaces so different systems and languages can communicate consistently.

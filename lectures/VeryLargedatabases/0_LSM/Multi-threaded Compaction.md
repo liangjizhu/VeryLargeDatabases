@@ -1,0 +1,1 @@
+A strategy to speed up the process of reorganising data in databases by using multiple threads to perform [[Compaction]] tasks concurrently, such as merging and writing files.

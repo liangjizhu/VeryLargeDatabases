@@ -1,0 +1,1 @@
+A data structure where rows are automatically arranged in a specific, meaningful order (like alphabetical or numerical) based on the values in one or more key columns, making data easier to read, analyse and access efficiently, especially for range queries.

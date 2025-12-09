@@ -1,0 +1,1 @@
+Complex to [[Scaling Out (Horizontal Scaling)]], databases.

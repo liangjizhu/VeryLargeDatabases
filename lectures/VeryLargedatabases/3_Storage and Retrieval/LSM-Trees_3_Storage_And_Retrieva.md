@@ -1,0 +1,7 @@
+- [[LevelDB]] (Google) and [[RocksDB]] (Facebook) are [[LSM-Trees]] based [[key-value store]] engines
+- [[Riak]] may use [[RocksDB]] as an alternative to [[Bitcask]]
+- [[Cassandra]] and [[Apache HBase]] use [[LSM-Trees]]
+- Inspired by [[Log-Structured File Systems]] ([[Ousterhout]])
+- Google made [[BigTable]]
+- [[Bloom filters]] are used within each [[Mem-table]] and [[Sorted String Table]] to easily filter out requests to non-existing keys
+- [[Compaction]] and merge: [[Size-Tiered]] and [[Level-Tiered]]

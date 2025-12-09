@@ -1,0 +1,1 @@
+A foundational structure, like a blueprint or skeleton, that provides reusable components, tools and guidelines to build something, especially software, more efficiently by handling common tasks so developers focus on unique features.

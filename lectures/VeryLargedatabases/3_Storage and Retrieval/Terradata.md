@@ -1,0 +1,1 @@
+An American software company that provides cloud database and analytics-related software, products, and services.

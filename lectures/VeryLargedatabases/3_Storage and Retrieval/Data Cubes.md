@@ -1,0 +1,1 @@
+Tools for managing multidimensional data in data analysis, such as in [[Business Intelligence (BI)]]

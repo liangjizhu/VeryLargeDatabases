@@ -1,0 +1,1 @@
+A way to represent interconnected entities (nodes) and their relationships (links/edges) as a graph, used in fields like computing ([[OSI]], [[TCP or IP]] for communication layers) and databases (flexible data relationships) to structure information, analyse connections, and manage complex systems like infrastructure or software

@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "e49c4a8b332a7366",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b99b3d69f815b75",
+        "type": "tabs",
+        "dimension": 50.158328055731474,
+        "children": [
+          {
+            "id": "88fbc2824a5a3e9f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/4_Encoding and Evolution.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4_Encoding and Evolution"
+            }
+          },
+          {
+            "id": "b18a7f5e12aa8bc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "book/Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann (z-lib.org).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann (z-lib.org)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "36f6c3bd0c22f8cb",
+        "type": "tabs",
+        "dimension": 49.841671944268526,
+        "children": [
+          {
+            "id": "9cd6ec5b1c73bfa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Encoding and Evolution/4_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4_Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4222c24b30c8cd95",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb79f1b0a58f3a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07f92a14e259aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bef4f45fe74d41b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c718903239e6c7b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "42bc2745d06dc5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "febf902444488b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6351b3526d6d3795",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wear leveling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wear leveling"
+            }
+          },
+          {
+            "id": "bbe4645495f24471",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "899cf48697e2c5b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1116fbfd976ede2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b7fe98f6c4e7812a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "8f5ce6107da4e07b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "22c5b6de40ff46c8",
+        "type": "window",
+        "children": [
+          {
+            "id": "f72793016dd8c721",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1afe73e4e0cc4e3",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 394,
+        "y": 202,
+        "width": 716,
+        "height": 777,
+        "maximize": true,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "d1afe73e4e0cc4e3",
+  "lastOpenFiles": [
+    "4_Encoding and Evolution/4_Index.md",
+    "Web Services.md",
+    "WSDL.md",
+    "SOAP.md",
+    "2_Data Models and Query Languages/RESTful HTTP API.md",
+    "Dataflow through Services REST or RPC.md",
+    "AJAX.md",
+    "SSL or TLS.md",
+    "URLs.md",
+    "HTTP.md",
+    "JavaScript.md",
+    "2_Data Models and Query Languages/CSS.md",
+    "HTML.md",
+    "Microservice Architectures.md",
+    "Dataflow through Databases.md",
+    "Pasted image 20251209174933.png",
+    "Advantages of Using Schema.md",
+    "3_Storage and Retrieval/Schemas.md",
+    "Compile-Time Type Checking.md",
+    "Reader's and Writer's Schema.md",
+    "Pasted image 20251209174347.png",
+    "Apache Avro.md",
+    "Pasted image 20251209174210.png",
+    "Schema Evolution.md",
+    "Thrift and Protocol Buffers.md",
+    "Protocol Buffers.md",
+    "Pasted image 20251209173805.png",
+    "Apache Thrift.md",
+    "Thrift's CompactProtocol.md",
+    "Pasted image 20251209173740.png",
+    "Thrift's BinaryProtocol.md",
+    "Pasted image 20251209173714.png",
+    "Pasted image 20251209173456.png",
+    "Pasted image 20251209173102.png",
+    "Pasted image 20251209172156.png",
+    "Resources/4_Encoding and Evolution.pdf",
+    "Resources/10_Time and global states.pdf",
+    "Resources/9_Consistency and Consensus.pdf",
+    "Resources/8_The Trouble with Distributed Systems.pdf",
+    "Resources/7_Transactions.pdf",
+    "Resources/6_Partitioning.pdf",
+    "Resources/5_Replication.pdf",
+    "Resources/5_Clustras Virtual Partition Protocol.pdf",
+    "4_Encoding and Evolution",
+    "Resources/3_Storage and Retrieval.pdf",
+    "3_Storage and Retrieval/Pasted image 20251209164903.png",
+    "3_Storage and Retrieval/Untitled.canvas"
+  ]
+}

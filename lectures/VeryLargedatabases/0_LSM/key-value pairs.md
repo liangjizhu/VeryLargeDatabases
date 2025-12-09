@@ -1,0 +1,1 @@
+A fundamental data structure where a unique key is associated with a specific value

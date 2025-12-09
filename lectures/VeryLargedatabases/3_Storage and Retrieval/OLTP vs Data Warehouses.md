@@ -1,0 +1,5 @@
+- [[Data Warehousing (DW)]] use [[SQL]], but may have other storage backends usings other types of indexes
+- [[Column Stores]] vs [[Row Stores]]
+- Microsoft [[SQL Server]] and [[SAP Hana]] support both [[Online Transaction Processing (OLTP)]] and [[Online Analytical Processing (OLAP)]] ([[Hybrid Transactional Analytical Processing (HTAP)]])
+- [[Terradata]], [[Vertica]], [[ParAccel]], [[SAP Hana]] sell commercial [[Data Warehousing (DW)]]
+- [[DuckDB]], [[Apache Hive]], [[Spark SQL]], [[Cloudera Impala]], [[Facebook Presto]]... are open source alternatives

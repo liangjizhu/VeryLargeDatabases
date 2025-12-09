@@ -1,0 +1,1 @@
+A JOIN clause is used to combine rows from two or more tables based on a related column or logical relationship between them.

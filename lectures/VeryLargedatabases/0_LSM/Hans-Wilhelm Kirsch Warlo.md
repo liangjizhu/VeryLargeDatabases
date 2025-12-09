@@ -1,0 +1,1 @@
+A Norwegian technology professional currently working as Head of Engineering at Installer.com

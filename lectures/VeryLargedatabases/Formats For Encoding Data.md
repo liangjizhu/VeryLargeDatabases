@@ -1,0 +1,11 @@
+- In memory, data is kept in objects, structs, lists, arrays, hash tables, trees... Use pointers
+- When writing to a file or sending it over the network: Self-Contained sequence of bytes. No direct pointers.
+- [[Encoding]]/[[Decoding]], [[Marshalling]]/[[Unmarshalling]], [[Serialization]]/[[Deserialization]]: Sending and receiving data
+- Built-in language support:
+	- [[Java]] has [[java.io.Serializable]]
+	- [[Ruby]] has [[Marshal]]
+	- [[Python]] has [[Pickle]]
+- Tied to a particular programming language
+- [[Decoding]] may cause security problems due to arbitrary code has to be installed. (Example: Instantiate a class in the class path)
+- [[Versioning]] ?
+- Performance ?

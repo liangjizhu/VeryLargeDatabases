@@ -1,0 +1,1 @@
+A distributed, highly-scalable [[SQL]] database that can run anywhere. Maximum performance for transactional and analytical workloads with familiar [[Relational Model]]. [[MemSQL]] is a scalable [[SQL]] database that ingests data continuously to perform operational analytics for the front lines of your business.

@@ -1,0 +1,4 @@
+- When all computers run the same software, errors may be correlated
+- [[N-Version programming]]: different software on each computer?
+- Software faults may be inactive for long times and may be triggered by a special situation?
+- Systematic kill and restart may be a solution

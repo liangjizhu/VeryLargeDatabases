@@ -1,0 +1,1 @@
+Software that acts as an interface to manage databases, allowing users and applications to easily create, store, retrieve, update and delete large amounts of structured data efficiently and securely, ensuring data integrity, consistency and controlled access.

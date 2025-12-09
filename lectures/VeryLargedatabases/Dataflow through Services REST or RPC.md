@@ -1,0 +1,7 @@
+- Clients and servers: Servers expose services using [[API]]
+- Web browser and servers:
+	- GET to download [[HTML]], [[CSS]], [[JavaScript]], images...
+	- POST to submit data
+- [[API]] uses standard formats: [[HTTP]], [[URLs]], [[SSL or TLS]], [[HTML]]...
+- Applications may also use these protocols and standards ([[AJAX]])
+- ![[Microservice Architectures]]

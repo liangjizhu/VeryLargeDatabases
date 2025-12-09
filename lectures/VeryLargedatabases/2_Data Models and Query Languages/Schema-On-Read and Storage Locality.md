@@ -1,0 +1,6 @@
+- Good when there are many different types of objects
+- Structure of objects determined by external systems (you have no control)
+- When all objects are expected to have the same format, [[Schema-On-Read]] is not advantageous
+- A document is usually stored as a single continuous string ([[JSON]], [[BSON]], [[XML]])
+- Gives [[Locality]] when needing to access the whole document
+- [[SQL Databases]] have recently acquired support for [[XML]] and [[JSON]]. Making [[SQL Databases]] and [[Document-Oriented Databases]] similar

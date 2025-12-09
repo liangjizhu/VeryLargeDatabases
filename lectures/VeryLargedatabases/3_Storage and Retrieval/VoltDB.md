@@ -1,0 +1,1 @@
+A [[NewSQL OLTP]] [[Relational Database]] that supports [[SQL]] access from within pre-compiled [[Java]] stored procedures. While direct [[SQL]] access is supported, the most efficient form of interaction is using stored procedure calls, as it involves fewer network trips.

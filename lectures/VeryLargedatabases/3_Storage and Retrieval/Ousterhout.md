@@ -1,0 +1,1 @@
+Ousterhout's dichotomy is computer scientist John Ousterhout's categorisation that high-level programming languages tend to fall into two groups, each with distinct properties and uses: system programming languages and scripting languages – compare programming in the large and programming in the small.

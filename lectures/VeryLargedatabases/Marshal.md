@@ -1,0 +1,1 @@
+In Ruby, objects are serialised using Marshal

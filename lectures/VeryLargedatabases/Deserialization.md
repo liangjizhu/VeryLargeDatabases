@@ -1,0 +1,1 @@
+Process of converting serialized data (bytes) back into data structures or objects.

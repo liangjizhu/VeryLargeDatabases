@@ -1,0 +1,1 @@
+A demanding operation that requires significant processing power from CPU to perform complex calculations, leading to high CPU utilisation and potentially slowing down other tasks. Examples: video rendering, data compression, complex simulations, gaming and running intricate algorithms, where the work is primarily done by the CPU rather than memory or disk. 

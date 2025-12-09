@@ -1,0 +1,2 @@
+Periodically crunch a large amount of accumulated data
+A method of running high-volume, repetitive data jobs in groups (batches) at scheduled intervals, without direct user interaction, to efficiently handle large tasks like payroll, billing or backups during off-peak hours, optimising resource use and cost for tasks that don't require real-time results. 

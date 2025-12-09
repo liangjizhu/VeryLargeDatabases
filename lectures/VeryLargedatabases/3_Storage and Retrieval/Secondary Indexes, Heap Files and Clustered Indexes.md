@@ -1,0 +1,5 @@
+- [[Secondary Indexes]] may be created. Often, they are not unique. Must store multiple values per search key.
+- A value here is either a pointer ([[RecordPtr]]) or another key
+- [[Heap File]] store records in insert order, and indexes are used to provide uniqueness and quick access
+- Often, records are stored within the index itself ([[Clustered Index]])
+- [[MySQL]], [[InnoDB]] and [[Tables]] in [[SQL Server]] use clustered [[B+-Trees]]

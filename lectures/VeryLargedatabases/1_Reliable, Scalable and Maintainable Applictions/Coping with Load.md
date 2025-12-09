@@ -1,0 +1,5 @@
+- ![[Scaling Up (Vertical Scaling)]]
+- ![[Scaling Out (Horizontal Scaling)]]
+- ![[Stateless Services]]
+- ![[Stateful Services]]
+- ![[Sharding or Partitioning]]

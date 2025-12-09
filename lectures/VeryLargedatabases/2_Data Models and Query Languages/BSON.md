@@ -1,0 +1,2 @@
+Binary [[JSON]]
+A binary-encoded format for storing and exchanging [[JSON]]-like documents, used primarily by [[MongoDB]] for efficient storage, fast traversal and network transfer, adding richer data types (like dates, binary data) and type/length info for better performance than plain text [[JSON]].

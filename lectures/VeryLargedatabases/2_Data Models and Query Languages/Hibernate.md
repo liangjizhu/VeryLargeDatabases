@@ -1,0 +1,1 @@
+A popular, **open-source** [[Object-Relational Mapping]] [[Framework]] for [[Java]]

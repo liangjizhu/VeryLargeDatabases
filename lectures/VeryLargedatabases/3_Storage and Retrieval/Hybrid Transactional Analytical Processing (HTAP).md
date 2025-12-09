@@ -1,0 +1,1 @@
+An emerging application architecture that "breaks the wall" between transaction processing and analytics. It enables more informed and "in business real time" decision making.

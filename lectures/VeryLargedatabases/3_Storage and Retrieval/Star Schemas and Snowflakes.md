@@ -1,0 +1,2 @@
+-  [[Star Schemas]] or [[Dimensional Modeling]]
+- ![[Snowflakes]] ![[Pasted image 20251209163944.png]]

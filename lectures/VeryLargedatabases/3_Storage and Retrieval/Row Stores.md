@@ -1,0 +1,1 @@
+A database storage method that organises data by rows, storing all fields of a record together

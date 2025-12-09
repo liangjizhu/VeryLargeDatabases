@@ -1,0 +1,1 @@
+The systematic conversion of raw, messy data (like sales figures, customer feedback or website clicks) into organised, valuable information (reports, charts, trends) to help companies make smarter decisions, boost efficiency and gain a competitive edge, involving steps like collecting, cleaning, analysing, storing and presenting data

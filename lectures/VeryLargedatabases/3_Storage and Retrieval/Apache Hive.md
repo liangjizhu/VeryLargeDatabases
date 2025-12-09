@@ -1,0 +1,1 @@
+A distributed, fault-tolerant [[Data Warehousing (DW)]] system that enables analytics at a massive scale. A data warehouse provides a central store of information that can easily be analysed to make informed, data driven decisions. Hive allows users to read, write, and manage petabytes of data using [[SQL]].

@@ -1,0 +1,13 @@
+- Technology and tasks
+	- [[Data-intensive]] applications as opposed to [[CPU-intensive]]
+	- ![[Databases]]
+	- ![[Caches]]
+	- ![[Search Indexes]]
+	- ![[Stream Processing]]
+	- ![[Batch Processing]]
+- Architecture
+![[Pasted image 20251206150047.png]]
+- Three desired properties:
+	- ![[Reliability]]
+	- ![[Scalability]]
+	- ![[Maintainability]]

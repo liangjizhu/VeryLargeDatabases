@@ -1,0 +1,1 @@
+Links two [[Tables]] where records in one table can connect to multiple records in the other, and vice versa

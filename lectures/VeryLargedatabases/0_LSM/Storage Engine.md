@@ -1,0 +1,1 @@
+The core software component of a database that manages how data is physically stored, retrieved, updated and deleted (CRUD)

@@ -1,0 +1,1 @@
+Process of converting data structures or objects into a linear format (bytes) for storage or transmission.

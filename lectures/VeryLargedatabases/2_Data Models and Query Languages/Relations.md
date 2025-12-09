@@ -1,0 +1,1 @@
+Also known as a table or file, is a subset of the Cartesian product of a list of domains characterised by a name.

@@ -1,0 +1,10 @@
+- [[MapReduce]] is a query concept popularised by Google
+- [[MongoDB]] also supports a form of [[MapReduce]]
+- In [[SQL]]
+	- ![[Pasted image 20251207203129.png]]
+- [[MongoDB]]
+	- ![[Pasted image 20251207203147.png]]
+- [[Map]] and [[Reduce]] may only use data that is passed to them as input
+- They cannot have side-effects
+- [[Low-Level Programming Model]] for distributed execution on clusters
+- [[SQL]] may be run distributed and in parallel and may be optimised

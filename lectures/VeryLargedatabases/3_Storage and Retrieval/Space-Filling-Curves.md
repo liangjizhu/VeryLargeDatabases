@@ -1,0 +1,1 @@
+A line that gets squiggled around and bent until it fills a 2-dimensional region, in this case a square. (There are 3-dimensional space-filling curves as well, and 4-dimensional and so on. A line can fill as much space as you give it!)

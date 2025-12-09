@@ -1,0 +1,1 @@
+A security technique creating an isolated "sandbox" environment to run not trusted code or apps safely, preventing them from affecting the main system.

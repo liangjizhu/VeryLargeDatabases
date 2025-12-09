@@ -1,0 +1,3 @@
+- ![[Imperative Query]]
+- ![[Declarative Query]]
+- [[SQL]] gives room for optimisations and [[Parallel Execution]] (using indexes)

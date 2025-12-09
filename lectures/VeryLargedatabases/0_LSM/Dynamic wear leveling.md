@@ -1,0 +1,1 @@
+At updates, the old block is marked as invalid and the block is relocated

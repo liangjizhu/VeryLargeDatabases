@@ -1,0 +1,1 @@
+A [[NoSQL]] database that uses nodes (entities) and edges (relationships) to store data as a connected network, focusing on the relationships between data points rather than rigid [[Tables]], making it ideal for complex, interconnected data like [[social networks]], [[fraud detection]] or [[recommendation engines]].

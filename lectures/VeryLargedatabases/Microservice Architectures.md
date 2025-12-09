@@ -1,0 +1,1 @@
+Decompose a large application into smaller services by area of functionality

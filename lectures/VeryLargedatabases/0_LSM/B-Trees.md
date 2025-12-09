@@ -1,0 +1,6 @@
+A self-balancing tree data structure that organises data for efficient searching, insertion and deletion, commonly used in databases and file systems. Unlike a [[Binary Search Tree]], each node in a B-tree can have multiple keys and children, making it a "height-balanced m-way tree". Its structure is optimised for systems where data is stored on disk, ensuring that every search follows a path to a leaf node, making operations faster by reducing the number of disk reads.
+
+Differences between b tree and [[B+-Trees]]:
+- The main difference is that B+ trees store all data in the leaf nodes, which are linked together, while B trees store both keys and data in both internal and leaf nodes. 
+- This makes B+ trees more efficient for database and disk-based applications because they optimise for sequential access and faster range queries by having internal nodes act as pure indexes. 
+- B trees have faster search performance if the data is located in an internal node but are less efficient for range scans. 

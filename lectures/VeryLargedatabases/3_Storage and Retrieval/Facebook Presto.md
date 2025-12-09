@@ -1,0 +1,1 @@
+An open source distributed [[SQL]] query engine created by Facebook developers to run interactive analytics against large volumes of data

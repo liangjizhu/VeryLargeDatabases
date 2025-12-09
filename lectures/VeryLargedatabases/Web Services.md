@@ -1,0 +1,11 @@
+- Is when [[HTTP]] is used as the underlying protocol for talking to the service
+	- An app uses [[HTTP]] to access a server over the Internet
+	- Services within an organization uses [[HTTP]] to communicate
+	- Services used between organizations (example: credit card processing)
+- [[RESTful HTTP API]] - A design philosophy - RESTful interfaces
+	- Using HTTP for cache control, authentication...
+	- [[URLs]] to describe resources
+	- Focuses on code generation and use of tools
+- [[SOAP]] - Based on XML and its [[API]] is described by [[WSDL]] 
+	- Complex and not human-readable, thus tools are used
+	- Used in and between large organizations

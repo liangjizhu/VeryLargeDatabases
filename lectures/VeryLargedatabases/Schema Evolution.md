@@ -1,0 +1,5 @@
+- [[Apache Thrift]] / [[Protocol Buffers]] use [[Schemas]] and fields are identified with tag numbers
+- Field names may change and new fields mat be added, but they must be optional or have a default value
+- Optional fields may be removed
+- Changing datatypes may be possible, check the documentation
+- [[Protocol Buffers]] has a repeated field instead of arrays

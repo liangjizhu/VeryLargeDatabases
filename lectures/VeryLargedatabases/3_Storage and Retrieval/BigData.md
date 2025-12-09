@@ -1,0 +1,1 @@
+Extremely large and diverse collections of structured, unstructured and semi-structured data that continues to grow exponentially over time. These datasets are so huge and complex in volume, velocity and variety, that traditional data management systems cannot store, process and analyse them.

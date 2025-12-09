@@ -1,0 +1,1 @@
+When the Garbage Collector has too much to do, writes happen more often than erase operations. SSD has a reserved area where the garbage collector could put writes at high peaks periods (7-28% of disk).

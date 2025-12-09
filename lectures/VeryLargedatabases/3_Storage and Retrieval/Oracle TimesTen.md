@@ -1,0 +1,1 @@
+A lightweight, fully persistent and highly available in-memory [[Relational Database]] that delivers microsecond response and high throughput for [[Online Transaction Processing (OLTP)]] applications.

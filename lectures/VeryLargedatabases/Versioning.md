@@ -1,0 +1,1 @@
+Practice of managing changes to data formats, [[Schemas]] or APIs over time while maintaining compatibility.

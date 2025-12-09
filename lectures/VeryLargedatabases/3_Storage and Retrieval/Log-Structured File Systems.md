@@ -1,0 +1,1 @@
+Writes all new information to disk in a sequential structure called the log. This approach increases write performance dramatically by eliminating almost all seeks.

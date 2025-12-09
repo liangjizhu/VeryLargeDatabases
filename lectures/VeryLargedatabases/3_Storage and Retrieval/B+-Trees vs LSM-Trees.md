@@ -1,0 +1,7 @@
+- Writes faster for [[LSM-Trees]] due to low [[Write Amplification]]
+- Reads faster for [[B+-Trees]]
+- [[B+-Trees]] must write pages even if only a few bytes are updated
+- [[LSM-Trees]] can provide a higher write throughput due to larger write units and [[Sequetial Writes]]
+- [[LSM-Trees]] can be [[Compression]] better due to larger units
+- [[Compaction]] in [[LSM-Trees]] may interfere with ongoing reads and writes
+- There is no quick and easy rule: You have to test which is best for you

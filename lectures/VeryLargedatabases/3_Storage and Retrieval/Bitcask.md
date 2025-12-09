@@ -1,0 +1,1 @@
+A high-performance, append-only, log-structured hash table for fast [[key-value store]], originally developed as the default storage engine for the Riak database.

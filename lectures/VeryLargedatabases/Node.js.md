@@ -1,0 +1,1 @@
+Runtime environment that allows [[JavaScript]] to run outside the browser, commonly used for server-side and distributed applications.

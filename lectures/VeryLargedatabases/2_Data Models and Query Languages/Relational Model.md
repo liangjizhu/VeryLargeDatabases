@@ -1,0 +1,1 @@
+A way to organize data into related [[Tables]] (relations) with [[Rows]] (records) and [[Columns]] (attributes), allowing complex data to be stored, accessed and linked logically, separate from physical storage, using a common language like [[SQL]] for management.

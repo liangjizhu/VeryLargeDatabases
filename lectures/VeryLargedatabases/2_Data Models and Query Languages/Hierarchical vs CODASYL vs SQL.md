@@ -1,0 +1,4 @@
+- [[IBM]]'s [[IMS System]] was hierarchical and had the same problems as the [[Document Model]]
+- [[CODASYL]], the [[Network Model]], allowed pointers between records. Access paths and cursors iterated over collections and pointers
+- [[SQL]] uses a [[Query Compiler]] and [[Query Optimiser]] to automatically decide how to execute a [[query]]
+- [[SQL]] allows arbitrary relationships using [[Joins]]

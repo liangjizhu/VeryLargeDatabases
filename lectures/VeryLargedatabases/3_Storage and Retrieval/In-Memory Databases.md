@@ -1,0 +1,1 @@
+A purpose-built database that relies primarily on internal memory for data storage. It enables minimal response times by eliminating the need to access standard disk drives ([[SSDs]]).

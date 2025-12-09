@@ -1,0 +1,1 @@
+Process of converting encoded data back into its original, usable form.

@@ -1,0 +1,2 @@
+RLE
+A simple, lossless data compression method that replaces consecutive, identical data elements (runs) with a single instance of the data value and a count of its occurrences, making files smaller when there are many repeated patterns, like in simple graphics (e.g., "AAABBCDDDD" becomes "3A2B1C4D").

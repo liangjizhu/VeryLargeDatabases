@@ -1,0 +1,1 @@
+A modern, embedded analytics database designed for efficient processing and querying of gigabytes of data from various sources. It functions as an embeddable [[SQL]] [[Online Analytical Processing (OLAP)]] database management system.

@@ -1,0 +1,5 @@
+- The basic function of a database is to **store** data and later you could **retrieve** it
+- Basic storage + indexes ([[Heap File]] + index)
+- To speed up retrieval -> indexing
+- Indexes speed up queries, but slow down writes
+- Thus, the application developer or the database administrator choose which indexes to be created based on the application and [[query]] pattern

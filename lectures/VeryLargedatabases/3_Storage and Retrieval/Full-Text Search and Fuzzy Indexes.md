@@ -1,0 +1,4 @@
+- Inverted index to support full-text search
+- Many search engine support database-like functionality, [[Schemas]] ([[ElasticSearch]])
+- They often have a very [[Coarse-Grained Locking]] update policy (merge in a new index into a bigger one)
+- [[Apache Lucene]] allows searches with [[Edit-Distance]] (misspelled words and other linguistic tricks, synonyms)

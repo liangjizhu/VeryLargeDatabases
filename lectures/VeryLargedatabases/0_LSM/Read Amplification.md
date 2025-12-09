@@ -1,0 +1,1 @@
+The phenomenon where a storage system must read more data from the disk than what the user requested. This occurs when a [[query]] requires data from multiple files or data structures, often due to how data is organised in systems like [[LSM-Trees]]. 

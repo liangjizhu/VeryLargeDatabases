@@ -1,0 +1,6 @@
+- ![[Vectorized Processing]]
+- Sorting rows according to date ? Typical for queries
+- Store the same data in different sort orders ([[Vertica]])
+- Writing to a [[Column Stores]]: use a write store, which further distributes data to columns through merge operations (similar to [[LSM-Trees]] levels)
+- ![[Materialized Aggregates]]
+- ![[Materilized Views]]

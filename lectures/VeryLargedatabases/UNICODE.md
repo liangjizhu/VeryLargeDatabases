@@ -1,0 +1,1 @@
+Universal character encoding standard that assigns a unique code point to characters from almost all writing systems, ensuring consistent text representation across systems.

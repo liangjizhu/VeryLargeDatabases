@@ -1,0 +1,1 @@
+The principle that programs tend to access data and instructions that are near each other in memory, either in time ([[Temporal Locality]]) or space ([[Spatial Locality]]), making caching and memory hierarchy effective for performance.

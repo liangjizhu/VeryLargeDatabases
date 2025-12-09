@@ -1,0 +1,10 @@
+The system should work correctly even in the face of errors (software, hardware and human errors)
+- ![[Faults]]
+- ![[Fault-Tolerant or Resilient]]
+- ![[Failure]]
+- ![[Exercise Fault Tolerance]]
+- [[Prevention]] vs [[Cure of Faults]]
+- [[Recovery-Oriented Computing (ROC)]] vs [[Replication]]
+![[Hardware faults]]
+![[Software Errors]]
+![[Human Errors]]

@@ -1,0 +1,1 @@
+A way of storing data as sequences of 0s and 1s (bits), representing on/off electrical states, making it efficient for computers to process complex data like programs, images or videos, unlike human-readable text files.

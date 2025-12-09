@@ -1,0 +1,1 @@
+Microsoft's [[Relational Database Management System (RDBMS)]] that stores, manages, and retrieves data for various applications using [[SQL]] , specifically [[Transact-SQL (T-SQL)]], handling everything from basic data storage to complex business intelligence and analytics across Windows, Linux and cloud platforms.

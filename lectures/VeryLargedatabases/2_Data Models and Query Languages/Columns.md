@@ -1,0 +1,1 @@
+A vertical arrangement of data within a [[Tables]] (or "[[Relations]]") that defines a specific type of information, also known as an attribute or field

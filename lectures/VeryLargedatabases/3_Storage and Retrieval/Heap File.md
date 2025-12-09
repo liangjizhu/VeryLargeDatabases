@@ -1,0 +1,1 @@
+An unordered collection of data records stored on disk pages, where new records are simply appended without regard to order, making insertions fast but searches/retrievals potentially slow (requiring a full scan)

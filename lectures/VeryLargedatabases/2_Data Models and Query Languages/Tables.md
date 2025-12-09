@@ -1,0 +1,1 @@
+A structured collection of data organised into [[Rows]] and [[Columns]]

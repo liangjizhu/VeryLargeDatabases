@@ -1,0 +1,1 @@
+Describes applications or systems focused on processing, managing and analysing massive, complex datasets, where the volume of data (terabytes to petabytes) is the primary challenge, requiring parallel processing, high I/O (Input/Output) and scalable architectures over raw CPU power for tasks like big data analytics, machine learning or real-time recommendations.

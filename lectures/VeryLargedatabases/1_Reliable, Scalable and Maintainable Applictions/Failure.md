@@ -1,0 +1,1 @@
+When the whole system providing service fails

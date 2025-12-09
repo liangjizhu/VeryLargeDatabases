@@ -1,0 +1,16 @@
+- In-memory hash map + disk
+	- ![[Pasted image 20251207233044.png]]
++ [[Compaction]]
+	- ![[Pasted image 20251207233103.png]]
+- ![[Merging + Compaction]]
+- Details:
+	- File format: [[Binary Formats]] ? Better than CSV.
+	- Deleting records ([[Tombstones]])
+	- [[Crash Recovery]]: rebuild hash index. [[Bitcask]] stores a snapshot of the [[HashMap]] on disk
+	- Partially written records. Use [[Checksums]]. [[Flip or Flop]] on blocks.
+	- [[Concurrency Control]]. Append only helps.
+	- [[Append only]] (vs [[In-Place Update]])
+		- [[Sequetial Writes]]
+		- [[Concurrency]] and [[Crash Recovery]] become easier
+		- Merging prevents fragmentation
+	- [[HashMap]] must fit in-memory and range [[query]] are problematic

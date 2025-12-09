@@ -1,0 +1,1 @@
+Process of transforming in-memory data structures into a format suitable for storage or transmission (and back).

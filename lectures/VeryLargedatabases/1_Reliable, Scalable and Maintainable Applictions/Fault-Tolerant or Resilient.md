@@ -1,0 +1,1 @@
+Can tolerate certain types of [[Faults]]

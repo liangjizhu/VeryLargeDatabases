@@ -1,0 +1,4 @@
+- More compact since they don't use field names
+- [[Schemas]] are documentation
+- Database of [[Schemas]] keep version history for backward and forward compatibility
+- For users of statically typed languages, the use of [[Schemas]] make [[Compile-Time Type Checking]] possible

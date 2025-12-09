@@ -1,0 +1,1 @@
+High-level, interpreted programming language primarily used to add logic and interactivity to web pages, and also widely used on servers and distributed systems ([[Node.js]]).

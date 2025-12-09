@@ -1,0 +1,1 @@
+A step-by-step set of instructions or rules designed to solve a problem or perform a task, transforming input data into a desired output, common in computing for processes like sorting or searching, but also present in daily life, such as following a recipe.

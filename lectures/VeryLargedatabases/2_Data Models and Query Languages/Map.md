@@ -1,0 +1,1 @@
+Processes input data into intermediate [[key-value pairs]]

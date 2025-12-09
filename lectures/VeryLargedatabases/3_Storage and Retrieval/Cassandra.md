@@ -1,0 +1,1 @@
+An early [[NoSQL]] database with a hybrid design between a tabular and [[key-value store]]. It's designed to store data for applications that require fast read and write performance

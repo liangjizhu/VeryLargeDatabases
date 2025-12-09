@@ -1,0 +1,1 @@
+An **open-source** [[framework]] that simplifies the development and efficiency of data analytics jobs. It supports a wide range of API and language choices with over 80 data transformation and action operators that hide the complexity of cluster computing.

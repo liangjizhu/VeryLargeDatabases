@@ -1,0 +1,1 @@
+An **open source** [[framework]] based on [[Java]] that manages the storage and processing of large amounts of data for applications.

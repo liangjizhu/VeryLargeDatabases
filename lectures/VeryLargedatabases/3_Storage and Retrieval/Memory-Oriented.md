@@ -1,0 +1,1 @@
+An [[In-Memory Databases]] system stores data entirely in a computer's main memory ([[RAM]]) instead of on disk-based databases. This architecture allows faster access to frequently accessed data and ensures low latency for applications where speed is critical.

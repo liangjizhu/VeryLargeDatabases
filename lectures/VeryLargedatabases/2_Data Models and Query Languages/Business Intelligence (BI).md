@@ -1,0 +1,1 @@
+The process and technology for collecting, analysing and presenting business data to gain actionable insights, helping organisations make smarter, data-driven decisions, spot trends, improve performance, and increase profitability by turning raw data into understandable reports and dashboards

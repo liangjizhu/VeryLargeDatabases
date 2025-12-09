@@ -1,0 +1,1 @@
+An **open-source** [[SQL]] toolkit and [[Object-Relational Mapping]] for the Python programming language. It facilitates communication between Python programs and [[Relational Database]] by allowing developers to work with database data using Python objects and methods, rather than writing raw [[SQL]] queries for every interaction. 

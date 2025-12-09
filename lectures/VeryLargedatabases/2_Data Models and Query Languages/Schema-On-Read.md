@@ -1,0 +1,1 @@
+A flexible [[Database Management Systems (DBMS)]] approach where data is stored raw, and its structure (schema) is only defined and applied when you read or query it, unlike traditional [[Schema-On-Write]] methods that require upfront modeling. 

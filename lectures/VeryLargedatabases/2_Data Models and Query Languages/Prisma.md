@@ -1,0 +1,1 @@
+A modern, **open-source** [[Object-Relational Mapping]] for [[Node.js]] and [[TypeScript]], acting as a bridge between your application code and the database, allowing you to work with data as objects instead of writing raw [[SQL]]

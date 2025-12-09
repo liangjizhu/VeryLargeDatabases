@@ -1,0 +1,1 @@
+A data persistence system that stores data in the [[XML]] format

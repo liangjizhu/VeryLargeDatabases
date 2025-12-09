@@ -1,0 +1,1 @@
+A core mechanism where a new class (subclass/child) automatically acquires attributes and methods from an existing class (superclass/parent), promoting code reuse, creating class hierarchies and modeling real-world relationships more naturally, like a Employee inheriting common Person details but adding specific employee data. 

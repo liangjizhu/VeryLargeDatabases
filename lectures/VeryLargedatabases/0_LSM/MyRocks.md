@@ -1,0 +1,3 @@
+- [[Facebook]]'s integration of [[RocksDB]] as a [[Storage Engine]] with [[MySQL]]
+- Created due to serious space and [[Write Amplification]] of [[MySQL]]'s [[InnoDB]]
+- [[MariaDB]] ([[MySQL]] competitor) has also integrated [[RocksDB]] as a [[Storage Engine]]

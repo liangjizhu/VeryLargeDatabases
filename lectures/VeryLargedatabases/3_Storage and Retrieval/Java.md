@@ -1,0 +1,1 @@
+A multi-platform, object-oriented, and network-centric language that can be used as a platform in itself.

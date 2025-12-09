@@ -1,0 +1,1 @@
+Process of reconstructing in-memory data structures from transmitted or stored data.

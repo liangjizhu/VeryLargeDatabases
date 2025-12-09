@@ -1,0 +1,1 @@
+Organises data into structured tables (relations) with rows (records) and columns (attributes) that are linked by common data points (keys) to show clear relationships, making data easy to manage, query and analyse, unlike flat files, with popular examples being [[MySQL]], [[Oracle]] and [[SQL Server]].

@@ -1,0 +1,2 @@
+High-performance ANalytic Appliance
+A multi-model database that stores data in its memory instead of keeping it on a disk. This approach results in data processing that is magnitudes faster compared to disk-based data systems, allowing for advanced, real-time analytics.

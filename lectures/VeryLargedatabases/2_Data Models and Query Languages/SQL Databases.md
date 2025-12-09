@@ -1,0 +1,1 @@
+A type of [[Relational Database]] that uses [[SQL]] to store and work with data.

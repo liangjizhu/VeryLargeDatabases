@@ -1,0 +1,1 @@
+Easy to scale out

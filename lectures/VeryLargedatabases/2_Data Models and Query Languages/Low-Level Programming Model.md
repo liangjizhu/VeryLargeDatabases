@@ -1,0 +1,1 @@
+Describes software development using languages close to a computer's hardware (like [[Assembly]] or [[Machine Code]]), offering direct control over memory and processor instructions for maximum performance but requiring deep hardware knowledge, contrasting with high-level models that use abstraction for easier, portable code.

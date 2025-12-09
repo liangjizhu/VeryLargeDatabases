@@ -1,0 +1,1 @@
+Represents a single, complete instance of the entity defined by the table. Each row contains a set of related data values, with one value for each column (attribute) in the table. 

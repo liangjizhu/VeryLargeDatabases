@@ -1,0 +1,1 @@
+A [[Database Management Systems (DBMS)]] approach where the data's structure (schema) is defined and strictly enforced before it's written to a database or storage system, ensuring data consistency, faster reads, and efficient analysis by validating against rules (like data types, fields) upfront, common in traditional [[Relational Database]] and [[Data Warehousing (DW)]]

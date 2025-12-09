@@ -1,0 +1,1 @@
+Process of representing information in a specific format or code so it can be stored, transmitted, or processed by a computer or system.

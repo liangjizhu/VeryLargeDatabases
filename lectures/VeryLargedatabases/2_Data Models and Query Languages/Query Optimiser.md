@@ -1,0 +1,1 @@
+A core component in [[Database Management Systems (DBMS)]] that automatically finds the most efficient execution plan (sequence of operations) to process a user's [[SQL]] [[query]], aiming to minimise resource use (CPU, memory, I/O) and reduce response time

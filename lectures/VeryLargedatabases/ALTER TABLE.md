@@ -1,0 +1,1 @@
+Changes the structure of a table.

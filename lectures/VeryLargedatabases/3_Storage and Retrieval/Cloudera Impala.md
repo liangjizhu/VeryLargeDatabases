@@ -1,0 +1,1 @@
+An open-source, interactive, distributed [[SQL]] query engine that enables users to conduct real-time queries on data stored in [[Hadoop]] Distributed File System (HDFS), [[Apache HBase]], and Amazon Simple Storage Service (S3).

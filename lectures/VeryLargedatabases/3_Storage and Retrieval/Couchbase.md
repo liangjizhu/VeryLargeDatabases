@@ -1,0 +1,1 @@
+A [[NoSQL]] distributed document database ([[JSON]]) with many of the best features of a [[Relational Database]]: [[SQL]], distributed [[ACID]] transactions, and much more

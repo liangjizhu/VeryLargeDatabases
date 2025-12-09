@@ -1,0 +1,1 @@
+A vision for self-managing computer systems that automatically adapt, heal, optimise and protect themselves with minimal human input, inspired by the human body's autonomic nervous system.

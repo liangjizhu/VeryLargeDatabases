@@ -1,0 +1,1 @@
+A Java library used for [[Serialization]] and [[Deserialization]] of data, especially between [[Java]] objects and [[JSON]] (and binary JSON formats like Smile).

@@ -1,0 +1,1 @@
+Used a lot in read-heavy environments

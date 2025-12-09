@@ -1,0 +1,2 @@
+A spatial data structure designed for high geometric selectivity, maintaining block cells that overlap minimally to ensure that each rectangle falls entirely within a cell.
+![[Pasted image 20251208152336.png]]

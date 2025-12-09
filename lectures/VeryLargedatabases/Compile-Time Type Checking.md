@@ -1,0 +1,1 @@
+The process where a program’s type correctness is verified during compilation, catching type errors before execution.

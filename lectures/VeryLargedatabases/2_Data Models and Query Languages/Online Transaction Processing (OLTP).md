@@ -1,0 +1,1 @@
+A database system designed to manage and process a high volume of short, real-time, day-to-day business transactions like sales, payments, and bookings, focusing on speed, availability and data integrity (ACID compliance) for operational tasks, rather than complex analysis

@@ -1,0 +1,1 @@
+Binary [[JSON]] format designed to be compact and fast, commonly used with [[Jackson]] in Java.

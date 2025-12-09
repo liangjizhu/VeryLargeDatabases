@@ -1,0 +1,2 @@
+An open-source, high-performance, embedded [[key-value store]] library developed by Google.
+It provides an [[ordered mapping]] from arbitrary byte array keys to byte array values and stores data persistently on disk. 

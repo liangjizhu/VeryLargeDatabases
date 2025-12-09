@@ -1,0 +1,1 @@
+Defines the structure, content and relationships within a document, representing it as a logical hierarchy of components like sections, paragraphs, and fields, which enables software to understand, process, and manipulate it programmatically, especially in databases ([[NoSQL]]) and web development ([[DOM]])

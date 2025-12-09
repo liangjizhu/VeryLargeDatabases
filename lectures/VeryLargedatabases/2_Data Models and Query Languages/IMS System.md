@@ -1,0 +1,1 @@
+An Integrated Management System (IMS), which unifies multiple business processes (like quality, environment, safety) into one [[Framework]] for efficiency, or an IP Multimedia Subsystem (IMS), a telecom [[Framework]] for delivering services over IP networks, or even an Inventory Management System, software for tracking stock.

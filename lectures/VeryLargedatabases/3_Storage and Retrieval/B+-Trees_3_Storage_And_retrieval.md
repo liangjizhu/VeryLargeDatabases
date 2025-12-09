@@ -1,0 +1,11 @@
+- The standard database method
+- [[Height-Balanced]] tree with blocks as nodes
+- All "user records" are at leaf level ("bottom")
+- Typical height: 2, 3, 4
+- Minimum 50% filldegree in blocks
+- Average 67% filldegree in blocks
+- Records are sorted on the key, and the tree supports:
+	- Direct search on key
+	- Range search
+	- Sequential, sorted scans
+	- Good for most uses, except heavy write (insert) load

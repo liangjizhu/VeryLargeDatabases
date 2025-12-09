@@ -1,0 +1,1 @@
+Document Object Model is a programming interface that represents a web page's structure as a tree of objects![[Pasted image 20251207202423.png]]

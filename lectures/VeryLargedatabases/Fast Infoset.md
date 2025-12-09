@@ -1,0 +1,1 @@
+Binary encoding of XML designed to make XML smaller and faster to parse than text XML.

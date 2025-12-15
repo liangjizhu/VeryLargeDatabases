@@ -1,0 +1,4 @@
+- A provisionally validated [[Transactions]] in a candidate block ensures that is has been verified and is viable
+- Each new block accepted in the chain after the validation of the [[Transactions]] is considered as a confirmation
+	- A [[Transactions]] is considered mature after 6 confirmations (1 hour on average)
+	- New [[Bitcoin]] (mining products) are only valid after 120 confirmations, to avoid [[The 51% Attack]]

@@ -1,0 +1,12 @@
+- Reasons for rebalancing / repartitioning
+	- Increased load
+	- Increased data volume
+	- Failed nodes need to be replaced
+- ![[Pasted image 20251211174357.png]]
+- Hashing with mod N is not a good choice
+	- Need to move most records
+	- All to all copy
+	- Done in [[Clustra]]
+	- Will slow down [[Concurrency]] [[Queries]]
+- ![[Pasted image 20251211174450.png]]
+- Use a fixed, high number of [[Partitions]] ([[Riak]], [[Voldemort]], [[ElasticSearch]], [[Couchbase]]...)

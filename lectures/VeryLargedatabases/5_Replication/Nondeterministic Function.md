@@ -1,0 +1,1 @@
+A function that may produce different outputs for the same input, even when starting from the same state.

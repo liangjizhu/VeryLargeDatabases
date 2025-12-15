@@ -1,0 +1,5 @@
+- [[Replicated Systems]] may have inconsistent values
+- [[Eventual Consistency]]: [[Convergence]], as we expect all replicas to eventually converge to the same value
+- The edge cases of [[Eventual Consistency]] only become apparent when there is a [[Faults]] in the system (example: network interruption) or at [[High Concurrency]]
+- Systems with stronger guarantees may have worse performance or be less [[Fault-Tolerant or Resilient]] ([[Availability]]) than systems with weaker guarantees
+- [[Distributed Consistency]] is mostly about coordinating the state of replicas in the face of delays and [[Faults]] 

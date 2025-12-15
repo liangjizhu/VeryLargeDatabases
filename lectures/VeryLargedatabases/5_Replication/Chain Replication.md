@@ -1,0 +1,1 @@
+Ensures strong [[Consistent]] by ordering [[Replication]] in a chain where writes propagate head-to-tail and reads are served from the tail.

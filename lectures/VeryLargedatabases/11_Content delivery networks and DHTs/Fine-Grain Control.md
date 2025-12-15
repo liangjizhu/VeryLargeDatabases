@@ -1,0 +1,1 @@
+The ability to manage, adapt or make decisions at a very detailed level, rather than applying one uniform rule to everything.

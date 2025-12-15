@@ -1,0 +1,1 @@
+A fundamental model or way of thinking that shapes how problems are understood and how solutions are designed.

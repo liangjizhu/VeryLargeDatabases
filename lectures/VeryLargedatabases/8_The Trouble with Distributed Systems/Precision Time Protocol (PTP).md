@@ -1,0 +1,1 @@
+A protocol used to synchronize clocks across machines with very high precision, typically microseconds or even sub-microseconds, especially inside data centers and industrial networks.

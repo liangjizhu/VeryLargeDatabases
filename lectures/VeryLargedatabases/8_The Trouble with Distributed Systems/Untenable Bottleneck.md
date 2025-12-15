@@ -1,0 +1,1 @@
+A performance bottleneck in a system that becomes unsustainable as load grows—meaning the system cannot scale further because a single component limits throughput so severely that it cannot handle increasing demand.

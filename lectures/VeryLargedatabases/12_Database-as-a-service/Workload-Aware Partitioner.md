@@ -1,0 +1,1 @@
+A component that divides data or tasks into partitions based on observed or predicted workload, rather than using a static or uniform partitioning scheme.

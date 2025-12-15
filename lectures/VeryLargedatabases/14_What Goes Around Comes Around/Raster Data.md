@@ -1,0 +1,1 @@
+A way of representing data as a grid of cells (pixels), where each cell stores a value.

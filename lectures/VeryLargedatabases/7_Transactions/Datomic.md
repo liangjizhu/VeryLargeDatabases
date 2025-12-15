@@ -1,0 +1,1 @@
+A distributed, immutable, transaction-oriented database designed by Rich Hickey (creator of Clojure). It focuses on time, immutability, and append-only data, making it very **different** from traditional relational or [[NoSQL]] databases.

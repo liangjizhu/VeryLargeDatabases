@@ -1,0 +1,1 @@
+Distributed systems in which multiple copies (replicas) of data or services are maintained on different machines to improve [[Fault-Tolerant or Resilient]], [[Availability]] and performance.

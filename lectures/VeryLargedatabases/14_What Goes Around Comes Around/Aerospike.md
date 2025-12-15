@@ -1,0 +1,1 @@
+A distributed, high-performance [[Key-Value Store]] database designed for low latency and high throughput at large scale.

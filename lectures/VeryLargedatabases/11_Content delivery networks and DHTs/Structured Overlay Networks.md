@@ -1,0 +1,1 @@
+[[Overlay Networks]] with a well-defined structure that deterministically organises nodes and data, typically using a [[Distributed Hash Table (DHT)]].

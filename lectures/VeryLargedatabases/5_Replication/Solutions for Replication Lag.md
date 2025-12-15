@@ -1,0 +1,5 @@
+- Is [[Replication Lag]] a real problem ?
+- Use better guarantees: Example [[Read-Your-Writes]]
+- Use [[Transactions]] 
+- Some [[NoSQL]] databases have skipped [[Transactions]]: They are too expensive
+- [[NewSQL]] databases often support [[Distributed Transactions]] 

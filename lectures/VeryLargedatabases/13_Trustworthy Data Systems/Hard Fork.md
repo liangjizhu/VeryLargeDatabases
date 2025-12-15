@@ -1,0 +1,1 @@
+A permanent divergence in a [[Blockchains]], where the updated protocol rules are incompatible with the previous version, requiring all nodes to upgrade in order to stay on the same valid chain.

@@ -1,0 +1,1 @@
+An architecture where multiple nodes share access to the same storage system, while computation is distributed.

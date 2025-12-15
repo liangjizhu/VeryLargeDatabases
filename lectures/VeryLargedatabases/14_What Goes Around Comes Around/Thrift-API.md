@@ -1,0 +1,1 @@
+An interface defined using [[Apache Thrift]], a [[Framework]] for cross-language [[RPC]] and data [[Serialization]].

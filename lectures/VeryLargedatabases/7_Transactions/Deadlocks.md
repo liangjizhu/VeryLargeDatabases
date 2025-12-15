@@ -1,0 +1,1 @@
+When two or more transactions (or processes) are waiting for each other in a circular way, so none of them can ever proceed. Each one holds a resource the other needs.

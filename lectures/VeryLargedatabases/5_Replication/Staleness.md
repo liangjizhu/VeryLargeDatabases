@@ -1,0 +1,1 @@
+The degree to which a read returns outdated data, i.e., data that does not include the most recent writes.

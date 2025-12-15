@@ -1,0 +1,1 @@
+The ability of a distributed system to continue operating correctly despite network partitions, where communication between some nodes is lost or delayed indefinitely.

@@ -1,0 +1,1 @@
+Means a database system offers no [[Transactions]], or only very restricted ones, instead of full [[ACID - Properties of a Transaction]] transactions.

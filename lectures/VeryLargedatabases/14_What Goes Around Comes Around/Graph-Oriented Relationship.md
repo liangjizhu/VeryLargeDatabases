@@ -1,0 +1,1 @@
+Model data primarily through relationships, not just through attributes.

@@ -1,0 +1,1 @@
+A standard data model for representing information on the Web in a graph form.

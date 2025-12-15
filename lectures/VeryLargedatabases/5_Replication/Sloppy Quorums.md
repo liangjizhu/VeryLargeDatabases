@@ -1,0 +1,1 @@
+A technique used in [[Dynamo-Style]] systems to maintain [[Availability]] during failures or network partitions.

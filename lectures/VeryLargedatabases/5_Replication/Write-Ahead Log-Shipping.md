@@ -1,0 +1,6 @@
+- ![[Log]]
+- When the follower processes this [[Log]], it builds a copy of the exact same data structures as found on the leader
+- Used in [[PostgreSQL]] and [[Oracle]]...
+- Low-Level details being [[Storage-Specific]]. Copies must be physically equal
+- If the database changes its storage format, typically, it is not possible to run different database versions at different servers
+- May be used for online upgrades to database software if the follower is allowed to upgrade its software

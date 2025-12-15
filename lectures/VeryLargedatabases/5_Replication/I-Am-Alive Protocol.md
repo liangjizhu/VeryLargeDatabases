@@ -1,0 +1,1 @@
+A [[Failure Detection]] mechanism in [[Distributed System]] used to determine whether nodes are still operational.

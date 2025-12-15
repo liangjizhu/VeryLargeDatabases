@@ -1,0 +1,1 @@
+A [[Cloud Computing]] model where providers offer virtualised computing resources over the Internet.

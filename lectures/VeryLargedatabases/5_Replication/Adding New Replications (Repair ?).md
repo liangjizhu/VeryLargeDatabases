@@ -1,0 +1,5 @@
+- Take a [[Consistent]] snapshot of the leader's database at some point in time
+- Copy the snapshot to the new follower node
+- Copy the log: All the data changes that have happened since the snapshot was taken (Really: started, all alive transaction log)
+- Caught up when all backlog processed
+- Fully automated by some systems, but manual administration commands by some others

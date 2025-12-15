@@ -1,0 +1,1 @@
+High-performance [[RPC]] framework by Google that uses [[HTTP2]] and [[Protocol Buffers]] for efficient, strongly typed communication.

@@ -1,0 +1,1 @@
+Events or conditions that automatically cause an action to be executed in a system.

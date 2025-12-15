@@ -1,0 +1,3 @@
+- [[Synchronous Model]]: Bounded network time, bounded clock error, bounded process pauses (not used because assumptions do not hold)
+- [[Partially Synchronous Model]]: Usually [[Synchronous]], but may experience and tolerate glitches. Mostly used
+- [[Asynchronous Model]]: No timing asssumptions 

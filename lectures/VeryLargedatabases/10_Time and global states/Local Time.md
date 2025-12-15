@@ -1,0 +1,1 @@
+The notion of time as measured by a single node’s own clock in a [[Distributed System]]

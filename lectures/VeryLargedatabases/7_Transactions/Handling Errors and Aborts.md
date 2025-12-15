@@ -1,0 +1,8 @@
+- [[ACID - Properties of a Transaction]] databases let transactions be retried in case of aborts
+- [[Leaderless Replication]]: "The database will do as much as it can, and if it runs into an error, it won't undo something it has already done" - so it is the application's responsability to recover from errors
+- Retries are not always good:
+	- The [[Transactions]] succeeded, but the network failed
+	- [[Overload]]: Retrying the [[Transactions]] will make the problem worse
+	- It is only worth retrying after transient errors ([[Deadlocks]], [[Concurrency]])
+	- If the [[Transactions]] also has side effects outside of the database, those side effects may happen even if the [[Transactions]] is aborted
+	- If the client process fails while retrying, any data it was trying to write to the database is lost

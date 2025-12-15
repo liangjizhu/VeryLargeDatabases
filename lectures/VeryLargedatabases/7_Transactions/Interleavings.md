@@ -1,0 +1,1 @@
+The different possible ways that operations from [[Concurrency]] processes can be mixed or ordered when executed without strict sequencing.

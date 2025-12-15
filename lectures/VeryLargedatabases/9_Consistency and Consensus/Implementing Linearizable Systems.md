@@ -1,0 +1,5 @@
+- [[Replication]] methods:
+	- [[Single-Leader]] (Potentially linearizable)
+	- [[Consensus Algorithms]] (Linearizable): [[Apache ZooKeeper]] and [[ETCD]]
+	- [[Multi-Leader Replication]] (Not linearizable)
+	- [[Leaderless Replication]] (Probably not linearizable)

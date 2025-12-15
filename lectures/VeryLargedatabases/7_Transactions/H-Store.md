@@ -1,0 +1,1 @@
+A distributed, main-memory, shared-nothing [[Online Transaction Processing (OLTP)]] database designed for extremely high throughput of short [[Transactions]]. It is the academic predecessor of the commercial system [[VoltDB]].

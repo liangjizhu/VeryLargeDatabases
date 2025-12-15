@@ -1,0 +1,1 @@
+A company or organisation that develops, sells, and supports a [[Database Management Systems (DBMS)]]. They provide the software, tools, documentation, updates and often commercial support for running databases.

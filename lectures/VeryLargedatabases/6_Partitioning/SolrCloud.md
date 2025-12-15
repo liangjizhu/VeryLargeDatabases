@@ -1,0 +1,1 @@
+The distributed, scalable, [[Fault-Tolerant or Resilient]] deployment mode of [[Apache Solr]], designed for handling large search indexes across many nodes.

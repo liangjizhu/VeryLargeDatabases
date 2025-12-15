@@ -1,0 +1,1 @@
+Aims to make a system unavailable by overwhelming it with traffic or requests, preventing legitimate users from accessing the service.

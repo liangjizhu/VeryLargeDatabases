@@ -1,0 +1,9 @@
+- Live server
+	- For [[Availability]]
+- Lowest load
+	- To balance the load across the servers
+- Closest
+	- Nearest geographically or in [[Round-Trip Time (RTT)]]
+- Best performance
+	- Throughput, [[Latency]], ...
+- Cheapest bandwidth, electricity, ...

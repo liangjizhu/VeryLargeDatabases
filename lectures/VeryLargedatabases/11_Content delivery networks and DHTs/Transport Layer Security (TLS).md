@@ -1,0 +1,1 @@
+The modern cryptographic protocol that replaced [[Secure Sockets Layer (SSL)]] and is used to secure communication over networks, especially on the web.

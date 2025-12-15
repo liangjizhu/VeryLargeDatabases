@@ -1,0 +1,4 @@
+- [[Consensus Algorithms]] were a breakthrough in [[Distributed System]], however they are costly
+- [[Consensus Systems]] always require a strict majority to operate. Network failure may be a problem
+- [[Consensus Systems]] generally rely on timeouts to detect failed nodes. Variable network time may be a problem
+- [[RAFT]]: If one network link is problematic, the algorithm may be fluctuating between multiple new leaders (Sensitive to network problems)

@@ -1,0 +1,2 @@
+A system’s ability to handle many operations or users at the same time, with multiple requests being processed simultaneously or overlapping in time.
+In distributed systems and databases, high concurrency is essential for [[Scalability]] and performance under heavy load.

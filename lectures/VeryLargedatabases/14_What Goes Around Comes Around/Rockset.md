@@ -1,0 +1,1 @@
+A cloud-native, fully managed analytics database designed for low-latency queries on [[Semi-Structured]] data.

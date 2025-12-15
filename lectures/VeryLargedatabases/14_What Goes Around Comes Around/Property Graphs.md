@@ -1,0 +1,1 @@
+A graph data model where both nodes and relationships can have properties ([[key-value pairs]]).

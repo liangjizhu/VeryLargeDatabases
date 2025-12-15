@@ -1,0 +1,6 @@
+- Each [[Database Vendor]] has its own language for [[Stored Procedure]]
+- Code running in a database is difficult to manage
+- A database is often much more [[Performance-Sensitive]] than an application server
+- Modern implementations of [[Stored Procedure]] have abandoned [[Procedural Language (PL)]] / [[SQL]] and use existing general-purpose programming languages instead ([[Java]], [[Clojure]], [[Lua]], ...)
+- [[VoltDB]] also uses [[Stored Procedure]] for [[Replication]]
+- Difficult to support this efficiently using [[Partitioning]]. [[Geo-Partitioning]] may be an exception

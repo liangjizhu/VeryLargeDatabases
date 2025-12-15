@@ -1,0 +1,1 @@
+Data is the same and correct across [[Replication]] or operations, according to the system’s consistency rules.

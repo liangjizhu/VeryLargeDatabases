@@ -1,0 +1,1 @@
+Is a widely used [[Isolation Levels]] (often implemented with [[Multi-Version Concurrency Control (MVCC)]]) in which each [[Transactions]] reads from a [[Consistent]] snapshot of the database taken at the start of the transaction. 

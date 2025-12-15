@@ -1,0 +1,1 @@
+An open-source distributed [[Stream Processing]] [[Framework]] for stateful, real-time data processing.

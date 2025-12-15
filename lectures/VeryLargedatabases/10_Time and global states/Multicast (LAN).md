@@ -1,0 +1,1 @@
+A communication mechanism where one sender transmits a message to multiple receivers simultaneously, using a single network transmission.

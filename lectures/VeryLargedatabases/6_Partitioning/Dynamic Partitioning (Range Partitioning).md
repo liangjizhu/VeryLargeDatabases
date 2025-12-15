@@ -1,0 +1,7 @@
+- When a [[Partitions]] grows to exceed a configured size, it is split into two [[Partitions]]
+- [[Apache HBase]] and [[RethinkDB]] create [[Partitions]] dynamically
+- [[Apache HBase]] and [[MongoDB]] allow an initial set of [[Partitions]] to be configured on an empty database (pre-splitting)
+- May also be used on [[Hash Partitioning]] ([[MongoDB]])
+- Proportional to the size of data volume
+- Proportional to the size of the number of nodes ([[Apache Cassandra]] and [[Ketama]])
+- Operations: Automatic or manual rebalancing

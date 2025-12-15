@@ -1,0 +1,1 @@
+An open-source framework for distributed storage and processing of large datasets across clusters of commodity machines.

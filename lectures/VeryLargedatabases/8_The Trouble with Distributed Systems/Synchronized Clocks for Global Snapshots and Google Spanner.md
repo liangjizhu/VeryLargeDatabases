@@ -1,0 +1,5 @@
+ - [[Snapshot Isolation]]: Allows read-only [[Transactions]] to see the database in a consistent state at a particular point in time. Relies on comparing [[Transactions]] IDs
+ - [[Distribution]]: A global, monotonically increasing[[Transactions]] ID is difficult to generate
+ - With lots of small, rapid [[Transactions]], creating [[Transactions]] IDs in a [[Distributed System]] becomes an [[Untenable Bottleneck]]
+ - [[Google Spanner]] implements [[Snapshot Isolation]] across datacenters using its [[TrueTime API]]
+ - Using overlapping intervals as undefined order

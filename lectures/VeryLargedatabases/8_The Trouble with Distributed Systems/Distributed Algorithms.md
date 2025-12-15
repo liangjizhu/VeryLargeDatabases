@@ -1,0 +1,2 @@
+Algorithms designed to run across multiple independent nodes that communicate only by message passing and do not share memory. Their goal is to coordinate, compute or maintain correctness despite [[Failure]], delays and [[Concurrency]].
+They are the foundation of [[Distributed System]].

@@ -1,0 +1,1 @@
+Occasional one-second adjustments added to (or theoretically removed from) [[Coordinated Universal Time (UTC)]] to keep civil time aligned with the Earth’s rotation.

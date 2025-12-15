@@ -1,0 +1,5 @@
+- Real confusion on use of [[Repeatable Read]] in [[SQL Databases]]
+- [[Oracle]]: calls it [[Serialization]]
+- [[PostgreSQL]] and [[MySQL]] calls [[Snapshot Isolation]] for [[Repeatable Read]]
+- IBM [[DB2]] uses [[Repeatable Read]] to refer to [[Serializability]]
+- [[SQL]] standard based on [[System R (IBM)]] use of [[Isolation Levels]] and [[Snapshot Isolation]] wasn't implemented at that time

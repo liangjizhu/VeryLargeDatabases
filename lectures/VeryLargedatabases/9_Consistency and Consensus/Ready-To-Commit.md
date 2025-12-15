@@ -1,0 +1,1 @@
+A state in [[Distributed Transactions]] commit protocols, especially [[Two-Phase Commit (2PC)]], indicating that a participant has completed all local work successfully and promises it can commit, if instructed to do so.

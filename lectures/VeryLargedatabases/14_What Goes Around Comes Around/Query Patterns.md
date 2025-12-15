@@ -1,0 +1,1 @@
+Describe the common access patterns used to read or write data in a system.

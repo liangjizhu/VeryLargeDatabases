@@ -1,0 +1,1 @@
+A technique where write operations are delayed or batched instead of being applied immediately to persistent storage.

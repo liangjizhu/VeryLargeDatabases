@@ -1,0 +1,1 @@
+Operations appear indivisible and globally ordered

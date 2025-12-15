@@ -1,0 +1,1 @@
+A data structure that temporarily holds write operations that have been accepted by the system but not yet written to persistent storage.

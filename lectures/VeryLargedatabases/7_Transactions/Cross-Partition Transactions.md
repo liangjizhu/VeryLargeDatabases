@@ -1,0 +1,1 @@
+A [[Transactions]] that accesses data stored in more than one partition in a distributed or partitioned database. Because the data is spread across different nodes or shards, the system must coordinate the [[Transactions]] across multiple partitions.

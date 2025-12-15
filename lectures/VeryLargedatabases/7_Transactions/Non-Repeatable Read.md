@@ -1,0 +1,1 @@
+Non-Repeatable read occurs when a [[Transactions]] reads the same row twice and gets different values because another transaction modified or deleted that row in between the two reads.

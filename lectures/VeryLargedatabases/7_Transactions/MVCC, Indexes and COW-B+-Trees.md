@@ -1,0 +1,7 @@
+- Should the index point to all versions of an object ? 
+- [[PostgreSQL]] has optimisations when the object versions are in the same page (avoid updates to index)
+- [[Apache CouchDB]], [[Datomic]] and [[LMDB]]: [[Copy-on-Write]] [[B+-Trees]]
+- All writes make copies of pages which are propagated up in the tree
+- And a new root is visible at commit
+- Creates need for [[Compaction]] and [[Garbage Collection]]
+- [[BTRFS]] - File system on Linux based on [[Copy-on-Write]] [[B+-Trees]]

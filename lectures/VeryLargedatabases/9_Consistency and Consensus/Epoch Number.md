@@ -1,0 +1,1 @@
+A monotonically increasing identifier used in [[Distributed System]] to distinguish different periods of leadership or configuration and to prevent stale nodes from acting.

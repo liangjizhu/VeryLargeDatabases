@@ -1,0 +1,1 @@
+A high-[[Availability]], shared-nothing distributed database system originally developed by Clustra Systems (later acquired by Sun Microsystems). It was designed specifically for telecom-grade reliability, meaning it could stay online even under heavy load or during failures.

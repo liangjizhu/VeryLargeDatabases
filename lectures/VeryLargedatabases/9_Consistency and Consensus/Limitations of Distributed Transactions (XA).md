@@ -1,0 +1,4 @@
+- The coordinator must also be replicated ([[Hot Standby Controller]])
+- [[XA Protocol]] cannot detect [[Deadlocks]] in-between heterogenous participants
+- Problem when applications become parts of the [[Transactions]] execution
+- If any part of the system is broken, the [[Transactions]] also fails. [[Distributed Transactions]] thus have a tendency of amplifying failures

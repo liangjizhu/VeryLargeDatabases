@@ -1,0 +1,1 @@
+Database systems designed to store and query [[Resource Description Framework (RDF)]] data.

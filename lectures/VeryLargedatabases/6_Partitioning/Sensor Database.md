@@ -1,0 +1,1 @@
+A database system designed specifically for storing, managing and querying [[sensor]]-generated data, which typically arrives as continuous, time-stamped streams.

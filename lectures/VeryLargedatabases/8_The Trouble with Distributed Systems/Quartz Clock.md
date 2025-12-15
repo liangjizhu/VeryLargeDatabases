@@ -1,0 +1,1 @@
+A physical hardware clock that keeps time using the oscillation of a quartz crystal. It is the standard timekeeping mechanism inside most computers, servers and electronic devices.

@@ -1,0 +1,1 @@
+A performance metric that measures how many transactions a system can process and commit each second.

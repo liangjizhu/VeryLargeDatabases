@@ -1,0 +1,1 @@
+A time-limited grant of authority that allows a node or client to perform some action or access a resource for a bounded period of time. After the lease expires, the authority is automatically revoked unless it is renewed.

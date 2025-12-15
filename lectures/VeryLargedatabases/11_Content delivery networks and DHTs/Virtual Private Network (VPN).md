@@ -1,0 +1,1 @@
+A secure, encrypted tunnel over a public network (typically the Internet), making remote users or networks appear as if they are directly connected to a private network.

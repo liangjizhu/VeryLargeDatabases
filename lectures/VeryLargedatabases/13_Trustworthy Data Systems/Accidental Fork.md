@@ -1,0 +1,1 @@
+A [[Distributed System]], particularly in blockchain networks, when two or more nodes in the network produce different versions of the blockchain due to a temporary inconsistency.

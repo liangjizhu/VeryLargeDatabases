@@ -1,0 +1,1 @@
+Refers to ready-made software or hardware products that are commercially available and used as components in a larger system, rather than being custom-built.

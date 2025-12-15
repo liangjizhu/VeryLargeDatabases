@@ -1,0 +1,1 @@
+A backup controller that runs in parallel with the primary controller, continuously kept up to date and is ready to take over immediately if the primary fails.

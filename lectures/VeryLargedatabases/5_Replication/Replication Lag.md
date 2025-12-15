@@ -1,0 +1,1 @@
+The delay between when a write is committed on the primary replica and when it becomes visible on secondary replicas.

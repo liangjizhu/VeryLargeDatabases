@@ -1,0 +1,1 @@
+Difference between clocks at a point in time

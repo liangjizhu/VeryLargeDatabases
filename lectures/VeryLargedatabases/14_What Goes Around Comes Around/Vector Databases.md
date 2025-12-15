@@ -1,0 +1,11 @@
+Systems designed to store, index and search high-dimensional vector embeddings, typically produced by machine-learning models.
+- Interesting due to developers use them to store single-dimension embeddings genererated from AI tools
+- Not to be confused with [[Vector Query Processing]], which is about the implementation of memory efficient processing by batching data
+- (title, date, author, [embedding-vector])
+- The size of these embedding vectors range from 100s of dimensions to 1000s for highend models
+- The key difference between vector and array [[Database Management Systems (DBMS)]] is their [[Query Patterns]]
+- The former are designed for similarity searches that find records whose vectors have the shortest distance to a given input vector in a highdimensional space
+- Build indexes to accelerate [[Approximate Nearest Neighbor (ANN)]] searches
+- [[Pinecone]], [[Milvus]] and [[Weaviate]]
+- Vector [[Database Management Systems (DBMS)]] are essentially [[Document-Oriented Databases]] with specialised [[Approximate Nearest Neighbor (ANN)]] indexes
+- [[Oracle]], [[SingleStore]], [[Rockset]] and [[Clickhouse]] added vectors often using open-source library (example: [[pgVector]], [[DiskANN]], [[FAISS]])

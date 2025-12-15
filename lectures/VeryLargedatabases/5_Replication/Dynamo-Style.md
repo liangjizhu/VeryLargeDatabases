@@ -1,0 +1,1 @@
+A class of highly available, eventually [[Consistent]] distributed [[Key-Value Store]], inspired by Amazon Dynamo.

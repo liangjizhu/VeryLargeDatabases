@@ -1,0 +1,1 @@
+The point at which a system irrevocably decides that an operation (usually a [[Transactions]]) will take effect and must be preserved, even in the presence of crashes or failures.

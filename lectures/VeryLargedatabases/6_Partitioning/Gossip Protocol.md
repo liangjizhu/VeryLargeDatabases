@@ -1,0 +1,2 @@
+- [[Apache Cassandra]] and [[Riak]]
+A decentralised communication protocol where nodes periodically exchange information with a random subset of other nodes—similar to how rumours spread in social networks.

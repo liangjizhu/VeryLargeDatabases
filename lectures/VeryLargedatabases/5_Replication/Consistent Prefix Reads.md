@@ -1,0 +1,2 @@
+- This guarantee says that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order: Related data go to the same machine
+![[Pasted image 20251210223038.png]]

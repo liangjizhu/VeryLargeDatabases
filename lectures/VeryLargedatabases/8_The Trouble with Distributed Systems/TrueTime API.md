@@ -1,0 +1,1 @@
+A time API developed by Google and used in [[Google Spanner]] to provide globally synchronized physical time with bounded uncertainty.

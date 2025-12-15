@@ -1,0 +1,2 @@
+Open Systems Interconnection model
+A conceptual [[Framework]] that divides network communication into seven layers, each with specific responsibilities. It helps standardise how different systems communicate over networks.

@@ -1,0 +1,1 @@
+The storage system used by a web crawler / search engine to keep track of what has been crawled and what should be crawled next.

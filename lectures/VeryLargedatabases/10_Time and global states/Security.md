@@ -1,0 +1,1 @@
+The property that a system protects data and operations against unauthorized access, modification, disruption, or disclosure, even in the presence of malicious actors or compromised components.

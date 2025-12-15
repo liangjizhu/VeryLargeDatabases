@@ -1,0 +1,1 @@
+The act of forcing data to be written to a persistent medium (disk) before proceeding, typically by issuing a flush / fsync, to ensure durability and crash safety.

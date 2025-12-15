@@ -1,0 +1,1 @@
+A sequence of connected relationships in a graph.

@@ -1,0 +1,13 @@
+- Complexity and low [[Scalability]]
+	- Difficult evolution of operating rules
+	- Increasing chain size
+	- Low number of [[Transactions Per Second (TPS)]]
+		- 5-7 [[Transactions Per Second (TPS)]] for Bitcoin versus 25K [[Transactions Per Second (TPS)]] for VISA
+	- Unpredictable duration of [[Transactions]], from minutes to days
+- Cost
+	- High energy consumption
+	- Favors concentration of miners
+- Users are pseudonymised, not anonymised
+	- Making a [[Transactions]] with a user reveals all its other [[Transactions]]
+- Lack of control and regulation
+	- Hard for states to watch and tax [[Transactions]]

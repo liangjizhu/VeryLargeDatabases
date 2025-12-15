@@ -1,0 +1,1 @@
+Updates where services are upgraded incrementally, one node at a time, without stopping the entire system.

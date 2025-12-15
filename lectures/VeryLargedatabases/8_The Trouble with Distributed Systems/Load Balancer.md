@@ -1,0 +1,1 @@
+A system or device that distributes incoming network traffic across multiple servers to ensure no single server becomes overloaded. It improves performance, reliability, [[Scalability]] and [[Fault-Tolerant or Resilient]] in [[Distributed System]].

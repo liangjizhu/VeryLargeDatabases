@@ -1,0 +1,1 @@
+A [[Bitcoin]] mining pool that became notable around 2014 for briefly controlling more than 50% of [[Bitcoin]]’s total hash power.

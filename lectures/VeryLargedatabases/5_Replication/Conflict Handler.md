@@ -1,0 +1,1 @@
+A component or function responsible for resolving conflicts that arise when [[Concurrency]] updates occur in a [[Distributed System]].

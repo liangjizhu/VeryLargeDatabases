@@ -1,0 +1,1 @@
+The components or services that receive and process messages sent by a sender in a [[Message Passing Dataflow]]

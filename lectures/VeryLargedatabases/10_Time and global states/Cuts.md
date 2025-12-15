@@ -1,0 +1,16 @@
+- ![[Local History]]
+- ![[Global History]]
+- Cut: Subset of global history (Local prefix)
+- What is the problem ?
+	- How to find consistent cuts without global time ?
+![[Pasted image 20251213050805.png]]
+- A cut C is [[Consistent]] if
+	- For all events e contained in C -> e => f  contained C
+	- Inconsistent: The system could never have been in this state
+	- [[Consistent]]: Global consistent state
+- Run
+	- Global history where the order satisfies all [[Local History]]
+- [[Consistent]] run / [[Linearizability]]
+	- All global states passed through are [[Consistent]]
+- Reachable
+	- S' is reachable from S if there is a [[Consistent]] run between them

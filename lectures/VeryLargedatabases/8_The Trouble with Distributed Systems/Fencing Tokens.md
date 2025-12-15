@@ -1,0 +1,1 @@
+A monotonically increasing number issued by a coordination service (like [[Apache ZooKeeper]]) to ensure safety in [[Distributed System]] when multiple clients may try to access a shared resource, particularly in the presence of partial failures, timeouts or network partitions.

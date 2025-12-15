@@ -1,0 +1,1 @@
+The time delay between a request and its response in a system.

@@ -1,0 +1,7 @@
+- [[Safety]]: Nothing bad happens
+- [[Liveness]]: Something good eventually happens
+- If a safety property is violated, we can point at a particular point in time at which it was broken. After a safety property has been violated, the violation cannot be undone - the damage is already done
+- A [[Liveness]] property may not hold at some point in time, but may eventually hold
+- For [[Distributed Algorithms]], it is common to require that safety properties always hold
+- [[Liveness]]: A request needs to receive a response only is a majority of nodes have not crashed
+- Read Nancy A. Lynch: [[Distributed Algorithms]]

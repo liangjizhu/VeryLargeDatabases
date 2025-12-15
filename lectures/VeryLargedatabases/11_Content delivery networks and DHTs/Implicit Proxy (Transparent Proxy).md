@@ -1,0 +1,1 @@
+A [[Proxy]] server that the client is not aware of. The client sends requests as if it were contacting the origin server directly, and the network intercepts and redirects the traffic through the proxy.

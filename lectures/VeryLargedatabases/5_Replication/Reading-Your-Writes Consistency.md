@@ -1,0 +1,9 @@
+- Write-Then-Read-What you have written
+- Problems when reading a non-updated [[Replication]]
+- Need [[Read-After-Write Consistency]] / [[Reading-Your-Writes Consistency]]
+- ![[Pasted image 20251210163019.png]]
+- Write / Read your profile to / from the leader, and may read everyone else from a follower ([[Social Networks]] example)
+- When you have to write everywhere, use a one minute wait where you read from the leader in the meantime
+- Using [[Logical Timestamps]]: Register write timestamps and use this when reading [[Replication]]
+- Multi-Datacenters. Route to the leader of the correct datacenter
+- Complicates: Routing may change over time. Different devices may connect to different datacenters

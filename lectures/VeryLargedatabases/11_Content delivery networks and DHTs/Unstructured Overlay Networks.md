@@ -1,0 +1,1 @@
+A type of overlay network where connections between nodes are not organised according to a strict structure or key space.

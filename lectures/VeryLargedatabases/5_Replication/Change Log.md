@@ -1,0 +1,1 @@
+An ordered record of data modifications, used to replicate, recover or rebuild state in [[Distributed System]].

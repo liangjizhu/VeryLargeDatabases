@@ -1,1 +1,2 @@
 A programming model and [[Framework]], famously part of  [[Apache Hadoop]], for processing massive datasets in parallel across large clusters of computers, simplifying distributed computing by splitting big tasks into smaller "[[Map]]" and "[[Reduce]]" stages
+![[MapReduce Systems]]

@@ -1,0 +1,1 @@
+A database [[Sharding or Partitioning]] middleware for [[MySQL]], designed to [[Scaling Out (Horizontal Scaling)]].

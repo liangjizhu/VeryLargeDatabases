@@ -1,0 +1,1 @@
+A mechanism that maps a name or key to some associated information, typically a location or value, so that a resource can be found in a [[Distributed System]].

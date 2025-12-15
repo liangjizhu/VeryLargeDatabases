@@ -1,0 +1,4 @@
+- [[Distributed System]]: No shared memory, only [[Message-Passing]] via an unreliable network with variable delays, and the systems may suffer from partial failures, unreliable clocks and processing pauses
+- The truth is defined by the majority
+- A node cannot necessarily trust its own judgement of a situation
+- [[Quorum]]: voting among the nodes. [[Consensus Algorithms]] 

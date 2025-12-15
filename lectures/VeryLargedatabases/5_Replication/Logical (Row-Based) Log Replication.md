@@ -1,0 +1,5 @@
+- Different formats on [[Log]] and local storage (Example: Primary keys and not BlockIds in [[Log]])
+- Inserts, deletes and updates generate different [[Log]] records containing before and / or after image
+- [[MySQL]]'s [[Binlog]] uses this approach and also ships commit log records
+- Leader and follower may have different storage formats and storage engines
+- Could provide better [[Fault-Tolerant or Resilient]]

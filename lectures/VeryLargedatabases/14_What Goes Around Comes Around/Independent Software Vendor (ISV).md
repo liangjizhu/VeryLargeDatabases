@@ -1,0 +1,1 @@
+A company that develops and sells software products independently, rather than as part of a hardware vendor or cloud provider.

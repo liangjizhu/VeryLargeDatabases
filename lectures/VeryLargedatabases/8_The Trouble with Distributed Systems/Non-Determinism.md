@@ -1,0 +1,2 @@
+A system can produce different outcomes even when given the same inputs, due to factors outside the program's direct control.
+In [[Distributed System]], non-determinism is unavoidable and comes from [[Concurrency]], network delays, scheduling and failures.

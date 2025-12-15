@@ -1,0 +1,1 @@
+A highly available, scalable, distributed [[Key-Value Store]] designed by Amazon to power services that require always-on [[Availability]] (e.g., shopping cart data).

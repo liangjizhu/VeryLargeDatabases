@@ -1,0 +1,2 @@
+A component that estimates future system load by combining multiple input signals or metrics rather than relying on a single measurement.
+- CPU, RAM and disk model that predicts the combined resource requirements

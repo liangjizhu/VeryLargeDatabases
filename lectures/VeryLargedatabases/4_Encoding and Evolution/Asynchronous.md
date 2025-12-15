@@ -1,0 +1,1 @@
+It means operations do not block waiting for completion; results are handled later, allowing other work to continue.

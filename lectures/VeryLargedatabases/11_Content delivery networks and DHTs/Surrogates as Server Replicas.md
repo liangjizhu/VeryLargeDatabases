@@ -1,0 +1,4 @@
+- Content requests are distributed among surrogates that are distinct from the origin servers
+- A surrogate can fulfill the posed request
+- Otherwise, the object is retrieved from the origin server
+- [[Domain Name System (DNS)]] redirection is often used for distributing requests among the surrogates

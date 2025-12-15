@@ -1,0 +1,1 @@
+When write operations (inserts, updates, deletes) occur much more frequently than read operations.

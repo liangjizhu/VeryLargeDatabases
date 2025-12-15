@@ -1,0 +1,1 @@
+Performing computations on symbols and expressions rather than raw numeric values. Instead of working with numbers alone, the system manipulates algebraic forms, logical expressions or structured data.

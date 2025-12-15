@@ -1,0 +1,1 @@
+The guarantees a [[Distributed System]] provides about how updates and reads are observed across multiple nodes or replicas. It defines when and how replicas agree on data, especially in the presence of [[Concurrency]], failures and network delays.

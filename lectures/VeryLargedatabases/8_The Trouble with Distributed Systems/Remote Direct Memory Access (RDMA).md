@@ -1,0 +1,1 @@
+A high-performance networking technology that allows one computer to directly read from or write to the memory of another computer without involving the remote CPU, operating system or context switching.

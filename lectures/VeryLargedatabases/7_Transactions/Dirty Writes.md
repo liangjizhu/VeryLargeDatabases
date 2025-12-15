@@ -1,0 +1,2 @@
+When two [[Concurrent]] [[Transactions]] write to the same data item, and one writes before the other has committed. This means one uncommitted update can overwrite another uncommitted update, creating inconsistent or undefined state.
+![[No Dirty Writes]]

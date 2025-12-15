@@ -1,0 +1,4 @@
+- Like the fixed phone lines ?
+- [[Packet Switching]] ? Optimized for bursty traffic
+- Hard to estimatite traffic: If you guess too low ([[Bandwith]]), the transfer is unnecessarily slow, leaving network capacity unused. If you guess too high, the circuit cannot be set up
+- Variable delays in networks are not a law of nature, but simply the result of a cost / benefit trade-off

@@ -1,0 +1,1 @@
+A failure scenario where a [[Distributed System]] is partitioned and multiple components incorrectly believe they are the primary/leader.

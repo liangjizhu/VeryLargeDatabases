@@ -1,0 +1,1 @@
+Translates human-readable domain names into IP addresses so clients can locate servers on the Internet.

@@ -1,0 +1,1 @@
+A value that specifies how long cached data is considered valid before it must be refreshed from the original source.

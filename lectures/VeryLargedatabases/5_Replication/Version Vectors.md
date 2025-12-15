@@ -1,0 +1,1 @@
+A mechanism for tracking [[Causality]] and detecting [[Concurrency]] updates in [[Distributed System]].

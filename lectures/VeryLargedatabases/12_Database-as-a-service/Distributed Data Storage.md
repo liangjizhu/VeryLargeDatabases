@@ -1,0 +1,6 @@
+- [[Replication]]
+	- System maintains multiple copies of data, stored in different sites, for faster [[Retrieval]] and [[Fault-Tolerant or Resilient]]
+- [[Fragmentation]]
+	- Relation is partitioned into several fragments stored in distinct sites
+- [[Replication]] and [[Fragmentation]] can be combined
+	- Relation is partitioned into several fragments: System maintains several identical replicas of each such fragment

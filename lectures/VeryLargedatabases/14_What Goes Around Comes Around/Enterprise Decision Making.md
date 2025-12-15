@@ -1,0 +1,1 @@
+The process by which organisations analyse data to make strategic, operational and tactical decisions.

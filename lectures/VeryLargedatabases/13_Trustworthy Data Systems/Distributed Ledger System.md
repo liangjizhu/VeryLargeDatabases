@@ -1,0 +1,1 @@
+A shared, replicated database that is maintained by multiple nodes and updated through a consensus mechanism, without relying on a single central authority.

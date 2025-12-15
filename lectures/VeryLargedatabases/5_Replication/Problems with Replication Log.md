@@ -1,0 +1,4 @@
+- [[Leader-Based Replication]] OK for loads having mostly reads and a few writes
+- And using [[Asynchronous Replication]]
+- You may read out-of-date information from a follower: [[Eventual Consistency]]
+- Ranging from ms our-of-date to mins at high loads

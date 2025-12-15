@@ -1,0 +1,2 @@
+A consensus-based [[Replication]] protocol used to implement [[State-Machine Replication (SMR)]] in [[Distributed System]].
+It ensures strong ([[Linearizability]]) [[Consistency]] by making replicas agree on the same sequence of operations, even when some replicas crash.

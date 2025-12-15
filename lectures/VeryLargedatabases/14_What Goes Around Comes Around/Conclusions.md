@@ -1,0 +1,6 @@
+- Efforts to replace [[SQL]] or the [[Relational Model]]
+- Despite efforts to either of them
+- Instead, [[SQL]] absorbed the best ideas from these alternative approaches
+- Done 20 years ago, the same goes around today
+- Mostly related to the [["Stickness" of Data]]
+- Traditionally, [[SQL]] systems used for business data, but today used for any kind of data

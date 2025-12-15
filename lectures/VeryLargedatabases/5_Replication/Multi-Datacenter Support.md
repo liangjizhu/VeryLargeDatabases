@@ -1,0 +1,3 @@
+- [[Multi-Leader Replication]] is used in [[Multi-Datacenters]]. Why ?
+- [[Apache Cassandra]] and [[Voldemort]]: Writes to all [[Replication]], but awaits only response from local [[Replication]] ([[Quorum]])
+- [[Riak]] replicates locally and uses [[Asynchronous Replication]] for [[Multi-Datacenters]]

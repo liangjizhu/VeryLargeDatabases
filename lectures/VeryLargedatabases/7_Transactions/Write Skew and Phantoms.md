@@ -1,0 +1,11 @@
+![[Pasted image 20251211232430.png]]
+- [[Write Skew]] can occur if two [[Transactions]] read the same objects and then update some of those objects
+- [[Serializable Isolation]] level should solve this
+- [[Explicit Locking]]:
+	- ![[Pasted image 20251211232754.png]]
+- Pattern for problem:
+	- A SELECT [[Queries]] checks some conditions
+	- Depending on the result of the first [[Queries]], the application code decides how to continue
+	- If the application decides to go ahead, it makes a write to the database and commits the [[Transactions]]
+		- The effect, where a write in one [[Transactions]] changes the result of a search [[Queries]] in another [[Transactions]], is called a [[Phantom Read]]
+		- Example: Insert a new row into a table being counted by another [[Transactions]]

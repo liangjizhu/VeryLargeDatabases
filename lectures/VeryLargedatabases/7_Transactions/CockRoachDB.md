@@ -1,0 +1,1 @@
+A distributed [[SQL]] database inspired by [[Google Spanner]]. It provides strong [[Consistent]], [[ACID - Properties of a Transaction]] [[Transactions]], horizontal [[Scalability]], and automatic [[Fault-Tolerant or Resilient]] in a cloud-native architecture.

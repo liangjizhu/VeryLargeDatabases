@@ -1,0 +1,1 @@
+A centralised repository that stores large volumes of raw data in its original format, until it is needed for analysis.

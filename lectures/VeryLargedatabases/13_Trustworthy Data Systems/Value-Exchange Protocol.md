@@ -1,0 +1,1 @@
+A protocol that enables transfer of value (e.g. money, tokens, assets) between parties in a [[Distributed System]] without relying on a central trusted intermediary.

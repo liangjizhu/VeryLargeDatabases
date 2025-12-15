@@ -1,0 +1,1 @@
+The query language used by [[Apache Cassandra]], designed to look similar to [[SQL]] but adapted to Cassandra’s [[Distributed Data]] model.

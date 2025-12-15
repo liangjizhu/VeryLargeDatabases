@@ -1,0 +1,2 @@
+An optimization of Paxos used to agree on a sequence of values (a replicated log) efficiently.
+Instead of running full [[Paxos]] for every value, it reuses a stable leader to avoid repeated prepare phases.

@@ -1,0 +1,1 @@
+Martin Kleppmann is a well-known researcher, author and engineer in the field of [[Distributed System]], data management and database theory. He is especially influential in topics like [[Consistent]] models, [[Conflict-Free Replicated Datatypes (CRDTs)]] and distributed collaboration systems.

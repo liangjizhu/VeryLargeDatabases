@@ -1,0 +1,8 @@
+- With a [[Data Lakes]] architecture, applications upload files to a distributed object store, bypassing the traditional route through the [[Database Management Systems (DBMS)]]
+- [[Lake Houses]] systems provide a unified infrastructure supporting [[SQL]] and non-SQL workloads
+- [[Python-Based Notebooks]] that use [[Panda]]'s [[DataFrame API]] to access data instead of [[SQL]]
+- [[Dask]], [[Polars]], [[Modin]] and [[Bodo]]
+- Formats: Twitter / Cloudera's [[Parquet]] and Meta's [[Optimized Row Columnar (ORC)]]
+- [[Data Lakes]] are the successor to "[[BigData]]" movement from the early 2010s
+- New challenges to query optimisation
+- Independent systems: [[DataBricks]], [[Dremio]], [[PrestoDB]] and [[Trino]]

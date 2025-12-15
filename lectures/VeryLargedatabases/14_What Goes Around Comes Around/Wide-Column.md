@@ -1,0 +1,1 @@
+A [[NoSQL]] [[Data Modeling]] where data is stored in rows with a very large number of columns, grouped into column families.

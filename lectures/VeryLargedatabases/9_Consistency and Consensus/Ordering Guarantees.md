@@ -1,0 +1,6 @@
+- There are deep connections between ordering, [[Linearizability]] and consensus
+- Ordering helps preserve [[Causality]], example: causal dependency between the question and the answer
+- Example: a row must first be created before it can be updated
+- If a system obeys the ordering imposed by [[Causality]], we say that it is [[Causality Consistent]]
+- [[Linearizability]]: Total order of operations
+- [[Causality]]: Defines a partial order, some operations are incomparable

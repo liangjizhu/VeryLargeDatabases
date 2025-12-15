@@ -1,0 +1,1 @@
+The process of verifying that a [[Transactions]] is correct and acceptable across multiple nodes in a [[Distributed System]] before it is committed.

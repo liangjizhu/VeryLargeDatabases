@@ -1,0 +1,1 @@
+A backward-compatible change to a blockchain’s protocol rules that tightens or restricts what is considered a valid block or transaction.

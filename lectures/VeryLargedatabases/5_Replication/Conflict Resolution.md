@@ -1,0 +1,5 @@
+- On writes: As soon as the database system detects a conflict in the [[Log]] of replicated changes, it calls the [[Conflict Handler]]
+- On read: When a conflict is detected, all the conflicting writes are stored. All are read and a flag is set and the user resolves and writes back the correct value ([[Apache CouchDB]])
+- ![[Conflict-Free Replicated Datatypes (CRDTs)]]
+- ![[Mergeable Persistent Data Structures]]
+- ![[Operational Transformation]]

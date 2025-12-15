@@ -1,0 +1,1 @@
+A distributed [[Queries]] processing strategy where data is moved to the location where computation happens (typically to the client or a processing node).

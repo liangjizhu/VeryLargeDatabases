@@ -1,0 +1,9 @@
+- Highly accurate international time standard
+- Based on [[Atomic Clocks]]
+- An extra second is sometimes inserted due to Earth's rotation slowing down ([[Leap Seconds]])
+- Negative [[Leap Seconds]] may appear as well
+- Time zones are relative to [[Coordinated Universal Time (UTC)]]
+	- We are at [[Coordinated Universal Time (UTC)]] + 1 ([[Coordinated Universal Time (UTC)]] +2 in the summer)
+- Transmitted using
+	- Ground based stations (1ms accuracy)
+	- Satellites GPS (1μs accuracy)

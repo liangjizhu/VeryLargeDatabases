@@ -1,0 +1,1 @@
+A [[Consensus Algorithms]] designed by Leslie Lamport that allows a group of distributed processes to agree on a single value despite crash failures and message delays.

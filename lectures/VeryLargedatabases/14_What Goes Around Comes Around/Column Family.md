@@ -1,0 +1,1 @@
+A [[Data Modeling]] concept used in [[Column-Oriented Databases]] and [[NoSQL]] databases, where data is stored by columns grouped into families, rather than by rows.

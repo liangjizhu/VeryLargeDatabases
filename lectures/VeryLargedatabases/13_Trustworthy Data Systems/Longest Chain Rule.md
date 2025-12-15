@@ -1,0 +1,1 @@
+A consensus rule used in blockchain networks to determine the valid chain when multiple forks occur, based on the assumption that the longest valid chain (the one with the most cumulative work or blocks) is the correct one.

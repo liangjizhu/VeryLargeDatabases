@@ -1,0 +1,1 @@
+Refers to which data versions or writes a [[Transactions]] or operation is allowed to see during its execution.

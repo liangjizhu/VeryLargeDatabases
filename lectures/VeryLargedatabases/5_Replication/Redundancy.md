@@ -1,0 +1,1 @@
+The use of extra components or data copies to increase [[Fault-Tolerant or Resilient]] and [[Availability]].

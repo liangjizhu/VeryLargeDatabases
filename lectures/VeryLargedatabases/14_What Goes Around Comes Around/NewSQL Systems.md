@@ -1,0 +1,6 @@
+- [[NoSQL]] provided [[Scalability]] with [[Sharding or Partitioning]] without support for [[Transactions]]
+- [[NewSQL]] was created to provide [[Scalability]] together with [[Distributed Transactions]]
+- [[In-Memory Databases]], including [[H-Store]] (commercialised as [[VoltDB]]), [[SingleStore]], [[Microsoft Hekaton]] and [[HyPer]]
+- [[Disk-Oriented Databases]]: [[NuoDB]] and [[Clustrix]]
+- Distributed, transactional [[SQL]] [[Relational Database Management System (RDBMS)]]: [[Google Spanner]], [[TiDB]], [[CockRoachDB]], [[PlanetScale]] (based on the [[Vitess Sharding Middleware]]) and [[YugaByteDB]]
+- Restrictions in [[NewSQL]] [[Database Management Systems (DBMS)]]: Only supporting a subset of standard [[SQL]] or bar [[Performance]] on multi-node [[Transactions]]

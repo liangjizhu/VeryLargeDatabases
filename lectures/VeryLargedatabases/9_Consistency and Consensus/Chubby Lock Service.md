@@ -1,0 +1,1 @@
+Distributed lock service developed by Google to provide [[Coarse-Grained Locking]], naming and coordination for [[Distributed System]].

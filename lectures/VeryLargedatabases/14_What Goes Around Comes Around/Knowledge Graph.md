@@ -1,0 +1,1 @@
+A graph-based [[Data Modeling]] that represents entities, their attributes, and the relationships between them.

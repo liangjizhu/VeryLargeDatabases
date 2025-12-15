@@ -1,0 +1,7 @@
+- What is a hash table ?
+- What is it good for ?
+- Key operations
+	- [[Chord - Lookup]] (key): value
+	- Insert (key, value): pair
+	- Delete (key)
+- Question: Can we create a big distributed, Internet-Scale Hash Table ?

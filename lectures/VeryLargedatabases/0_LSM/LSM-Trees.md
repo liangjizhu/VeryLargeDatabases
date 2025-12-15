@@ -1,6 +1,6 @@
 Log-Structured Merge Tree, O'Neil & O'neil 1996
 ![[Pasted image 20251203022810.png]]
-A data structure that optimises for fast writes by using an in-memory structure and multiple on-disk structures using [[key-value store]].
+A data structure that optimises for fast writes by using an in-memory structure and multiple on-disk structures using [[Key-Value Store]].
 
 Writes are initially buffered in a fast, in-memory component called a [[Mem-table]]. When it fills up, it is sorted and flushed to disk as a [[Sorted String Table]]. These ones are periodically merged and compacted to improve read performances.
 

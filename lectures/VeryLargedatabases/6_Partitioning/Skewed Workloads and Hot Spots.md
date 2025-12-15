@@ -1,0 +1,4 @@
+- Sometimes hashing doesn't load balance well
+- All writes happen to the same key being hashed
+- A technique to solve this is to let the application use an additional random key to the start or the end of the shared key
+- It is also possible to use a different hash function if the current hash function doesn't work very well

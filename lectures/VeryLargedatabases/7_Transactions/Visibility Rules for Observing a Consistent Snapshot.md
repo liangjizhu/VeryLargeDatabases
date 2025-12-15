@@ -1,0 +1,6 @@
+- [[Transactions]]Ids are used to decide [[Visibility]] of objects
+	- Existing, active [[Transactions]]' writes are not visible to a new [[Transactions]]
+	- Writes by aborted [[Transactions]] are ignored
+	- Writes by newer [[Transactions]] are not visible
+	- All other writes are visible
+- Alternative rules (skipped)

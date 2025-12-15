@@ -1,0 +1,1 @@
+The ability of a transaction or operation in a distributed system to be safely aborted (canceled) without leaving the system in an inconsistent or partially updated state.

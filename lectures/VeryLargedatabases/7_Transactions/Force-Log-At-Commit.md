@@ -1,0 +1,1 @@
+A [[Durability]] technique used in transactional storage systems where the log record for a [[Transactions]]’s commit must be forcefully written to stable storage before the commit is considered complete.

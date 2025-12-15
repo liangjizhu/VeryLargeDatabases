@@ -1,0 +1,1 @@
+Effects visible immediately after completion

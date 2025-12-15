@@ -1,0 +1,1 @@
+A [[GPU]]-accelerated analytical database designed for high-[[Performance]] [[SQL]] [[Analytics]].

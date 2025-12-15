@@ -1,0 +1,1 @@
+The total time it takes for a message to travel from a sender to a receiver and back again.

@@ -1,0 +1,5 @@
+- [[Apache Thrift]], [[gRPC]] ([[Protocol Buffers]]), [[Finagle]], [[Rest.li]] are examples of [[RPC]]s
+- Using [[Futures (Threads)]] simplifies error handling and parallel requiests
+- [[gRPC]] uses [[Streams (Multiple Calls and Replies)]]
+- Custom [[RPC]] using [[Binary Encoding]] may achieve good performance
+- [[JSON]] over [[REST]] may provide good flexibility and is supported by many tools and programming languages

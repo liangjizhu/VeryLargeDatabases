@@ -1,0 +1,1 @@
+A multi-stage, [[Fat-Tree Network Architecture]] widely used in modern data centers to provide high bandwidth, low latency and [[Fault-Tolerant or Resilient]]. It was originally designed by Charles Clos for telephone switching networks but is now the standard for large-scale cloud and [[Distributed System]]

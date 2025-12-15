@@ -1,0 +1,1 @@
+An open-source, distributed [[NoSQL]] database designed for real-time applications. Its main innovation is that it pushes updates to clients automatically whenever data changes—ideal for dashboards, live apps and collaborative tools.

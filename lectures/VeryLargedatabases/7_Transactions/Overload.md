@@ -1,0 +1,1 @@
+When a system or node receives more requests, data, or work than it can process within acceptable time.

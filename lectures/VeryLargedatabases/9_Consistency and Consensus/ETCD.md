@@ -1,0 +1,2 @@
+A distributed, strongly consistent [[Key-Value Store]] used for coordination and configuration in [[Distributed System]].
+It provides linearizable (strongly consistent) reads and writes and is designed to be highly reliable rather than high-throughput.

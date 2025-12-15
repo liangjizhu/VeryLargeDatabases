@@ -1,0 +1,3 @@
+- To implement a [[Uniqueness]] constraint for user-names, it is not sufficient to have a total ordering of operations - you need to know when that order is finalised among all nodes
+- Partitioned databases with a [[Single-Leader]] per partition often maintain ordering only per partition, which means they cannot offer [[Consistency]] guarantees across partitions
+- ![[Total Order Broadcast]]

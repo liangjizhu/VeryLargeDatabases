@@ -1,0 +1,1 @@
+- Techniques that require no user involvement or even awareness of the underlying [[Replication]] scheme

@@ -1,0 +1,6 @@
+- [[ViewStamped Replicaition (VSR)]]
+- [[Paxos]] (and [[Multi-Paxos]])
+- [[RAFT]]
+- [[ZooKeeper Atomic Broadcast (ZAB)]]
+- They decide on a sequence of values: [[Total Order Broadcast]] algorithms
+- Messages to be delivered exactly once, in the same order, to all nodes

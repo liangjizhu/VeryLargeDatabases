@@ -1,0 +1,1 @@
+The property that a system behaves according to its specification, producing valid results despite concurrency, failures and message delays.

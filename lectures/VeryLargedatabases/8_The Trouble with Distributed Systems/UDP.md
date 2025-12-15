@@ -1,0 +1,2 @@
+User Datagram Protocol
+A lightweight, connectionless transport protocol in the Internet protocol suite. It provides fast, low-overhead, best-effort delivery of packets but does not guarantee reliability, ordering or duplication prevention.

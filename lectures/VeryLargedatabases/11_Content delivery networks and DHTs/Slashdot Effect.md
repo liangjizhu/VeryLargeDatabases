@@ -1,0 +1,1 @@
+A specific type of [[Flash Crowd]] where a website experiences a sudden traffic spike after being linked from a very popular site (historically, Slashdot).

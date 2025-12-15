@@ -1,0 +1,1 @@
+Monotonic counters used to order events in a [[Distributed System]] without relying on [[Physical Time]].

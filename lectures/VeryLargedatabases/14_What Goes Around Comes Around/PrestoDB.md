@@ -1,0 +1,1 @@
+An open-source, distributed [[SQL]] query engine designed for fast analytical queries over large datasets.

@@ -1,0 +1,1 @@
+A [[Liveness]] property that guarantees that every correct process eventually reaches a decision (or delivers a message), rather than waiting forever.

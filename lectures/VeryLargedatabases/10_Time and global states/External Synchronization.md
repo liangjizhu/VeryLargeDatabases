@@ -1,0 +1,2 @@
+- Clocks synchronized against an external time source
+- [[Christian's Algorithm]]

@@ -1,0 +1,1 @@
+When a [[Transactions]] or [[Queries]] reads data that should not be visible, often due to [[Concurrency]] or [[Consistency]] issues in a database or [[Distributed System]].

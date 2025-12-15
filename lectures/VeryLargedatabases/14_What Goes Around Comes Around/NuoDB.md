@@ -1,0 +1,1 @@
+A distributed SQL ([[NewSQL]]) database designed for elastic [[Scalability]] and high [[Availability]].

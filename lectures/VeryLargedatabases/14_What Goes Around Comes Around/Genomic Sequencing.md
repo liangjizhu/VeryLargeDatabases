@@ -1,0 +1,1 @@
+The process of determining the exact order of nucleotides (A, C, G, T) in an organism’s DNA.

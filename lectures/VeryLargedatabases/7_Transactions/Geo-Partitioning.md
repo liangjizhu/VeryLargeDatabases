@@ -1,0 +1,1 @@
+A data placement strategy in distributed databases where data is partitioned and stored in specific geographic regions so that users in those regions access data with low latency and reduced cross-region traffic.

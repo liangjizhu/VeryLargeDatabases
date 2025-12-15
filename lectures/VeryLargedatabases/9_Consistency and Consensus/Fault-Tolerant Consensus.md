@@ -1,0 +1,6 @@
+- One or more nodes may propose values and the [[Consensus Algorithms]] decides on one of those values
+- Everyone decides on the same outcome and once you have decided, you cannot change your mind
+- [[Uniform Agreement]]: No two nodes decide differently
+- [[Integrity]]: No node decides twice
+- [[Validity]]: If a node decides value v, then v was proposed by some node
+- [[Termination]]: Every node that dos not crash eventually decides some value

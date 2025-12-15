@@ -1,0 +1,1 @@
+An in-memory [[Online Transaction Processing (OLTP)]] engine for [[SQL Server]], designed for very high [[Transactions]] throughput and low [[Latency]].

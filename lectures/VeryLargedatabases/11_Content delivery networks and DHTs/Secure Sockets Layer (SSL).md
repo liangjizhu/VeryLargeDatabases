@@ -1,0 +1,1 @@
+A cryptographic protocol used to provide secure communication over a network. In practice, [[Secure Sockets Layer (SSL)]] has been replaced by [[Transport Layer Security (TLS)]], but the term [[Secure Sockets Layer (SSL)]] is still commonly used.

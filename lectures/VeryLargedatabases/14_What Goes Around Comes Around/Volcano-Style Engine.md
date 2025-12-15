@@ -1,0 +1,1 @@
+A query execution model used in many database systems.

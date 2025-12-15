@@ -1,0 +1,4 @@
+- Errors due to software or hardware bugs:
+	- [[Checksums]] on messages
+	- Checking input values
+	- [[Network Time Protocol (NTP)]] clients must connect to multiple servers to estimate errors in time

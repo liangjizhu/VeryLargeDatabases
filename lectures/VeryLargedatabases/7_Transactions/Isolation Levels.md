@@ -1,0 +1,1 @@
+Define how much one [[Transactions]] is shielded from the effects of other [[Concurrent]] [[Transactions]]. Lower isolation increases performance but allows more anomalies; higher isolation reduces anomalies but increases blocking or aborts.

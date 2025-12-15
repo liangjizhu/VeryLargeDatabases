@@ -1,0 +1,4 @@
+- Rows may contain foreign keys, thus need to update several rows in different tables
+- [[Document Databases]] using [[Normalisation]] may have the same problem, documents referencing other documents
+- Secondary indexes require multiple writes belonging to the same logical operation
+- Operations belonging to the same logical task (of course)

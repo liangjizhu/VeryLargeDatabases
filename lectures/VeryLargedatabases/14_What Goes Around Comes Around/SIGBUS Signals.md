@@ -1,0 +1,1 @@
+SIGBUS is a Unix/Linux signal sent to a process when it makes an invalid memory access at the hardware level, often related to [[Memory-Mapped Files (MMAP)]].

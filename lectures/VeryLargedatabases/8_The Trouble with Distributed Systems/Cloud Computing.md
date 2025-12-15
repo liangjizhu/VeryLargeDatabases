@@ -1,0 +1,1 @@
+A model where computing resources (servers, storage, databases, networking, software) are provided on-demand over the internet, instead of being owned and managed locally. Users pay for what they use and can scale resources up or down easily.

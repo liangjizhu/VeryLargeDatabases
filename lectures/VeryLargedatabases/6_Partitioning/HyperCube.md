@@ -1,0 +1,1 @@
+In [[Distributed System]] and parallel computing, a hypercube refers to a network topology where nodes are connected in a structure analogous to an n-dimensional cube. Each node has connections to other nodes based on binary addresses that differ in exactly one bit.

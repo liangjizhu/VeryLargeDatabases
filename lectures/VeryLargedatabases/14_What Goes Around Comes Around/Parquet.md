@@ -1,0 +1,1 @@
+A columnar storage file format optimized for analytical workloads.

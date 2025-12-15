@@ -1,0 +1,5 @@
+- Initialise node n (The predecessor and the [[Finger Table]])
+	- The simplest approach is to execute find successor [[Queries]] for all m entries, resulting in O(m logN) initialisation time
+- Notify other nodes to update their predecessors and [[Finger Table]]
+- The new node takes over its responsible keys from its successor
+	- To ensure correct [[Chord - Lookup]], a [[Stabilisation Protocol]] is running periodically and updates [[Finger Table]] and successor pointers

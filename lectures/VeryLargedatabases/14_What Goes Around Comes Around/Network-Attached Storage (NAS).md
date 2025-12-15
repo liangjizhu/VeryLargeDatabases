@@ -1,0 +1,1 @@
+A dedicated storage system that provides file-level access to data over a network.

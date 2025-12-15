@@ -1,0 +1,1 @@
+A mode of operation in clock synchronization protocols (notably [[Network Time Protocol (NTP)]]) where both peers act as equals, synchronizing their clocks with each other, rather than one acting as a dedicated master and the other as a client.

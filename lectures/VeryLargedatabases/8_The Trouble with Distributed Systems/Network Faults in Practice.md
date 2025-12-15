@@ -1,0 +1,8 @@
+- Networks are unreliable and all sorts of faults may occur
+- Human missconfigurations is the biggest cause
+- Fault detection may be necessary
+	- A [[Load Balancer]] needs to stop sending requests to a node that is dead
+	- In a distributed database with [[Single-Leader]] [[Replication]], if the leader fails, one of the followers needs to be promoted
+- Some feedback is possible
+	- On crash of server process: The OS will helpfully close or refuse [[TCP or IP]] connections by sending a [[RST]] or [[FIN]] reply
+	- If a node's process crashed but the node's OS is still running, a script can notify other nodes about the crash

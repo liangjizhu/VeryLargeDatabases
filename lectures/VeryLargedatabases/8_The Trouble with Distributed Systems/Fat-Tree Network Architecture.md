@@ -1,0 +1,1 @@
+A network topology commonly used in data centers and [[High-Performance Computing (HPC)]] clusters to provide high bandwidth, [[Scalability]] and [[Fault-Tolerant or Resilient]]. It is closely related to [[Clos Topologies]], and in practice, modern data center networks are often fat-tree variants of Clos networks.

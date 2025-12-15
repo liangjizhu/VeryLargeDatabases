@@ -1,0 +1,3 @@
+- When a node leaves, it must transfer its content to its successor
+- What if a node fails ?
+	- That is what the [[Stabilisation Protocol]] is for

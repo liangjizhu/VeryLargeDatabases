@@ -1,0 +1,1 @@
+A standard interface for [[Distributed Transactions]] that allows a transaction manager to coordinate a single transaction across multiple heterogeneous resource managers (e.g., databases, [[Message Queue]]).

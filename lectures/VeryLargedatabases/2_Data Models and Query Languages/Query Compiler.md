@@ -1,1 +1,1 @@
-A software tool that translates high-level, declarative [[query]] language statements (like [[SQL]]) into a detailed, low-level [[query]] execution plan or machine code that a database system can execute efficiently. 
+A software tool that translates high-level, declarative [[Queries]] language statements (like [[SQL]]) into a detailed, low-level [[Queries]] execution plan or machine code that a database system can execute efficiently. 

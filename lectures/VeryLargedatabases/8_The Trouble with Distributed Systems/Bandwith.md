@@ -1,0 +1,1 @@
+The maximum rate at which data can be transmitted over a network link or communication channel, usually measured in bits per second (bps).

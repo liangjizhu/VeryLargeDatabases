@@ -1,0 +1,11 @@
+Type of database that stores data as a collection of [[key-value pairs]], where a unique key is used to retrieve an associated value.
+- (key, value)
+- The value is typically an untyped array of bytes (example: a blob) and the [[Database Management Systems (DBMS)]] is unaware of its contents
+- get / set / delete operations
+- Caching and storing session data: [[MemCached]] and [[Redis]]
+- [[Amazon Dynamo]] (2007)
+- Google [[LevelDB]] (2010) and Meta's [[RocksDB]]
+- Some replaced the opaque value with a [[Semi-Structured]] value, such as a [[JSON]] document. [[Amazon Dynamo]] and [[Aerospike]]
+- [[MySQL]] was the first [[Database Management Systems (DBMS)]] to expose an [[API]] that allowed developers to replace its default [[Key-Value Store]] manager. This [[API]] enabled Meta to build [[RocksDB]] to replace [[InnoDB]] for its massive fleet of [[MySQL]] databases
+- [[MongoDB]] discarded their ill-fated [[MMAP Based Storage Manager]] in favour of [[WiredTiger]]'s [[Key-Value Store]] (2014)
+- ![[Memory-Mapped Files (MMAP)]]

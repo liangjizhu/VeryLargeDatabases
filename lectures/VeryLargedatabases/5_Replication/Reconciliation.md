@@ -1,0 +1,1 @@
+The process of detecting and resolving inconsistencies between replicas to make their data [[Consistent]] again.

@@ -1,0 +1,1 @@
+A simple type of failure in [[Distributed System]] where a node permanently stops working and never recovers or sends any further messages. Once it crashes, it is gone forever from the system’s perspective.

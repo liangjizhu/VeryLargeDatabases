@@ -1,0 +1,1 @@
+Store data by columns rather than by rows, optimizing access to specific attributes across many records.

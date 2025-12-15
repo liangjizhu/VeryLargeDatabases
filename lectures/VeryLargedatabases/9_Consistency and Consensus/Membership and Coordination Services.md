@@ -1,0 +1,9 @@
+- [[Apache ZooKeeper]] and [[ETCD]] are designed to hold small amounts of data that can fit entirely in memory
+- [[Apache ZooKeeper]] is modeled after Google's [[Chubby Lock Service]]
+	- Linearizable atomic operations
+	- Total ordering of operations
+	- Failure detection
+	- Change notification
+- [[Apache ZooKeeper]] runs on a fixed number of nodes (usually three or five) and performs its majority votes among those nodes while supporting a potentially large number of clients
+- Service discovery does not require consensus, leader election does
+- A membership service determines which nodes are currently active and live members of a cluster

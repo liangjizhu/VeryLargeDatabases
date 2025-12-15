@@ -1,0 +1,1 @@
+The source of the data stream—a device or logical entity that produces timestamped measurements.

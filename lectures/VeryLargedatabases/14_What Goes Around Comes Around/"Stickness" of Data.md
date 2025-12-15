@@ -1,0 +1,1 @@
+Refers to the tendency or requirement for data to remain bound to a specific node, location or partition, instead of being freely moved across the system.

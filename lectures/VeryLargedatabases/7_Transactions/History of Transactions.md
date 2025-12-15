@@ -1,0 +1,7 @@
+- Started with [[System R (IBM)]] in the 70s
+- Supported almost without change since then in [[SQL]] databases ([[MySQL]], [[PostgreSQL]], [[Oracle]], [[SQL Server]], [[DB2]])
+- [[NoSQL]] skipped [[Transactions]]
+	- [[Partitioning]]
+	- [[Replication]]
+	- [[CRUD]]
+- [[NewSQL]] added [[Transactions]] to [[NoSQL]] ([[Google Spanner]], [[CockRoachDB]], [[YugaByteDB]], [[TiDB]])

@@ -1,0 +1,9 @@
+- Single server
+	- Easily overloaded
+	- Single point of failure
+	- Far from most clients ([[Latency]] can be high)
+- Popular content
+	- Popular site
+	- "[[Flash Crowd]]" (aka "[[Slashdot Effect]]")
+	- Denial of Service attack
+- Solution: [[Web Caching]]

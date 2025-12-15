@@ -1,0 +1,1 @@
+A sudden and massive surge of users accessing the same system, service or content at the same time. This spike in traffic is usually unexpected and can overwhelm servers, networks or applications.

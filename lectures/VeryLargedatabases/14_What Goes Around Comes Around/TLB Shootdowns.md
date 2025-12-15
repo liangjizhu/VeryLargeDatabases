@@ -1,0 +1,1 @@
+TLB shootdowns occur when a system must invalidate entries in the [[Translation Lookaside Buffer (TLB)]] across one or more CPU cores to keep virtual-to-physical memory mappings consistent.

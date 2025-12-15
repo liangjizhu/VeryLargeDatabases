@@ -1,0 +1,6 @@
+- Each machine is a node having CPU, memory, disks and network interface
+- Coordination between nodes done through network messages
+- No special hardware needed
+- You need to be aware of the constraints and trade-offs that occur in such a [[Distributed System]]
+- The database cannot magically hide these from you
+- Beware: In some cases, a simple single-threaded program can perform significantly better than a cluster with over 100 CPU cores

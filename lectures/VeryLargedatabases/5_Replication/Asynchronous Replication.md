@@ -1,0 +1,5 @@
+- Often, [[Leader-Based Replication]] is configured to be completely asynchronous
+- May cause lost updates in case of crash of leader
+- The leader can continue processing writes, even if all of its followers have fallen behind
+- Weakened durability. But widely used anyway
+- [[Chain Replication]] is a method applied by Microsoft (but created at [[Cornell, Rob van Renesse]]): Updates at head, reads at tail the chain

@@ -1,0 +1,1 @@
+A state in [[Two-Phase Commit (2PC)]] where a participant has voted YES ([[Ready-To-Commit]]) but has not yet learned the final decision (COMMIT or ABORT).

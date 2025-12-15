@@ -1,0 +1,1 @@
+A prominent computer scientist best known for formulating the CAP Theorem, one of the most influential ideas in [[Distributed System]].

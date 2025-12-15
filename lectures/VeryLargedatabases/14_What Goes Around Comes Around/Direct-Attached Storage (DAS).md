@@ -1,0 +1,1 @@
+Storage that is physically connected to a single server, without a network in between.

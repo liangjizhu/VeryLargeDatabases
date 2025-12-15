@@ -1,0 +1,1 @@
+[[Distributed System]] that use a [[Consensus Algorithms]] to ensure that multiple nodes agree on a single value or an ordered sequence of values, even in the presence of crashes, delays and partial failures.

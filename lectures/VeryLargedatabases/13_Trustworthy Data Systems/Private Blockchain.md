@@ -1,0 +1,4 @@
+- Closed permissioned network
+- Identified, trusted participants
+- Regulated control
+- Small to medium-scale [[Distributed Ledger System]]

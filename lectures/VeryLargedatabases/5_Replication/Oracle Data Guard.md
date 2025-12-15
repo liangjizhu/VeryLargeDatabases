@@ -1,0 +1,1 @@
+Oracle technology for database replication and high availability, maintaining synchronised standby databases.

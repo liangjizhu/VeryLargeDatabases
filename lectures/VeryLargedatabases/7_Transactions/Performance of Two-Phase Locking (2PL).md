@@ -1,0 +1,4 @@
+- Overhead of acquiring and releasing all those locks
+- Reduced [[Concurrency]]
+- It may take just one slow [[Transactions]] or one [[Transactions]] that accesses a lot of data and acquires many locks, to cause the rest of the system to grind to a halt
+- [[Deadlocks]], abortions and retries

@@ -1,0 +1,10 @@
+- ![[Failure Detection]]
+- Election of new leader, or pre-determined
+- [[Takeover]] - The new is the leader
+- Problems:
+	- Some updates weren't received before [[Takeover]]. The old leader may have "lost updates" when recovering
+	- The new leader should "bump-up" anything used for identification (Auto-increment keys and log sequence numbers)
+	- [[Split-Brain]]: 2 new nodes both think they are the leader
+	- What timeout to use ?
+		- Too small: False failures may be detected
+		- Too big: Long time without any leader ([[Unavailability]])

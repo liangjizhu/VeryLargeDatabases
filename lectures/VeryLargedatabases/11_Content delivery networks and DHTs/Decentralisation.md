@@ -1,0 +1,1 @@
+A design principle where control, data, and decision-making are distributed across multiple nodes, rather than relying on a single central authority.

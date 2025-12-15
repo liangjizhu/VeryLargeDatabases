@@ -1,0 +1,1 @@
+The company that created and maintains [[TiDB]], a popular open-source distributed [[SQL]] ([[NewSQL]]) database. [[PingCAP]] focuses on building scalable, cloud-native database technologies for modern data-intensive applications.

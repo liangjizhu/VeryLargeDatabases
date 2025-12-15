@@ -1,0 +1,1 @@
+Streams enable multiple requests and replies over a single connection, allowing continuous or bidirectional communication.

@@ -1,0 +1,1 @@
+The idea that in a [[Distributed System]], messages or operations may be delayed for an arbitrarily long time, with no guaranteed upper time limit.

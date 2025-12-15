@@ -1,0 +1,9 @@
+- Buy a server
+	- Requires the acquisition of a physical machine
+	- [[Database Administrator (DBA)]] and maintenance are done by the client
+- Rent a server
+	- Fixed cost per month
+	- [[Database Administrator (DBA)]] is done by the developers of the application, but maintenance is done by the service provider
+- Rent an instance
+	- Fixed cost per month
+	- [[Database Administrator (DBA)]] and maintenance are done by the service provider

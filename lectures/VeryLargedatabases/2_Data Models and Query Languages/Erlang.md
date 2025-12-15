@@ -1,1 +1,1 @@
-A functional programming language and runtime system designed for building massively scalable, [[Faults]]-tolerant, distributed systems with high [[availability]], famously used in telecom, messaging (like WhatsApp) and internet infrastructure.
+A functional programming language and runtime system designed for building massively scalable, [[Faults]]-tolerant, distributed systems with high [[Availability]], famously used in telecom, messaging (like WhatsApp) and internet infrastructure.

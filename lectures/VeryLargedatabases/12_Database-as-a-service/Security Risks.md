@@ -1,0 +1,1 @@
+Potential threats or vulnerabilities that can compromise the [[Confidentiality]], [[Integrity]] or [[Availability]] of a system or its data.

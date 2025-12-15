@@ -1,0 +1,1 @@
+Append-only sequence of bytes containing all writes (and commits / aborts)

@@ -1,0 +1,6 @@
+- [[Eric Brewer]], 2000: [[Consistency]], [[Availability]] and [[Partition Tolerance]]. Choose any two
+- Applications that don't require [[Linearizability]] can be more tolerant of network problems
+- Either [[Consistent]] or Available when Partitioned
+- Partitioned isn't something you choose
+- [[The CAP Theorem]] awakened the interest in other solutions than [[Consistency]]
+- [[The CAP Theorem]] isn't used so much anymore

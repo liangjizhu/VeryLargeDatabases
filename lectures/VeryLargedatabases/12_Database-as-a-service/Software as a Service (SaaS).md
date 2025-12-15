@@ -1,0 +1,1 @@
+A cloud computing model where complete applications are delivered to users over the Internet.

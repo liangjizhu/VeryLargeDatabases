@@ -1,0 +1,1 @@
+Database systems where data primarily resides on disk rather than in main memory.

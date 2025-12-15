@@ -1,0 +1,1 @@
+A type of failure in [[Distributed System]] where a node may crash (stop operating) but later recover and rejoin the system, possibly with its persistent state intact. This is a more realistic model than crash-stop faults because real servers often reboot or restart.

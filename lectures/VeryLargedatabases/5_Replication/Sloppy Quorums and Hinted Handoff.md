@@ -1,0 +1,5 @@
+- [[Dynamo-Style]] systems, with some unreachable nodes
+- We should accept writes anyway, and write them to some nodes that are reachable but aren't among the **n** nodes on which the values usually lives
+- Writes and reads still require **w** amd **r** successful responses, but those may include nodes that are not among the designated **n** "home" nodes for a value
+- A [[Sloppy Quorums]] is a [[Durability]] assurance
+- [[Sloppy Quorums]] are optional in [[Riak]], [[Voldemort]] and [[Apache Cassandra]]

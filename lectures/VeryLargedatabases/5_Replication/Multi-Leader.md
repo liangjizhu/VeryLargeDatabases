@@ -1,0 +1,1 @@
+Allows multiple nodes to accept writes, with changes replicated between leaders, requiring conflict resolution.

@@ -1,0 +1,1 @@
+Extends standard SQL (which is [[Declarative]]) with imperative programming features such as variables, loops, conditionals and control flow. It allows you to write procedures, functions and [[Triggers]] that perform complex logic inside the database engine.

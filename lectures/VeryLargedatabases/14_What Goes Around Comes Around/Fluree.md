@@ -1,0 +1,1 @@
+A [[Blockchains]]-based graph database designed for trusted, auditable data management.

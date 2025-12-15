@@ -13,4 +13,4 @@
 		- [[Sequetial Writes]]
 		- [[Concurrency]] and [[Crash Recovery]] become easier
 		- Merging prevents fragmentation
-	- [[HashMap]] must fit in-memory and range [[query]] are problematic
+	- [[HashMap]] must fit in-memory and range [[Queries]] are problematic

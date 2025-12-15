@@ -1,0 +1,1 @@
+A method of data transmission where messages are broken into small packets, and each packet is sent independently across the network, possibly taking different paths to reach the destination. The destination then reassembles the packets into the original message.

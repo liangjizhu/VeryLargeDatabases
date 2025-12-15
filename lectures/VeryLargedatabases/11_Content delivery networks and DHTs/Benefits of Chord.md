@@ -1,0 +1,8 @@
+- Storage load balance
+	- Spread keys over nodes evenly
+- [[Decentralisation]]
+	- Fully distributed, no single point of failure
+- [[Scalability]]
+	- [[Chord - Lookup]] grows logarithmically in the number of nodes
+- [[Availability]]
+	- Adjusts tables when nodes join / leaves

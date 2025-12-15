@@ -1,0 +1,1 @@
+A network of physical objects (“things”) that are equipped with sensors, software and connectivity to collect and exchange data over the Internet.

@@ -1,0 +1,1 @@
+A strong agreement property in [[Distributed Consensus]] and broadcast algorithms.

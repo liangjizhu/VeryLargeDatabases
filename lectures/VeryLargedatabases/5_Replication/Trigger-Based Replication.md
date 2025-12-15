@@ -1,0 +1,6 @@
+- When [[Flexibility]] is needed
+- Replicate a subset of the data
+- Need conflict resolution
+- [[Triggers]] and stored procedures let "application code" be run when updates appear
+- The [[Triggers]] may [[Log]] the update into a separate change table, which again may be read by a [[Replication]] process
+- General approach with higher runtime cost that special purpose [[Replication]] approaches

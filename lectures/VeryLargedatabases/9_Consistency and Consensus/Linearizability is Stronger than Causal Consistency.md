@@ -1,0 +1,5 @@
+- [[Linearizability]] implies [[Causality]]
+- Performance considerations: Some [[Distributed System]] have abandoned [[Linearizability]]
+- [[Causality Consistent]] is the strongest possible [[Consistency]] model that does not slow down due to network delays and remains available in the face of network failures
+- We can use sequence numbers or timestamps to order events
+- However, physical clocks cannot be used

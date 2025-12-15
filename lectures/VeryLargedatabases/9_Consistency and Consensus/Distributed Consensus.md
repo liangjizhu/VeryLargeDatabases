@@ -1,0 +1,1 @@
+The problem of getting a set of distributed processes to agree on a single value or sequence of values, even in the presence of failures, message delays and [[Concurrency]].

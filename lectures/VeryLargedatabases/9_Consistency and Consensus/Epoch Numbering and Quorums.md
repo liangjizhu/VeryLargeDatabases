@@ -1,0 +1,4 @@
+- [[Epoch Number]]: The algorithms guarantee that within each epoch, the leader is unique
+- Every time the current leader is thought to be dead, a vote is started among the nodes to elect a new leader
+- The new leader must collect votes from a [[Quorum]] of nodes to see that it has the highest [[Epoch Number]] number
+- Some systems also allow nodes to have weights in [[Quorum]]

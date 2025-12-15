@@ -1,0 +1,1 @@
+An open-source, distributed, scalable [[NoSQL]] database built on top of [[Hadoop]] HDFS. It is modeled after Google Bigtable and designed for massive tables, real-time reads/writes, and horizontal [[Scalability]].

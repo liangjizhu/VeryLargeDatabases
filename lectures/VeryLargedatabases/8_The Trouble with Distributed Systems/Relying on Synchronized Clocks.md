@@ -1,0 +1,3 @@
+- Clocks work quite well most of the time, but robust software needs to be prepared to deal with incorrectness
+- Incorrect clocks easily go unnoticed
+- If you use software that requires [[Synchronized Clocks]], it is essential that you carefully monitor the clock offsets

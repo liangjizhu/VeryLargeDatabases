@@ -1,0 +1,1 @@
+It refers to query languages and standards for querying [[Property Graph]].

@@ -1,0 +1,1 @@
+The ability of a data system to dynamically allocate and scale resources for each individual query.

@@ -1,0 +1,1 @@
+A cloud-based data analytics platform built around [[Apache Spark]]

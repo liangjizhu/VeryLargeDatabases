@@ -1,0 +1,8 @@
+- [[Enterprise JavaBeans (EJB)]], [[Java RMI]], [[CORBA]], [[DCOM]], [[Sun RPC]], ...
+- Make a request to a remote network service look the same as calling a function or method
+	- Unpredictable behaviour - Error handling necessary
+	- Timeouts (No answer)
+	- [[Idempotence]] ? Retries
+	- Response time widely variable
+	- Parameters must be masrshalled and complex objects are problematic
+	- Different programming languages at both ends ? Problems with data types ?

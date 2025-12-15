@@ -1,0 +1,3 @@
+A subtle anomaly that can occur under [[Snapshot Isolation]] (SI) or other [[Multi-Version Concurrency Control (MVCC)]]-based systems. 
+It happens when two [[Concurrent]] transactions read the same data, both make decisions based on that snapshot, and then write to different rows in a way that violates a constraint—even though there was no direct write-write conflict.
+This anomaly is NOT possible under [[Serializable Isolation]], but IS allowed under [[Snapshot Isolation]].

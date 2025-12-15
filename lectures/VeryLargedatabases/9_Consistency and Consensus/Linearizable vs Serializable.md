@@ -1,0 +1,4 @@
+- [[Serializability]]: Guarantees that transactions behave the same as if they had executed in some serial order
+- [[Linearizability]]: Recency guarantee on reads and writes
+- Implementations of [[Serializability]] based on [[Two-Phase Locking (2PL)]] or actual [[Serial Execution]] are linearizable
+- Serializable [[Snapshot Isolation]] is by design not linearizable. It hides concurret writes

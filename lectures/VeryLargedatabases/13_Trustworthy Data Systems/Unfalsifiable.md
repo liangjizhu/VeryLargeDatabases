@@ -1,0 +1,1 @@
+A claim, theory, or statement that cannot be proven false, even in principle, by observation or experiment.

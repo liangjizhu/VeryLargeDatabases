@@ -1,0 +1,1 @@
+HTTP/2 is a newer version of HTTP that provides multiplexing, header compression, and faster, more efficient connections than HTTP/1.1.

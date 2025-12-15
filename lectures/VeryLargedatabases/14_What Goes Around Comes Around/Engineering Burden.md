@@ -1,0 +1,1 @@
+Refers to the cost and effort required to design, build, maintain and evolve a system.

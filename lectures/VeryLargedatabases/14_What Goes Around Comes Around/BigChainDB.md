@@ -1,0 +1,1 @@
+A distributed database that combines [[Blockchains]] properties with high-throughput database performance.

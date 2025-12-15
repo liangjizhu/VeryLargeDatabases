@@ -1,0 +1,1 @@
+A lightweight virtualisation technology that packages an application together with its dependencies so it can run consistently across different environments.

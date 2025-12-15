@@ -1,0 +1,1 @@
+A company and platform that provides enterprise messaging and integration software, especially [[Message Broker]] and event-driven middleware.

@@ -1,0 +1,6 @@
+- Client
+	- Clients interact with a shared table via their own [[BlockchainDB]] peer
+- [[Database Layer]]
+	- Mainly responsible to execute the put / get calls from the clients
+- [[Storage Layer]]
+	- A persistent auditable storage backend based on existing [[Blockchains]] systems

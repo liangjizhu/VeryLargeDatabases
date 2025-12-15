@@ -1,0 +1,1 @@
+The process of moving a running virtual machine or [[Containers]] from one physical host to another without significant downtime.

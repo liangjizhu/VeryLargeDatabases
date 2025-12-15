@@ -1,0 +1,5 @@
+- If a [[Timeout]] is the only sure way of detecting a fault, then how long should the [[Timeout]] be ?
+- A long [[Timeout]] means a long wait until a node is declared dead
+- A short [[Timeout]] detects faults faster, but carries a higher risk of incorrectly declaring a node dead
+- When a node is declared dead, its responsibilities need to be transferred to other nodes, which places additional load on other nodes and the network
+- Most systems we work with have no guarantees: [[Asynchronous]] networks have [[Unbounded Delays]]

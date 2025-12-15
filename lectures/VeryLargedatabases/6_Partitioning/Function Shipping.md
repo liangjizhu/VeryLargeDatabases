@@ -1,0 +1,1 @@
+A distributed [[Queries]] processing strategy where the computation (function or query) is sent to the node that stores the data, instead of transferring the data across the network.

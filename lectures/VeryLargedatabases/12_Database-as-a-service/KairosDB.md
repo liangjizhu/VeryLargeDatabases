@@ -1,0 +1,1 @@
+A distributed time-series database designed for storing and querying time-stamped data at scale.

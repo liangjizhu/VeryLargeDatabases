@@ -1,0 +1,1 @@
+A client-centric [[Consistent]] guarantee ensuring that a client always sees the updates it has written.

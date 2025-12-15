@@ -1,0 +1,1 @@
+Executing queries over vector representations of data, where items are stored as high-dimensional numeric vectors.

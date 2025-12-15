@@ -1,0 +1,1 @@
+A mechanism or component is tightly coupled to the internal storage implementation of a system.

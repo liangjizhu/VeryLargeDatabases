@@ -1,0 +1,1 @@
+An indexing strategy in distributed databases where a single logical index is built across all nodes, rather than each node maintaining only its own local index.

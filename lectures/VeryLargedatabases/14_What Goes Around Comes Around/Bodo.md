@@ -1,0 +1,1 @@
+A high-performance Python compiler that accelerates DataFrame workloads (e.g. pandas) using automatic parallelization.

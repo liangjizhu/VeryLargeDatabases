@@ -1,0 +1,1 @@
+A distributed, [[ACID - Properties of a Transaction]]-compliant, [[Key-Value Store]] designed to provide strict serializable transactions across a sharded, multi-node cluster. It is known for its strong correctness guarantees, layered architecture, and extremely reliable behaviour under failures.

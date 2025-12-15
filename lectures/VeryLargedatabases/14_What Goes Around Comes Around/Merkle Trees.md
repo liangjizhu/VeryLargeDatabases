@@ -1,0 +1,1 @@
+Hash-based tree data structures used to verify data integrity efficiently.

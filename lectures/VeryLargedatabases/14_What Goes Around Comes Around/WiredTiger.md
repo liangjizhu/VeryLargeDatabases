@@ -1,0 +1,1 @@
+A high-performance [[Storage Engine]] used in databases, most notably as the default storage engine in [[MongoDB]].

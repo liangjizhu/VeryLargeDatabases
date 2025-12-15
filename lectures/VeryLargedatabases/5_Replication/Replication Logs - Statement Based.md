@@ -1,0 +1,7 @@
+- For [[SQL]]: INSERT, UPDATE or DELETE statement is forwarded to followers
+- Problems:
+	- [[Nondeterministic Function]], NOW() or RAND()
+	- Autoincrementing columns and concurrent updates
+	- Statements with side effects ([[Triggers]], ...)
+- Used in [[MySQL]] prior to v5.1, but now [[Row-Based Replication]] is mostly used
+- [[VoltDB]] uses this, but transactions must be deterministic (through a global serial order controller)

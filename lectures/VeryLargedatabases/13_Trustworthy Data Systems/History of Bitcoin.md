@@ -1,0 +1,10 @@
+- [[Bitcoin]]: A [[P2P Networks]] Electronic Cash System
+	- Cryptocurrency and payment system
+	- [[Blockchains]] is the infrastructure
+- Since then
+	- Many [[Blockchains]]: [[Ethereum]] in 2013, [[Ripple]] in 2014, ...
+	- Increasing use for high-risk investment
+		- Initial Coin Offerings
+	- But also in fraudulent or illegal activities !
+		- Scam, purchase on the dark web, money laundering, tax evasion, ...
+	- Warnings from market authorities and beginning of regulation

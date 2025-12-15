@@ -1,0 +1,1 @@
+Is the resistance to the flow of alternating current (AC) in an electrical system.

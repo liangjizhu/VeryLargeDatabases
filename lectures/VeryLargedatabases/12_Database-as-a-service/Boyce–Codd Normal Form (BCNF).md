@@ -1,0 +1,1 @@
+Refers to a [[Relational Database]] schema that satisfies Boyce–Codd Normal Form, a strong form of normalisation that reduces redundancy and update anomalies.

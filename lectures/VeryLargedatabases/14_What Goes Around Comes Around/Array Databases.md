@@ -1,0 +1,14 @@
+Database systems designed to store and [[Queries]] multi-dimensional array data efficiently.
+- "array" means all variants:
+	- vectors (one dimension)
+	- matrices (two dimensions)
+	- tensors (three or more dimensions)
+- Example: Geodata (latitude, longitude, time, [vector-of-values])
+- [[Genomic Sequencing]] and [[Computational Fluid Dynamics (CFD)]]
+- Arrays are also the core of most Machine Learning data sets (embeddings)
+- [[Rasdaman]] and [[KDB+]] are old systems
+- Newer array [[Database Management Systems (DBMS)]] include [[SciDB]] and [[TileDB]]
+- [[Hierarchical Data Format (HDF5)]] and [[NetCDF]] are popular array file formats for scientific data
+- Array [[Database Management Systems (DBMS)]] are a niche market that has only seen adoption in specific verticals
+- [[SQL]] includes support for ordered arrays as first-class data types
+- [[SQL]]: 2023 allows [[SQL]] to represent arrays with arbitrary dimensions using integer-based coordinates

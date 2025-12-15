@@ -1,0 +1,1 @@
+A Microsoft [[SQL Server]] feature for high availability and disaster recovery, using replicated database copies with automatic failover.

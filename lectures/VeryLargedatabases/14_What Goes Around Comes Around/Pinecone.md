@@ -1,0 +1,1 @@
+A managed [[Vector Databases]] service designed for storing and querying high-dimensional vectors using [[Approximate Nearest Neighbor (ANN)]] search.

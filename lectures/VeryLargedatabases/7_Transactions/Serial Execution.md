@@ -1,0 +1,1 @@
+Running transactions one at a time, in a strict sequence, with no interleaving of operations. Only when one transaction finishes does the next one begin.

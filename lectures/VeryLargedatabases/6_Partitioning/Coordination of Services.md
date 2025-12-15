@@ -1,0 +1,5 @@
+- Mechanisms that ensure multiple distributed components work together correctly, especially when they need to agree on shared state, roles or actions.
+- How do clients know about changes ?
+- ![[Apache ZooKeeper]]
+- ![[Gossip Protocol]]
+- ![[Virtual Partition Protocol]]

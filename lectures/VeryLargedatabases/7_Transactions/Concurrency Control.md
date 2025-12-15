@@ -1,0 +1,1 @@
+The techniques a database or distributed system uses to ensure correctness when multiple transactions execute at the same time. Its goal is to prevent anomalies and guarantee a safe, consistent outcome despite concurrent access to shared data.

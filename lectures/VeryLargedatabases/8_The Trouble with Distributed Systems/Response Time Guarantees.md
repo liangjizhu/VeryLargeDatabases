@@ -1,0 +1,5 @@
+- [[Hard Real-Time Systems]]: There is a specified deadline
+- A [[Real-Time Operating System (RTOS)]] that allows processes to be scheduled with a guaranteed allocation of CPU time in specified intervals is needed
+- C programs
+- Developing [[Real-Time Operating System (RTOS)]] is very expensive and they are most commonly used in safety-critical embedded devices
+- [[Garbage Collection]] is a challenge in real-time

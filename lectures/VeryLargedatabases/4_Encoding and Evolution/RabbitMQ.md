@@ -1,0 +1,1 @@
+An open-source [[Message Broker]] that implements [[Message Queue]] and routing, commonly using [[AMQP]].

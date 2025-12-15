@@ -1,0 +1,9 @@
+- Time is used "everywhere"
+	- When did something happen ?
+	- What happened first and what happened later ?
+	- Bank transactions, e-mail, ...
+- Trivial for a single computer
+- More difficult in a [[Distributed System]]
+	- Communication takes time
+	- What is the time ?
+		- No universally correct time

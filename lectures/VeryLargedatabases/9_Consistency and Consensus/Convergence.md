@@ -1,0 +1,1 @@
+Property of a distributed or replicated system where all replicas eventually reach the same state, provided no new updates occur.

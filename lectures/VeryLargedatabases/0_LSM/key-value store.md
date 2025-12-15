@@ -1,1 +1,0 @@
-Type of database that stores data as a collection of [[key-value pairs]], where a unique key is used to retrieve an associated value.

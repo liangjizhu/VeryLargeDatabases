@@ -1,0 +1,1 @@
+A commercial [[Relational Database Management System (RDBMS)]] developed by IBM. It is the direct successor to [[System R (IBM)]], and one of the earliest and most influential relational databases.

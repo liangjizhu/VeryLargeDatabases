@@ -1,0 +1,6 @@
+- Working with [[Distributed System]] is fundamentally different from writing software on a single computer
+- Get a taste of the problems that arise in practise
+- Get an understanding of the things we can and cannot rely on
+- Software running on a single computer has predictable behaviour, unless there are bugs in the software
+- Some parts of the system that are broken: [[Partial Failure]]
+- This together with [[Non-Determinism]] makes [[Distributed System]] hard to work with

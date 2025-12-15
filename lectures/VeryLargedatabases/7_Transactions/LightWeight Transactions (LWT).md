@@ -1,0 +1,1 @@
+A form of conditional, atomic [[Compare-And-Set]] operations used in distributed databases — most famously [[Apache Cassandra]] —to provide linearisable updates without implementing full multi-statement [[ACID - Properties of a Transaction]] transactions.

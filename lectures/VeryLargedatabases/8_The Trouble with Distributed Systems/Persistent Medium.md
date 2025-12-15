@@ -1,0 +1,1 @@
+A storage medium that retains data even after power loss, crashes or restarts.

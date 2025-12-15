@@ -1,0 +1,1 @@
+Are human languages used for everyday communication, such as English, Spanish or Norwegian.

@@ -1,0 +1,1 @@
+An operating system designed to guarantee deterministic, predictable timing behaviour, meaning it can respond to events within strict, predefined time limits.

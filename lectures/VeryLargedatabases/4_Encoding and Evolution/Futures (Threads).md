@@ -1,0 +1,1 @@
+Futures are abstractions representing the result of an asynchronous computation, often executed in separate threads.

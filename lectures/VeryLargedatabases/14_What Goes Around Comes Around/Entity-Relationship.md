@@ -1,0 +1,1 @@
+A conceptual modeling approach used to describe data structures and relationships in a system, typically during database design.

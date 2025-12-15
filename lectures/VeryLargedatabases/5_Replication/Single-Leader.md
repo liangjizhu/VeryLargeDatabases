@@ -1,0 +1,1 @@
+A [[Replication]] model where one node (leader) handles all writes, and followers replicate data from it.

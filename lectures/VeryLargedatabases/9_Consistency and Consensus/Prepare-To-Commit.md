@@ -1,0 +1,1 @@
+The first phase of the [[Two-Phase Commit (2PC)]] protocol, in which the coordinator asks all participating nodes whether they are able to commit a transaction.

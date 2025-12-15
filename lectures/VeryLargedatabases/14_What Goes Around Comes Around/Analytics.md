@@ -1,0 +1,1 @@
+Process of examining data to extract insights, patterns and trends.

@@ -1,0 +1,1 @@
+A property where repeating an operation multiple times has the same effect as doing it once.

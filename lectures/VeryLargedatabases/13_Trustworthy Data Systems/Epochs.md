@@ -1,0 +1,1 @@
+Logical time intervals or versions used in [[Distributed System]] to group operations, data or system states and reason about ordering and [[Consistency]].

@@ -1,0 +1,1 @@
+A strategy in [[Distributed System]] where workload is spread across multiple nodes so that no single node becomes a bottleneck.

@@ -1,0 +1,1 @@
+Foundational research paper on replicated data and [[Quorum]]-based consistency in distributed systems, introducing early models for fault tolerance and replica control.

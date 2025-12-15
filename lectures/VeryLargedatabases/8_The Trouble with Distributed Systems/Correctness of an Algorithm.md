@@ -1,0 +1,4 @@
+- Example: Lock using [[Fencing Tokens]]. Properties:
+	- [[Uniqueness]]: No two requests for a [[Fencing Tokens]] return the same value
+	- [[Monotonic Sequence]]: If request **x** returned token **tx**, and request **y** returned token **ty** and **x** completed before **y** began, then **tx < ty**
+	- [[Availability]]: A node that requests a [[Fencing Tokens]] and does not crash, eventually receives a response

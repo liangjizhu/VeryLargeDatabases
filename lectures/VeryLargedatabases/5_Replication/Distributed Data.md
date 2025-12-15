@@ -1,0 +1,6 @@
+- [[Scalability]] - [[Partitioning]] - Spread the load across multiple machines
+- [[Fault-Tolerant or Resilient]] - [[Replication]] - Takeover when one machine fails
+- [[Latency]] - [[Locality]] to the application when data is distributed globally
+- [[Shared-Nothing]] - Every computer has all it needs
+- [[Shared-Disk]] - Many computers share disk through network
+- [[NUMA]] - many CPUs, but [[NUMA]] - each CPU has its "local" memory

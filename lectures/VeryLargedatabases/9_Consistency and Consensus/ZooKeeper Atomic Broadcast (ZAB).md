@@ -1,0 +1,1 @@
+the consensus and replication protocol used by [[Apache ZooKeeper]] to provide strongly consistent, totally ordered updates to replicated state.

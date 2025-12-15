@@ -1,0 +1,1 @@
+A [[Consistent]] hashing algorithm implementation widely used in [[Distributed System]]—especially in caching systems like [[MemCached]]—to evenly distribute keys across servers and minimise data movement when nodes are added or removed.

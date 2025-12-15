@@ -1,0 +1,1 @@
+Ability to perform multiple computations or operations at the same time, often across multiple processors, cores or nodes.

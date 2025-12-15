@@ -1,0 +1,6 @@
+- Programming model with independent [[Actors]] and messages.
+- [[Actors]] may continue when the message is sent. No returned value from messages.
+- Messages may be lost and automatically resent
+- The same messages used internally or distributed
+- [[Akka (Java)]], [[Erlang OTP]], [[Orleans]]
+- Must solve [[Schemas]] evolution without much help from the system

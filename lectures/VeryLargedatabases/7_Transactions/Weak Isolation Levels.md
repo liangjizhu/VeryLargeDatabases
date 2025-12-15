@@ -1,0 +1,6 @@
+- [[Concurrency]] issues ([[Race Conditions]]) when one [[Transactions]] reads data that is concurrently modified by another [[Transactions]]
+- [[Concurrency]] bugs are hard to find by testing
+- Thus, [[Transactions]] [[Isolation]]: [[Transactions]] should feel that they are the sole users running
+- We need to develop a good understanding of the kinds of [[Concurrency]] problems that exist, and how to prevent them
+- [[Isolation Levels]] and their problems and properties follow
+- For Programming read your [[SQL]] system's manual

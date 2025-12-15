@@ -1,0 +1,4 @@
+- Every CPU core has its own memory cache and store buffer. Memory access first goes to the cache by default and any changes are [[Asynchronous]]ly written out to main memory
+- The reason for dropping [[Linearizability]] is [[Performance]], not [[Fault-Tolerant or Resilient]]
+- The same is true of many distributed databases that choose not to provide linearizable guarantees: They do so primarily to increase [[Performance]]. not so much for [[Fault-Tolerant or Resilient]]
+- If you want [[Linearizability]], the response time of read and write requests is at least proportional to the uncertainty of delays in the network

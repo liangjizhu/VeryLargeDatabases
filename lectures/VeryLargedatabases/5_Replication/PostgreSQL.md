@@ -1,0 +1,1 @@
+Is an open-source [[Relational Database Management System (RDBMS)]] known for reliability, extensibility and SQL compliance.

@@ -1,0 +1,9 @@
+- [[Hierarchical Model]] (example: [[IMS System]]): late 1960s - 1970s
+- [[Network Model]] (example: [[CODASYL]]): 1970s
+- [[Relational Model]]: 1970s and early 1980s
+- [[Entity-Relationship]]: 1970s
+- [[Extended (Nested) Relational Databases]]: 1980s
+- [[Semantic]]: late 1970s and 1980s
+- [[Object-Oriented Databases]]: late 1980s and early 1990s
+- [[Object-Relational]]: late 1980s and early 1990s
+- [[Semi-Structured]] (example: [[XML]]): late 1990s and 2000s

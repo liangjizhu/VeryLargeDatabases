@@ -1,0 +1,1 @@
+A correctness property that ensures a process decides or delivers at most one value and that value must be well-formed and valid (i.e., not fabricated or duplicated).

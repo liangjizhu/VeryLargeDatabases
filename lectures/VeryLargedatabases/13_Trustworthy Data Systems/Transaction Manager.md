@@ -1,0 +1,1 @@
+A component that coordinates the execution of [[Transactions]] to ensure correctness properties such as [[Atomicity]], [[Consistency]], [[Isolation]] and [[Durability]] ([[ACID - Properties of a Transaction]]).

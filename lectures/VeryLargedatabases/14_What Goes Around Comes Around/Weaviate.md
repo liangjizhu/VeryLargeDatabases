@@ -1,0 +1,1 @@
+An open-source vector database that combines vector similarity search with structured and [[Semantic]] querying.

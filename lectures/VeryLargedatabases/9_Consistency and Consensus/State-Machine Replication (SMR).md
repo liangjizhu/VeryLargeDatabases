@@ -1,0 +1,1 @@
+A technique for building [[Fault-Tolerant or Resilient]] [[Distributed System]] by replicating a deterministic state machine across multiple nodes and ensuring that all replicas execute the same operations in the same order.

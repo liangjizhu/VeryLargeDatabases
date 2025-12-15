@@ -1,0 +1,1 @@
+A pioneering [[Relational Database Management System (RDBMS)]] developed by IBM in the 1970s. It was the first implementation of [[SQL]] and introduced many fundamental concepts that modern databases still use today.

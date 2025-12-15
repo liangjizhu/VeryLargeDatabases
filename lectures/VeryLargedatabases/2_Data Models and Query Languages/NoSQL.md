@@ -1,11 +1,11 @@
 - Not Only SQL
-	- [[key-value store]]
+	- [[Key-Value Store]]
 	- [[Document-Oriented Databases]] (JSON)
 	- [[Graph Databases]]
 	- [[Extended (Nested) Relational Databases]]
 - Performance for simple operations
 - [[Scalability]] (Sharding)
 - Free and open source ?
-- Specialised [[query]] operations
+- Specialised [[Queries]] operations
 - No schema ?
 - Frustration with [[SQL]] model. More dynamic and expressive model

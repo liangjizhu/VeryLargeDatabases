@@ -1,0 +1,1 @@
+A [[PostgreSQL]] extension that adds support for vector data types and similarity search.

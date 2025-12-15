@@ -1,0 +1,6 @@
+- Clocks used for duration
+- Clocks used for point in time
+- The time when a message is received is always later than the time when it is sent, but due to variable delays in the network, we don't know how much later
+- Makes it difficult to determine the order in which things happened when multiple machines are involved
+- [[Network Time Protocol (NTP)]] to synchronize clocks
+- Servers may use GPS receivers

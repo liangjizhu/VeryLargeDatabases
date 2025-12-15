@@ -1,0 +1,1 @@
+A security property that ensures information is accessible only to authorised parties and not disclosed to unauthorised users.

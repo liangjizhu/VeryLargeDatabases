@@ -1,0 +1,1 @@
+The property that each item, identifier, event, or value is distinct and not reused.

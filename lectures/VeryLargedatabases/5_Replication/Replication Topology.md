@@ -1,0 +1,1 @@
+Describes how replicas are organised and how updates flow between them in a [[Distributed System]].

@@ -1,0 +1,5 @@
+- Informally, the goals is simply to get several nodes to agree on something
+- Leader election
+- Atomic commit
+- On a single node, [[Transactions]] commitment crucially depends on the order in which the [[Log]] is durably written to disk: Operations + Commit Log Record
+- A [[Transactions]] commit mus be irrevocable - You are not allowed to change your mind and retroactively abort a [[Transactions]] after it has been committed

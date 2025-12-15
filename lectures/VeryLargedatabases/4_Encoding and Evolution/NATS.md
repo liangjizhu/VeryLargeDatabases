@@ -1,0 +1,1 @@
+A lightweight, high-performance messaging system for publish–subscribe and request–reply communication.

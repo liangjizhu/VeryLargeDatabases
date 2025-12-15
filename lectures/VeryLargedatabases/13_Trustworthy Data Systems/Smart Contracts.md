@@ -1,0 +1,1 @@
+Programs stored and executed on a [[Blockchains]] that automatically enforce rules and agreements when predefined conditions are met.

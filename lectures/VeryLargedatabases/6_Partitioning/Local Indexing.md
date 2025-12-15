@@ -1,0 +1,1 @@
+An indexing strategy used in distributed databases where each node maintains an index only for the data it stores locally.

@@ -1,0 +1,1 @@
+A high-speed cache in a computer's Memory Management Unit (MMU) that stores recent translations of virtual memory addresses to physical memory addresses,  drastically speeding up memory access by avoiding slow page table lookups in main memory, acting as a vital bridge between the CPU and the paging system.

@@ -1,0 +1,1 @@
+An open-source, distributed [[SQL]] database designed for global [[Consistent]], high performance, high [[Availability]] and horizontal [[Scalability]]. It is often compared to [[Google Spanner]] and [[CockRoachDB]], as it aims to combine strong [[Consistent]] + [[SQL]] + distributed [[Fault-Tolerant or Resilient]].

@@ -1,0 +1,1 @@
+Are graph-structured systems where users (nodes) are connected by relationships (edges).

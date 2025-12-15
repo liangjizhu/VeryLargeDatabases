@@ -1,0 +1,6 @@
+- Also called [[Goldfinger attack]]
+	- Enables the attacker to invalidate valid [[Transactions]] and double spend funds
+- How
+	- By holding more than 50% of the total computing power for mining
+- Solution: Monitoring by the community
+	- In January 2014, [[Ghash.io]] reached 42%, then dropped to 9% after the [[Bitcoin]] community alert

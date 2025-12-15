@@ -1,0 +1,1 @@
+An open-source, enterprise-grade search platform built on top of [[Apache Lucene]]. It provides powerful indexing, search and analytics capabilities for large amounts of text and structured data.

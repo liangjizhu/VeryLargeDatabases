@@ -1,0 +1,1 @@
+An in-memory [[Relational Database]] system designed for high-performance transactional and analytical workloads ([[Hybrid Transactional Analytical Processing (HTAP)]]). 

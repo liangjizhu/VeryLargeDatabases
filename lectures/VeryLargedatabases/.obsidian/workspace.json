@@ -6,18 +6,19 @@
       {
         "id": "3b99b3d69f815b75",
         "type": "tabs",
-        "dimension": 50.158328055731474,
         "children": [
           {
             "id": "88fbc2824a5a3e9f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/4_Encoding and Evolution.pdf"
+                "file": "0_LSM/SSDs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4_Encoding and Evolution"
+              "icon": "lucide-file",
+              "title": "SSDs"
             }
           },
           {
@@ -30,27 +31,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann (z-lib.org)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "36f6c3bd0c22f8cb",
-        "type": "tabs",
-        "dimension": 49.841671944268526,
-        "children": [
-          {
-            "id": "9cd6ec5b1c73bfa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_Encoding and Evolution/4_Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_Index"
             }
           }
         ]
@@ -110,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42bc2745d06dc5b5",
@@ -127,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wear leveling.md",
+                "file": "0_LSM/SSDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wear leveling"
+              "title": "Backlinks for SSDs"
             }
           },
           {
@@ -202,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,89 +194,54 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "8f5ce6107da4e07b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "22c5b6de40ff46c8",
-        "type": "window",
-        "children": [
-          {
-            "id": "f72793016dd8c721",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d1afe73e4e0cc4e3",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 394,
-        "y": 202,
-        "width": 716,
-        "height": 777,
-        "maximize": true,
-        "zoom": 3
-      }
-    ]
-  },
-  "active": "d1afe73e4e0cc4e3",
+  "active": "c07f92a14e259aaa",
   "lastOpenFiles": [
-    "4_Encoding and Evolution/4_Index.md",
-    "Web Services.md",
-    "WSDL.md",
-    "SOAP.md",
-    "2_Data Models and Query Languages/RESTful HTTP API.md",
-    "Dataflow through Services REST or RPC.md",
-    "AJAX.md",
-    "SSL or TLS.md",
-    "URLs.md",
-    "HTTP.md",
-    "JavaScript.md",
-    "2_Data Models and Query Languages/CSS.md",
-    "HTML.md",
-    "Microservice Architectures.md",
-    "Dataflow through Databases.md",
-    "Pasted image 20251209174933.png",
-    "Advantages of Using Schema.md",
-    "3_Storage and Retrieval/Schemas.md",
-    "Compile-Time Type Checking.md",
-    "Reader's and Writer's Schema.md",
-    "Pasted image 20251209174347.png",
-    "Apache Avro.md",
-    "Pasted image 20251209174210.png",
-    "Schema Evolution.md",
-    "Thrift and Protocol Buffers.md",
-    "Protocol Buffers.md",
-    "Pasted image 20251209173805.png",
-    "Apache Thrift.md",
-    "Thrift's CompactProtocol.md",
-    "Pasted image 20251209173740.png",
-    "Thrift's BinaryProtocol.md",
-    "Pasted image 20251209173714.png",
-    "Pasted image 20251209173456.png",
-    "Pasted image 20251209173102.png",
-    "Pasted image 20251209172156.png",
-    "Resources/4_Encoding and Evolution.pdf",
+    "0_LSM/Parallel Input or Output.md",
+    "0_LSM/SSDs.md",
+    "Resources/14_What Goes Around Comes Around.pdf",
+    "14_What Goes Around Comes Around/WiredTiger.md",
+    "14_What Goes Around Comes Around/Comments from Stonebraker or Pavlo.md",
+    "14_What Goes Around Comes Around/Enterprise Decision Making.md",
+    "14_What Goes Around Comes Around/Large Language Models (LLMs).md",
+    "14_What Goes Around Comes Around/Natural Languages (NLs).md",
+    "14_What Goes Around Comes Around/Out-Of-Box Experience.md",
+    "14_What Goes Around Comes Around/14_Index.md",
+    "14_What Goes Around Comes Around/Key Takeaways.md",
+    "14_What Goes Around Comes Around/Blockchain Databases.md",
+    "14_What Goes Around Comes Around/ResilientDB.md",
+    "14_What Goes Around Comes Around/BigChainDB.md",
+    "14_What Goes Around Comes Around/Fluree.md",
+    "14_What Goes Around Comes Around/Merkle Trees.md",
+    "14_What Goes Around Comes Around/Ledger.md",
+    "13_Trustworthy Data Systems/BlockchainDB.md",
+    "14_What Goes Around Comes Around/Hardware Accelerators.md",
+    "14_What Goes Around Comes Around/DeepGreenDB.md",
+    "14_What Goes Around Comes Around/GPU.md",
+    "14_What Goes Around Comes Around/FPGA.md",
+    "14_What Goes Around Comes Around/NewSQL Systems.md",
+    "14_What Goes Around Comes Around/Vitess Sharding Middleware.md",
+    "14_What Goes Around Comes Around/PlanetScale.md",
+    "14_What Goes Around Comes Around/Clustrix.md",
+    "14_What Goes Around Comes Around/NuoDB.md",
+    "14_What Goes Around Comes Around/Pasted image 20251215153613.png",
+    "14_What Goes Around Comes Around",
+    "Resources/13_Trustworthy Data Systems.pdf",
+    "13_Trustworthy Data Systems/Pasted image 20251215021641.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215021544.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215020606.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215015815.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215014812.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215014508.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215014252.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215013528.png",
+    "13_Trustworthy Data Systems/Pasted image 20251215005301.png",
+    "13_Trustworthy Data Systems",
+    "Resources/12_Database-as-a-service.pdf",
+    "Data ",
+    "12_Database-as-a-service",
+    "Resources/11_Content delivery networks and DHTs.pdf",
     "Resources/10_Time and global states.pdf",
-    "Resources/9_Consistency and Consensus.pdf",
-    "Resources/8_The Trouble with Distributed Systems.pdf",
-    "Resources/7_Transactions.pdf",
-    "Resources/6_Partitioning.pdf",
-    "Resources/5_Replication.pdf",
-    "Resources/5_Clustras Virtual Partition Protocol.pdf",
-    "4_Encoding and Evolution",
-    "Resources/3_Storage and Retrieval.pdf",
-    "3_Storage and Retrieval/Pasted image 20251209164903.png",
+    "11_Content delivery networks and DHTs",
     "3_Storage and Retrieval/Untitled.canvas"
   ]
 }

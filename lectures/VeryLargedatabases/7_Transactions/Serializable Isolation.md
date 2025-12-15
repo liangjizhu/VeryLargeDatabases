@@ -1,0 +1,1 @@
+The strongest [[Isolation Levels]] in databases. It guarantees that the result of executing [[Concurrent]] [[Transactions]] is equivalent to some serial execution (one transaction after another), even though they actually run in parallel.

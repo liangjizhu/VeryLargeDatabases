@@ -1,0 +1,1 @@
+An open-source, column-oriented analytical database designed for high-performance [[Online Analytical Processing (OLAP)]] [[Queries]] on large datasets.

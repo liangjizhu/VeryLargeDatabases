@@ -1,0 +1,1 @@
+Refers to how easy and ready-to-use a system is immediately after installation, with minimal setup or configuration.

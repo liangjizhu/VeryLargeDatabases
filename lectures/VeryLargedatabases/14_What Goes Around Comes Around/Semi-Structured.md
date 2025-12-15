@@ -1,0 +1,1 @@
+Data that does not follow a rigid, fixed schema, but still contains tags, keys or markers that give structure and meaning.

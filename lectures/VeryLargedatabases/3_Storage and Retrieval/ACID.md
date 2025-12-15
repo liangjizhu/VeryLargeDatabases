@@ -1,1 +1,0 @@
-Atomicity, Consistency, Isolation and Durability

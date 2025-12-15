@@ -1,0 +1,6 @@
+- All databases try to make [[Single Object Writes]] atomic
+- Example: writing large [[JSON]] strings may fail halway
+- Use Logging and [[Concurrency Control]]
+- Support increment instead of using [[Read-Modify-Write Cycle]] (some DBs do)
+- [[Compare-And-Set]] and other single-object operations have been dubbed "lightweight [[Transactions]]" or even "[[ACID - Properties of a Transaction]]" for marketing purposes
+- A [[Transactions]] is usually understood as a mechanism for grouping multiple operations on multiple objects into one unit of execution

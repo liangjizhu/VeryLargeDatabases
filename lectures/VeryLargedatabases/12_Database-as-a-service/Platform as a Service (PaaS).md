@@ -1,0 +1,1 @@
+A [[Cloud Computing]] model where the provider supplies a complete platform for developing, deploying and running applications.

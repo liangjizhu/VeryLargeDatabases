@@ -1,0 +1,8 @@
+- Much content is not cacheable
+	- Dynamic data: Stock prices, scores, web cams
+	- [[CGI Scripts]]: Results depend on parameters
+	- [[Cookies]]: Results may depend on past data
+	- [[Secure Sockets Layer (SSL)]]: Encrypted data is not cacheable
+	- Analytics: The owner wants to measure hits
+- Stale data
+	- Or, the overhead of refreshing the cached data

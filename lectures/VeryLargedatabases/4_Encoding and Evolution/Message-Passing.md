@@ -1,0 +1,1 @@
+A communication model where components exchange data by sending messages, rather than sharing memory.

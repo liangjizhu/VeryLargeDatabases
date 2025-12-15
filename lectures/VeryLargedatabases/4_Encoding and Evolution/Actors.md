@@ -1,0 +1,1 @@
+Independent, concurrent entities that encapsulate state and behaviour and communicate only by sending messages in [[Distributed Actor Frameworks]].

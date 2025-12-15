@@ -1,0 +1,1 @@
+A cloud-based, fully managed [[Data Warehousing (DW)]] provided by AWS.

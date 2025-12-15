@@ -1,0 +1,1 @@
+A fast, non-cryptographic hash function commonly used in [[Distributed System]] for hashing keys (e.g., in [[Hash Partitioning]], hash tables, caches).

@@ -1,0 +1,1 @@
+A data architecture that combines the strengths of [[Data Lakes]] and [[Data Warehousing (DW)]] into a single system.

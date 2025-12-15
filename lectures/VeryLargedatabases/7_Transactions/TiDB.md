@@ -1,0 +1,1 @@
+An open-source, distributed [[SQL]] database developed by [[PingCAP]]. It is designed to provide [[MySQL]] compatibility, horizontal [[Scalability]], strong [[Consistent]], and high [[Availability]] — often described as a “[[NewSQL]]” database similar in spirit to [[Google Spanner]].

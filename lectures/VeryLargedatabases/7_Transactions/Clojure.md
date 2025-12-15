@@ -1,0 +1,1 @@
+A modern functional, [[Lisp]]-like programming language that runs on the [[JVM]]. It emphasizes immutability, [[Concurrency]] and simple, expressive code. It was created by Rich Hickey, who also designed the [[Datomic]] database.

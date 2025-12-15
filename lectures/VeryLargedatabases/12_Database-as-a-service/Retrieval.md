@@ -1,0 +1,1 @@
+The process of accessing and obtaining data or resources from a system after they have been stored or indexed.

@@ -1,0 +1,2 @@
+LISt Processor
+One of the oldest and most influential programming languages, created in the late 1950s by John McCarthy. It introduced many concepts that shaped modern programming, especially in functional programming, AI and [[Symbolic Computation]].

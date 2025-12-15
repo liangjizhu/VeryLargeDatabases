@@ -1,0 +1,1 @@
+Refers to a pre-built, ready-to-use blockchain platform that can be adopted without designing a blockchain system from scratch.

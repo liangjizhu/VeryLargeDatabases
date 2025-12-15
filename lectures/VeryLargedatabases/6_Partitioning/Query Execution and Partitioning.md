@@ -1,0 +1,4 @@
+- For single partition [[Queries]] (simple [[Queries]]), each node can independently execute the [[Queries]]
+- Large, complex [[Queries]] can potentially be parallelised across many nodes and by shipping [[SQL]] and / or data across the network ([[Data Shipping]] vs [[Function Shipping]])
+- [[Terradata]] and [[Tandem NonStop SQL]] pionered some of this
+- [[HyperCube]] and [[Clustra]] came from NTNU and used [[Hash Partitioning]] (and [[Replication]])

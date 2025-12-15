@@ -1,0 +1,6 @@
+- [[Columnar Systems]]: The change to [[Column Stores]] revolutionised [[Online Analytical Processing (OLAP)]] [[Database Management Systems (DBMS)]] architectures
+- [[Cloud-Based Databases]]: The cloud has upended the conventional wisdom on how to build scalable [[Database Management Systems (DBMS)]]
+- [[Data Lakes or Lake Houses]]: Cloud-Based Object Storage using open-source formats will be the [[Online Analytical Processing (OLAP)]] [[Database Management Systems (DBMS)]] - Archetype for the next ten years
+- [[NewSQL Systems]]: Promising, but has not had impact yet
+- [[Hardware Accelerators]]: Perhaps coming soon ?
+- [[Blockchain Databases]]: An inefficient technology looking for an application

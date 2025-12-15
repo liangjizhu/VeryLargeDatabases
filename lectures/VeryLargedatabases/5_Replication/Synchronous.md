@@ -1,0 +1,1 @@
+An operation waits for completion (e.g., ACK from others) before continuing.

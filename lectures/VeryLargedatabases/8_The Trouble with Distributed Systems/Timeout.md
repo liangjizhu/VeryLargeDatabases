@@ -1,0 +1,1 @@
+A mechanism used in [[Distributed System]] and networking where an operation is aborted or retried if no response is received within a specified time interval. It helps systems detect potential failures—though never perfectly—and recover from delays or lost messages.

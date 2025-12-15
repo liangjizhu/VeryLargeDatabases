@@ -1,0 +1,1 @@
+An [[Isolation Levels]] in databases that guarantees that once a transaction reads a row, it will see the same value if it reads that row again, even if other transactions commit changes in the meantime.

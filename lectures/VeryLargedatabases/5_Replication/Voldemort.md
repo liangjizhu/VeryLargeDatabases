@@ -1,0 +1,1 @@
+An open-source, distributed [[Key-Value Store]] inspired by Amazon Dynamo, developed originally at LinkedIn.

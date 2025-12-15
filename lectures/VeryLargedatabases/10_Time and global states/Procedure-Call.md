@@ -1,0 +1,1 @@
+A programming abstraction where a program invokes a procedure (function/method), passes arguments to it, and waits for it to execute and return a result.

@@ -1,0 +1,1 @@
+Occurs in a [[Concurrency]] or [[Distributed System]] when the correctness of the outcome depends on the unpredictable timing or ordering of events—and different [[Interleavings]] may lead to incorrect or inconsistent results.

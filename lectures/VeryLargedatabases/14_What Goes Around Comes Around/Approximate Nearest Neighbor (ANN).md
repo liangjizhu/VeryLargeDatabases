@@ -1,0 +1,1 @@
+Refers to algorithms and data structures that find vectors close to a query vector, but not necessarily the exact closest ones.

@@ -1,0 +1,1 @@
+Clocks on different machines that are adjusted to show approximately the same physical (real-world) time, usually using protocols like [[Network Time Protocol (NTP)]] or [[Precision Time Protocol (PTP)]]. The goal is to keep clock differences (clock skew) within some bounded error.

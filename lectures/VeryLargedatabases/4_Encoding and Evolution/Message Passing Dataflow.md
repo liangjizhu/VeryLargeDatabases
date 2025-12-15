@@ -1,0 +1,10 @@
+- [[Asynchronous]] [[Message-Passing]] systems
+- [[Message Broker]] / [[Message Queue]] / [[Message-Oriented Middleware (MOM)]]  
+- Buffer - More reliable communication
+- Redeliver message to failed servers
+- The sender does not need to know the addresses of receivers
+- Send to more [[Recipients]]
+- Decouples senders and receivers
+- [[Asynchronous]] - Send and Forget
+- One-Way
+- Systems: [[TIBCO]], [[WebSphere]], [[Kafka]], [[NATS]], [[RabbitMQ]]

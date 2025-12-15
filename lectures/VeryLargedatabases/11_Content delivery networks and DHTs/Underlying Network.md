@@ -1,0 +1,1 @@
+Refers to the lower-level communication infrastructure that higher-level systems and protocols rely on to exchange data.

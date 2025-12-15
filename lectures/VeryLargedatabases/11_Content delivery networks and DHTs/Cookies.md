@@ -1,0 +1,1 @@
+Small pieces of data stored on the client (browser) and sent with each [[HTTP]] request to the same server, allowing the server to maintain state over the otherwise stateless [[HTTP]] protocol.

@@ -1,0 +1,1 @@
+The process of defining how data is structured, stored and related within an information system.

@@ -1,0 +1,2 @@
+[[The 51% Attack]]
+A type of attack on a blockchain or [[Distributed Ledger System]] where an attacker controls significant resources and is willing to lose money in order to damage or disrupt the system.

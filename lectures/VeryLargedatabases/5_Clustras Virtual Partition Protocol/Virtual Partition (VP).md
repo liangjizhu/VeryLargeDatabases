@@ -1,0 +1,1 @@
+Logical data partition that can be mapped to different physical nodes, enabling flexible data placement, load balancing and reconfiguration.

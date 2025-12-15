@@ -1,0 +1,1 @@
+Lightweight, fast, embeddable scripting language designed to be embedded inside other applications. It is widely used in games, databases and systems that need a small, efficient scripting engine.

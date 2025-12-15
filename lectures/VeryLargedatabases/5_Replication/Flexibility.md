@@ -1,0 +1,1 @@
+The ability of a system or mechanism to adapt to different use cases, configurations or implementations without requiring major changes.

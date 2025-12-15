@@ -1,0 +1,1 @@
+An append-only record of transactions or events that preserves a chronological history.

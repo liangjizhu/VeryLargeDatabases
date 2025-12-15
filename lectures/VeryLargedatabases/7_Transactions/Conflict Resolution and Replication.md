@@ -1,0 +1,4 @@
+- In [[Multi-Leader Replication]] you may have conflicts when parallel updates happen
+- Use application code to resolve conflicts
+- You need to detect the conflicts and this must be provided by the database system using [[Vector Clocks]] or [[Version Vectors]]
+- [[Last Write Wins (LWW)]] is the default solution used in many database systems

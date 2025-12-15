@@ -1,0 +1,1 @@
+Refers to the process where another node assumes the role or responsibility of a failed node to maintain system [[Availability]].

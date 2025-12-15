@@ -1,0 +1,1 @@
+A distributed file system designed to store very large files across clusters of commodity machines, inspired by [[Google File System (GFS)]]

@@ -1,0 +1,1 @@
+A distributed [[Actors]] (virtual [[Actors]]) [[Framework]] by Microsoft for building scalable, fault-tolerant applications.

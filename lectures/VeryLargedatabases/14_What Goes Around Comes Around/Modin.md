@@ -1,0 +1,1 @@
+A distributed DataFrame library that provides a pandas-compatible API, but executes operations in parallel to scale to larger datasets and multiple cores or machines.

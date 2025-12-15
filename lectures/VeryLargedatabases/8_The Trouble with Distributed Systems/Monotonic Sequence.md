@@ -1,0 +1,1 @@
+A sequence of values that never decreases (or never increases, depending on definition) as it progresses.

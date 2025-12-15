@@ -1,0 +1,1 @@
+A system that receives, stores, routes and delivers messages between producers and consumers.

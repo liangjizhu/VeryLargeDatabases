@@ -1,0 +1,1 @@
+A [[SQL]]-based [[Data Lakes]] engine that enables fast analytics directly on data lake storage.

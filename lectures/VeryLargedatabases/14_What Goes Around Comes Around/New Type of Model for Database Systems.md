@@ -1,0 +1,8 @@
+- [[MapReduce]] Systems
+- [[Key-Value Store]]
+- [[Document Databases]]
+- [[Column Family]] / [[Wide-Column]]
+- [[Text Search Engines]]
+- [[Array Databases]]
+- [[Vector Databases]]
+- [[Graph Databases]]

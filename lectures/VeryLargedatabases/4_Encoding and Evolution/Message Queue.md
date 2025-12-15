@@ -1,0 +1,1 @@
+A buffer that stores messages until they are processed by consumers, enabling [[Asynchronous]] communication.

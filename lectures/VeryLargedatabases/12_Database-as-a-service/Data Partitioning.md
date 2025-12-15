@@ -1,0 +1,4 @@
+- Division of relation r into fragments r_1, r_2, ..., r_n that contain sufficient information to reconstruct r
+- ![[Horizontal Partitioning]]
+- ![[Vertical Partitioning]]
+- [[Vertical Partitioning]] and [[Horizontal Partitioning]] can be mixed

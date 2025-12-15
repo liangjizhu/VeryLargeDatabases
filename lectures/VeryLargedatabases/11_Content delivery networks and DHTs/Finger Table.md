@@ -1,0 +1,1 @@
+A routing data structure used in [[Chord]] to enable fast [[Chord - Lookup]] in the [[Overlay Networks]].

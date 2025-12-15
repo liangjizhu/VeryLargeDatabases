@@ -1,0 +1,9 @@
+- Never underestimate the value of good marketing for bad products
+- Beware of [[Database Management Systems (DBMS)]] from large non-[[Database Management Systems (DBMS)]] vendors
+- Do not ignore the [[Out-Of-Box Experience]]
+- Developers need to [[Queries]] their database directly
+- The impact of AI / ML on [[Database Management Systems (DBMS)]] will be significant:
+	- Using [[Natural Languages (NLs)]] to [[Queries]] databases due to advancements in [[Large Language Models (LLMs)]]
+	- English and other [[Natural Languages (NLs)]] are rife with ambiguities and impreciseness
+	- The output of an [[Large Language Models (LLMs)]] is not explainable to a human ([[Enterprise Decision Making]])
+	- Research on using AI / ML to optimise the [[Database Management Systems (DBMS)]]: Indexes and [[Queries]] optimisation

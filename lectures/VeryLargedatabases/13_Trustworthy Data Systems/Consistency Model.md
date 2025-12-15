@@ -1,0 +1,4 @@
+- Strict [[Consistency]]
+- ![[Sequential Consistency]]
+- ![[Eventual Consistency]]
+- ...

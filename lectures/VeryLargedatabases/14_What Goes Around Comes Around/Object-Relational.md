@@ -1,0 +1,1 @@
+Approaches that bridge object-oriented programming models and [[Relational Database]], allowing objects to be stored and queried using relational structures.

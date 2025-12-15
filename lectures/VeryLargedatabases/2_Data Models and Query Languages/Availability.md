@@ -1,0 +1,1 @@
+The property that a system is operational and able to respond to requests when needed.

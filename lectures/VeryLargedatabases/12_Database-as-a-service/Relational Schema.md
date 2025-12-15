@@ -1,0 +1,1 @@
+Defines the structure of a [[Relational Database]] by specifying its tables, attributes and relationships.

@@ -1,0 +1,7 @@
+- The [[Quartz Clock]] in a computer: Drift up to 17 seconds a day
+- Local clock with difference from [[Network Time Protocol (NTP)]] clock: Refuse to synchronise or applications need to accept clock adjustments
+- [[Network Time Protocol (NTP)]] synchronisation can only be as good as the network delay
+- Some [[Network Time Protocol (NTP)]] servers are wrong or missconfigured
+- Leap seconds
+- In virtual machines, the hardware clock is virtualised
+- If you run software on devices that you don't fully control, you cannot trust the clock

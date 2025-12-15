@@ -1,0 +1,1 @@
+The operation of selecting only the data items that satisfy a given condition.

@@ -1,0 +1,1 @@
+Software that enables [[Asynchronous]] communication between distributed systems using messages, often via queues or topics.

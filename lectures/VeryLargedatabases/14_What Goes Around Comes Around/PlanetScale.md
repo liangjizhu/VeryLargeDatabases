@@ -1,0 +1,1 @@
+A cloud-native, serverless [[MySQL]]-compatible database built on [[Vitess Sharding Middleware]].

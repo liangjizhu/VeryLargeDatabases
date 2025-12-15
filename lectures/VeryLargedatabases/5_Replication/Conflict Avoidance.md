@@ -1,0 +1,1 @@
+Techniques that prevent [[Concurrency]] operations from conflicting, instead of detecting and resolving conflicts afterward.

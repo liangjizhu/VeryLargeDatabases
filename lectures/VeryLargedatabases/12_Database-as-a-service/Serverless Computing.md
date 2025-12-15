@@ -1,0 +1,1 @@
+A cloud execution model where developers run code without managing servers, and the cloud provider automatically handles infrastructure, [[Scalability]] and [[Availability]].

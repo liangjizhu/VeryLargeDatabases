@@ -1,0 +1,3 @@
+- [[Crash-Stop Faults]]: Node fails by crashing
+- [[Crash-Recovery Faults]]: Node fails, but recovers from [[Persistent Medium]]
+- [[Byzantine Faults]]: Nodes may do absolutely anything

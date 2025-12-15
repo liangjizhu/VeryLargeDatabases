@@ -1,0 +1,6 @@
+- [[Cloud Computing]]: online, in the sense that they need to be able to serve users with low latency at any time
+- [[High-Performance Computing (HPC)]]: Specialized hardware, where each node is quite reliable, and nodes communicate through shared memory and [[Remote Direct Memory Access (RDMA)]]
+- [[Cloud Computing]]: Networks are often based on IP and Ethernet, arrranged in [[Clos Topologies]]
+- [[Cloud Computing]]: It is reasonable to assume that something is always broken, Advantageous if you can run with something broken
+- Network slow on geographically [[Distributed System]]
+- Building a reliable system from unreliable components

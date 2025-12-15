@@ -1,0 +1,1 @@
+A decentralised storage network that allows users to buy and sell storage space using a [[Blockchains]]-based incentive system.

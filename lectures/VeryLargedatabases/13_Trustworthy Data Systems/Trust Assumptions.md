@@ -1,0 +1,4 @@
+- Client that connect to a [[BlockchainDB]] peer trust their local database and [[Storage Layer]]
+- A [[BlockchainDB]] peer is allowed to perform verification on behalf of all locally connected clients
+- A [[BlockchainDB]] peer can trust the data that is written to or read from a local shard without verification
+- If the majority of the peers that keep a copy of a shard is not malicious, then a client can trust all puts / gets once verified

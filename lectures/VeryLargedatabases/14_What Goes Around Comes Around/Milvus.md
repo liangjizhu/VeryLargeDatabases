@@ -1,0 +1,1 @@
+An open-source vector database designed for high-performance similarity search over high-dimensional vectors.

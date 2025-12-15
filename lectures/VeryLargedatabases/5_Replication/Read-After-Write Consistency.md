@@ -1,0 +1,1 @@
+Guarantees that once a client successfully writes data, all subsequent reads by that same client will see that write.

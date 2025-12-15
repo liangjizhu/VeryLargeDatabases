@@ -1,0 +1,1 @@
+Decentralised digital currency and payment system that operates without a central authority. It uses a [[Blockchains]], a distributed ledger maintained across thousands of nodes, and relies on [[Proof of Work (PoW)]] to reach consensus in an open, adversarial environment.

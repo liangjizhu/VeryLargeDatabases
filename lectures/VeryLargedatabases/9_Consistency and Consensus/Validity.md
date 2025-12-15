@@ -1,0 +1,1 @@
+A correctness property that ensures the value decided or delivered by the system is meaningful and legitimate, typically meaning it originated from a process in the system.

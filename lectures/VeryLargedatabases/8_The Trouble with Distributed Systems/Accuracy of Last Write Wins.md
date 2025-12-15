@@ -1,0 +1,6 @@
+- Could [[Network Time Protocol (NTP)]] synchronization be made accurate enough that such incorrect orderings cannot occur ?
+- Probably not, because [[Network Time Protocol (NTP)]]'s synchronization accuracy is itself limited by the network [[Round-Trip Time (RTT)]]
+- Logical clocks based on incrementing counters are a safer alternative for ordering events
+- Clock readings have a confidence interval
+- [[Network Time Protocol (NTP)]] server gives best possible accuracy is tens of milliseconds and the error may easily spike to over 100 ms when there is network congestion
+- Most systems don't expose clock uncertainty

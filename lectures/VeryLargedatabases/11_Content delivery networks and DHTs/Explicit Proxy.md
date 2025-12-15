@@ -1,0 +1,1 @@
+A [[Proxy]] server that the client is explicitly configured to use. The client knows about the proxy and sends all (or selected) requests directly to it.

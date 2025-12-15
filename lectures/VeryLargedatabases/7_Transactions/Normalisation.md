@@ -1,0 +1,1 @@
+A process in [[Relational Database]] design that organises data into well-structured tables to reduce redundancy and prevent anomalies (update, insert, delete anomalies).

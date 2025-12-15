@@ -1,0 +1,1 @@
+How to decide how many replicas of given content to have and on which servers to place these replicas

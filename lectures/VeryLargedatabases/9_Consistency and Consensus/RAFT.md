@@ -1,0 +1,2 @@
+A [[Consensus Algorithms]] designed to be understandable and practical, while providing the same correctness guarantees as [[Paxos]].
+It is widely used to implement strongly consistent replicated logs and [[State-Machine Replication (SMR)]].

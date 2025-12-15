@@ -1,0 +1,6 @@
+- [[Columnar Systems]]
+- [[Cloud-Based Databases]]
+- [[Data Lakes]] / [[Lake Houses]]
+- [[NewSQL]] Systems
+- [[Hardware Accelerators]]
+- [[BlockchainDB]]

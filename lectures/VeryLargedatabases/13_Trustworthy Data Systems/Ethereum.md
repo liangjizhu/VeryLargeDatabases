@@ -1,0 +1,1 @@
+A decentralised blockchain platform that supports smart contracts—programs that run automatically on the blockchain.

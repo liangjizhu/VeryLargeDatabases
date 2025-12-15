@@ -1,0 +1,1 @@
+A serverless, fully managed cloud [[Data Warehousing (DW)]] provided by Google Cloud.

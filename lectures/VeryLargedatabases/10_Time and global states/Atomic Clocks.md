@@ -1,0 +1,1 @@
+Extremely precise physical clocks that measure time using the natural vibration frequency of atoms (commonly cesium or rubidium). They are the most accurate timekeeping devices available.

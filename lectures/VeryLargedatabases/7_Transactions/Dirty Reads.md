@@ -1,0 +1,1 @@
+When a [[Transactions]] reads data written by another [[Transactions]] that has not yet committed. If the other [[Transactions]] later aborts, the first [[Transactions]] has seen data that never actually existed in the final database state.

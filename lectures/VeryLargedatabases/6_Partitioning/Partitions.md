@@ -1,0 +1,1 @@
+A subset of the data stored on a specific node or shard in a [[Distributed System]]. [[Partitioning]] allows large datasets to be split and distributed across multiple machines.

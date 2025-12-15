@@ -1,0 +1,3 @@
+- Synchronization of clocks internally in a [[Distributed System]]
+- Not necessarily the "correct" time
+- [[Berkeley Algorithm]]

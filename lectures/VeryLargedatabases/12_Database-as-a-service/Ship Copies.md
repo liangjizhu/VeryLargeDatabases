@@ -1,0 +1,1 @@
+A [[Distributed Query Processing]] strategy where copies of data are transferred over the network to another site for processing.

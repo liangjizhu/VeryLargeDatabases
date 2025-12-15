@@ -1,0 +1,1 @@
+A [[Distributed Ledger System]] and payment network designed for fast, low-cost cross-border transactions, mainly used by financial institutions.

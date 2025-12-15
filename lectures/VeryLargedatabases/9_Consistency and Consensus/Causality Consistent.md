@@ -1,0 +1,1 @@
+A [[Consistency]] model that ensures all processes observe causally related operations in the same order, while allowing concurrent (independent) operations to be seen in different orders.

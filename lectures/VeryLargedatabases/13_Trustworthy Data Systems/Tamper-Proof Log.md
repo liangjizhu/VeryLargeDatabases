@@ -1,0 +1,1 @@
+A logging mechanism designed so that entries cannot be altered, deleted, or inserted without detection after they are written.

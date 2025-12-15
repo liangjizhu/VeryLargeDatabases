@@ -1,0 +1,1 @@
+A device that connects multiple computers or servers within a network and forwards packets between them based on MAC addresses. It operates at Layer 2 (Data Link Layer) of the [[OSI Model]], though modern switches can also work at Layer 3.

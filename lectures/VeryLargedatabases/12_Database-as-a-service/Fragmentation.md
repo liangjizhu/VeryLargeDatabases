@@ -1,0 +1,1 @@
+The technique of dividing a database into smaller pieces (fragments) that can be stored and managed across multiple nodes in a distributed system.

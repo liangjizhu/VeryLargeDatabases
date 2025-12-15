@@ -4,7 +4,7 @@
 	- [[LinkedIn]] resume (3 solutions in [[SQL]]):
 		- [[Normalised]]: position, education and contact information, using foreign keys
 		- [[Structured Datatypes]] / [[XML]] / [[JSON]] inside rows. Querying and indexing these
-		- [[JSON]] / [[XML]] documents inside text columns containing Position, Education and Contact Information. Let application [[query]] and decode
+		- [[JSON]] / [[XML]] documents inside text columns containing Position, Education and Contact Information. Let application [[Queries]] and decode
 	- Tables and Foreign Keys
 		![[Pasted image 20251207170742.png]]
 	- ![[JSON]]

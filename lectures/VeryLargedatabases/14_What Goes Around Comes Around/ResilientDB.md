@@ -1,0 +1,1 @@
+A high-[[Performance]] [[Blockchains]] [[Framework]] designed for scalable and [[Fault-Tolerant or Resilient]] distributed [[Ledger]].

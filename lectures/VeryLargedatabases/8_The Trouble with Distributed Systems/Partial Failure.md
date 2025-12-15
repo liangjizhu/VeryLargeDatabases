@@ -1,0 +1,1 @@
+A situation in a [[Distributed System]] where some components fail while others continue to operate normally. Because nodes communicate over unreliable networks, a system must be designed to tolerate the fact that parts of the system can fail independently.

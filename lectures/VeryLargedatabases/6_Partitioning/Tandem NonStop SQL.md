@@ -1,0 +1,1 @@
+A [[Fault-Tolerant or Resilient]], massively parallel relational database system developed by Tandem Computers (later acquired by HP). It is one of the earliest high-[[Availability]] [[SQL]] systems and is still known for its continuous [[Availability]] and [[Scalability]].

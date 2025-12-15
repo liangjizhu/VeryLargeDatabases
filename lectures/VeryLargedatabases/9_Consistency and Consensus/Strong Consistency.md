@@ -1,0 +1,1 @@
+Informal term for [[Linearizability]]

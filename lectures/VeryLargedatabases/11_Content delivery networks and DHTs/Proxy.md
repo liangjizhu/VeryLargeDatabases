@@ -1,0 +1,1 @@
+An intermediary system that sits between a client and a server, forwarding requests and responses between them—often adding extra functionality.

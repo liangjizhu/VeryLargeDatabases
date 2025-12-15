@@ -1,0 +1,1 @@
+A [[Concurrency]] anomaly where a [[Transactions]] re-runs the same [[Queries]] and sees new rows that were inserted (or deleted) by another [[Transactions]] in the meantime — even though the rows it first saw did not change.

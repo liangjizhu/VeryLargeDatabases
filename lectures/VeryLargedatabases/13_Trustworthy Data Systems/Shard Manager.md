@@ -1,0 +1,1 @@
+A component in a sharded (partitioned) [[Distributed System]] that controls how data shards are created, assigned and rebalanced across nodes.

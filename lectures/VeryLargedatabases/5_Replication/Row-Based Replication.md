@@ -1,0 +1,1 @@
+A database [[Replication]] technique where changes to individual rows (inserts, updates, deletes) are replicated to other replicas.

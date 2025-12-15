@@ -1,0 +1,1 @@
+A maintenance mechanism in [[Chord]] that ensures the [[Overlay Networks]] remains correct and connected despite nodes joining, leaving or failing.

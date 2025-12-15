@@ -1,0 +1,1 @@
+Distributed SQL ([[NewSQL]]) database designed for high [[Availability]] and [[Scaling Out (Horizontal Scaling)]].

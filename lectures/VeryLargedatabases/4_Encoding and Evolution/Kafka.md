@@ -1,0 +1,1 @@
+A distributed event streaming platform used for high-throughput, fault-tolerant message publishing and consumption.
